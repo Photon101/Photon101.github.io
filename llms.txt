@@ -20,6 +20,7 @@ Freelancer Python web scraping data pipeline: https://www.freelancer.com/service
 Evidence brief proof: https://github.com/Photon101/evidence-brief-starter
 Evidence brief sample output: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md
 Evidence brief uGig offer: https://ugig.net/for-hire/0da9061f-f8ea-4c2a-853b-f3bd229b6236
+Freelancer evidence brief and market scan: https://www.freelancer.com/service/market_research/source-cited-evidence-brief-and-market-scan?frm=semyi&sb=t
 Evidence brief the402 service: https://api.the402.ai/v1/services/svc_ce4d65edaa244f32
 Evidence brief the402 purchase endpoint: https://api.the402.ai/v1/services/svc_ce4d65edaa244f32/purchase
 QA evidence the402 purchase endpoint: https://api.the402.ai/v1/services/svc_b29748bd84444bb8/purchase

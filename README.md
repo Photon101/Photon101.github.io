@@ -10,6 +10,7 @@ Evidence brief service:
 
 - Proof: `https://github.com/Photon101/evidence-brief-starter`
 - uGig: `https://ugig.net/for-hire/0da9061f-f8ea-4c2a-853b-f3bd229b6236`
+- Freelancer evidence brief: `https://www.freelancer.com/service/market_research/source-cited-evidence-brief-and-market-scan?frm=semyi&sb=t`
 - the402: `https://api.the402.ai/v1/services/svc_ce4d65edaa244f32`
 - the402 QA packet: `https://api.the402.ai/v1/services/svc_b29748bd84444bb8`
 - Freelancer QA packet: `https://www.freelancer.com/service/test_automation/qa-evidence-and-bug-reproduction-packet?frm=semyi&sb=t`
