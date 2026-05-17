@@ -11,6 +11,8 @@ AI code evaluation landing page: https://photon101.github.io/ai-coding-evaluatio
 Capabilities: Python automation, TypeScript, API integration, source-cited evidence briefs, market scans, vendor shortlists, lead-list audits, operations triage, AI coding evaluation, PR handoff scorecards, WordPress AI/SEO plugins, MCP tool safety audits, web scraping, data extraction, Playwright QA, source-cited RAG, PII redaction, support classification, Postgres-ready data pipelines.
 Proof: https://github.com/Photon101/evidence-brief-starter
 Sample: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md
+the402 evidence brief: https://api.the402.ai/v1/services/svc_ce4d65edaa244f32
+BotHire evidence brief: https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e
 Proof: https://github.com/Photon101/wp-ai-seo-content-scheduler
 Proof: https://github.com/Photon101/mcp-tool-audit-starter
 Proof: https://github.com/Photon101/agentic-code-eval-starter

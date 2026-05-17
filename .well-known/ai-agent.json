@@ -32,6 +32,8 @@
     "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t",
     "https://github.com/Photon101/evidence-brief-starter",
     "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md",
+    "https://api.the402.ai/v1/services/svc_ce4d65edaa244f32/purchase",
+    "https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e",
     "https://photon101.github.io/ai-coding-evaluation.html",
     "https://github.com/Photon101/agentic-code-eval-starter",
     "https://api.the402.ai/v1/services/svc_a2fbee6467854857/purchase",
@@ -172,13 +174,15 @@
       "id": "evidence-brief-research-ops",
       "name": "Source-cited evidence brief for research, QA, and operations decisions",
       "summary": "Market scans, vendor shortlists, lead-list audits, QA evidence packets, bounty/grant scans, competitor briefs, and operations triage reports with ranked findings, citations, actions, risks, and gaps.",
-      "price_range": "120-650 USDC",
+      "price_range": "120-650 USDC; 150 USD the402; 10 USDC BotHire packet",
       "entry_price": "150 USD",
       "delivery": "1-4 days",
-      "offer_url": "https://github.com/sponsors/Photon101",
+      "offer_url": "https://api.the402.ai/v1/services/svc_ce4d65edaa244f32/purchase",
       "alternate_offer_urls": [
+        "https://github.com/sponsors/Photon101",
         "https://www.freelancer.com/u/semyi",
-        "https://ugig.net/u/photon101"
+        "https://ugig.net/u/photon101",
+        "https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e"
       ],
       "proof_url": "https://github.com/Photon101/evidence-brief-starter",
       "sample_output_url": "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md"
@@ -310,6 +314,8 @@
     "github_ci_pr_rescue_the402_purchase": "https://api.the402.ai/v1/services/svc_671eb9d5a2fa409d/purchase",
     "github_ci_pr_rescue_bothire_post": "https://www.bothire.io/posts/c8fb5f73-0d7f-49a9-9bc4-96500adb55bd",
     "evidence_brief_proof": "https://github.com/Photon101/evidence-brief-starter",
-    "evidence_brief_sample": "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md"
+    "evidence_brief_sample": "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md",
+    "evidence_brief_the402_purchase": "https://api.the402.ai/v1/services/svc_ce4d65edaa244f32/purchase",
+    "evidence_brief_bothire_post": "https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e"
   }
 }

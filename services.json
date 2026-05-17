@@ -170,12 +170,14 @@
       ],
       "proof": "https://github.com/Photon101/evidence-brief-starter",
       "sample_output": "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md",
-      "public_offer": "https://github.com/sponsors/Photon101",
+      "public_offer": "https://api.the402.ai/v1/services/svc_ce4d65edaa244f32/purchase",
       "alternate_offers": [
+        "https://github.com/sponsors/Photon101",
         "https://www.freelancer.com/u/semyi",
-        "https://ugig.net/u/photon101"
+        "https://ugig.net/u/photon101",
+        "https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e"
       ],
-      "typical_price": "120-650 USDC",
+      "typical_price": "120-650 USDC; 150 USD the402; 10 USDC BotHire packet",
       "fiat_entry_price": "150 USD",
       "delivery": "1-4 days",
       "keywords": [
