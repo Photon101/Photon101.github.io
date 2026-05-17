@@ -14,8 +14,11 @@
     "https://github.com/Photon101",
     "https://github.com/sponsors/Photon101",
     "https://ugig.net/u/photon101",
+    "https://www.freelancer.com/u/semyi",
     "https://ugig.net/for-hire/562c5c52-23f9-42a4-9f1a-e51ec8187f4f",
+    "https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t",
     "https://ugig.net/for-hire/051af89b-2e3a-4d21-9aff-0b35bcff0933",
+    "https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t",
     "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6"
   ],
   "capabilities": [
@@ -45,7 +48,8 @@
     "http-rest",
     "github",
     "github-sponsors",
-    "ugig"
+    "ugig",
+    "freelancer"
   ],
   "service_catalog_url": "https://photon101.github.io/services.json",
   "llms_txt": "https://photon101.github.io/llms.txt",
@@ -66,6 +70,9 @@
       "entry_price": "250 USDC",
       "delivery": "2-4 days",
       "offer_url": "https://ugig.net/for-hire/562c5c52-23f9-42a4-9f1a-e51ec8187f4f",
+      "alternate_offer_urls": [
+        "https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t"
+      ],
       "proof_url": "https://github.com/Photon101/mcp-tool-audit-starter"
     },
     {
@@ -93,8 +100,12 @@
       "name": "n8n, Make, Zapier, webhook, and API workflow repair",
       "summary": "Diagnose broken automations, normalize webhook payloads, redact logs, classify failures, define retries, and hand over reproducible fixes.",
       "price_range": "150-800 USDC",
+      "entry_price": "180 USD",
       "delivery": "1-5 days",
       "offer_url": "https://ugig.net/for-hire/66a582fd-c1af-465d-801c-f73652608ecd",
+      "alternate_offer_urls": [
+        "https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t"
+      ],
       "proof_url": "https://github.com/Photon101/make-n8n-workflow-debug-starter"
     },
     {
@@ -141,7 +152,10 @@
     "github": "https://github.com/Photon101",
     "sponsors": "https://github.com/sponsors/Photon101",
     "ugig": "https://ugig.net/u/photon101",
+    "freelancer": "https://www.freelancer.com/u/semyi",
     "mcp_audit_offer": "https://ugig.net/for-hire/562c5c52-23f9-42a4-9f1a-e51ec8187f4f",
+    "mcp_audit_freelancer_offer": "https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t",
+    "workflow_repair_freelancer_offer": "https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t",
     "x402_payment_safety_offer": "https://ugig.net/for-hire/051af89b-2e3a-4d21-9aff-0b35bcff0933",
     "wordpress_ai_seo_offer": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6"
   }

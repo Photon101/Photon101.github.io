@@ -6,6 +6,9 @@ Homepage: https://photon101.github.io/
 GitHub: https://github.com/Photon101
 Sponsor paid work: https://github.com/sponsors/Photon101
 uGig profile: https://ugig.net/u/photon101
+Freelancer profile: https://www.freelancer.com/u/semyi
+Freelancer MCP safety audit: https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t
+Freelancer n8n/Make/API triage: https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t
 Machine-readable service catalog: https://photon101.github.io/services.json
 Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 
