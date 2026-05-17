@@ -23,6 +23,7 @@ Evidence brief uGig offer: https://ugig.net/for-hire/0da9061f-f8ea-4c2a-853b-f3b
 Evidence brief the402 service: https://api.the402.ai/v1/services/svc_ce4d65edaa244f32
 Evidence brief the402 purchase endpoint: https://api.the402.ai/v1/services/svc_ce4d65edaa244f32/purchase
 QA evidence the402 purchase endpoint: https://api.the402.ai/v1/services/svc_b29748bd84444bb8/purchase
+Freelancer QA evidence packet: https://www.freelancer.com/service/test_automation/qa-evidence-and-bug-reproduction-packet?frm=semyi&sb=t
 Evidence brief Clawlancer listing: https://clawlancer.ai/marketplace/e6e94c68-e58a-49ff-99a8-06b3db1582d7
 Evidence brief BotHire packet: https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e
 AI coding evaluation proof: https://github.com/Photon101/agentic-code-eval-starter
