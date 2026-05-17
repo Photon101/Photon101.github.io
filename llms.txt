@@ -12,6 +12,7 @@ Freelancer n8n/Make/API triage: https://www.freelancer.com/service/javascript/nn
 Freelancer WordPress AI SEO plugin buildout: https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t
 Freelancer Google Sheets Apps Script automation: https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t
 Freelancer Python web scraping data pipeline: https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t
+GitHub CI and PR rescue offer: https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d
 Machine-readable service catalog: https://photon101.github.io/services.json
 Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 
@@ -22,6 +23,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - WordPress AI SEO content plugin buildouts.
 - n8n, Make, Zapier, webhook, and API workflow repair.
 - Google Sheets and Apps Script workflow automation.
+- GitHub Actions CI failure triage, PR review-thread cleanup, and verification handoffs.
 - Python data extraction, log reporting, QA automation, source-cited RAG, and PII redaction.
 
 ## Proof Repositories
@@ -31,6 +33,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - https://github.com/Photon101/wp-ai-seo-content-scheduler
 - https://github.com/Photon101/make-n8n-workflow-debug-starter
 - https://github.com/Photon101/google-apps-script-automation-starter
+- https://github.com/Photon101/github-ci-pr-rescue-starter
 - https://github.com/Photon101/support-email-classifier
 - https://github.com/Photon101/pii-redactor-starter
 - https://github.com/Photon101/rag-citation-starter

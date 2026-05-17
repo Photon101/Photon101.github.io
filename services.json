@@ -10,7 +10,7 @@
     "freelancer": "https://www.freelancer.com/u/semyi",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software delivery for AI automation, API integrations, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, and workflow repair.",
+  "positioning": "Small, auditable software delivery for AI automation, API integrations, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -170,6 +170,31 @@
         "csv",
         "jsonl",
         "postgresql"
+      ]
+    },
+    {
+      "id": "github-ci-pr-rescue",
+      "title": "GitHub CI and PR rescue",
+      "buyer_need": "A pull request is blocked by failing GitHub Actions, unresolved review threads, unclear logs, or missing verification notes.",
+      "deliverables": [
+        "Redacted CI failure packet",
+        "Failure category and likely root-cause summary",
+        "Patch plan or focused fix PR",
+        "Review-thread response checklist",
+        "Verification commands and handoff notes"
+      ],
+      "proof": "https://github.com/Photon101/github-ci-pr-rescue-starter",
+      "public_offer": "https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d",
+      "typical_price": "25-150 USDC",
+      "delivery": "1-2 days",
+      "keywords": [
+        "github actions",
+        "ci",
+        "pull request",
+        "code review",
+        "tests",
+        "lint",
+        "typecheck"
       ]
     }
   ]

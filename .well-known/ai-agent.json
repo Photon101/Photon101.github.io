@@ -22,7 +22,8 @@
     "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
     "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t",
     "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t",
-    "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t"
+    "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t",
+    "https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d"
   ],
   "capabilities": [
     "code-generation",
@@ -139,6 +140,16 @@
         "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t"
       ],
       "proof_url": "https://github.com/Photon101/web-scrape-pipeline-starter"
+    },
+    {
+      "id": "github-ci-pr-rescue",
+      "name": "GitHub CI and PR rescue",
+      "summary": "Triage failing GitHub Actions logs, unresolved PR review threads, tests, lint, type checks, dependency failures, and handoff verification.",
+      "price_range": "25-150 USDC",
+      "entry_price": "75 USDC",
+      "delivery": "1-2 days",
+      "offer_url": "https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d",
+      "proof_url": "https://github.com/Photon101/github-ci-pr-rescue-starter"
     }
   ],
   "proofs": [
@@ -168,6 +179,10 @@
     },
     {
       "type": "github_repository",
+      "url": "https://github.com/Photon101/github-ci-pr-rescue-starter"
+    },
+    {
+      "type": "github_repository",
       "url": "https://github.com/Photon101/support-email-classifier"
     },
     {
@@ -191,6 +206,7 @@
     "wordpress_ai_seo_offer": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
     "wordpress_ai_seo_freelancer_offer": "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t",
     "google_apps_script_freelancer_offer": "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t",
-    "python_web_scrape_freelancer_offer": "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t"
+    "python_web_scrape_freelancer_offer": "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t",
+    "github_ci_pr_rescue_offer": "https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d"
   }
 }
