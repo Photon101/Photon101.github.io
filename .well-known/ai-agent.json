@@ -20,7 +20,8 @@
     "https://ugig.net/for-hire/051af89b-2e3a-4d21-9aff-0b35bcff0933",
     "https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t",
     "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
-    "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t"
+    "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t",
+    "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t"
   ],
   "capabilities": [
     "code-generation",
@@ -117,8 +118,12 @@
       "name": "Google Sheets and Apps Script workflow automation",
       "summary": "Sheet-bound menus, row validation, routing, audit logs, webhook delivery, redaction, and queue processing for small business workflows.",
       "price_range": "180-950 USDC",
+      "entry_price": "220 USD",
       "delivery": "2-7 days",
       "offer_url": "https://ugig.net/for-hire/85892deb-d91b-47c0-86b9-9eb1895c8d94",
+      "alternate_offer_urls": [
+        "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t"
+      ],
       "proof_url": "https://github.com/Photon101/google-apps-script-automation-starter"
     }
   ],
@@ -162,6 +167,7 @@
     "workflow_repair_freelancer_offer": "https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t",
     "x402_payment_safety_offer": "https://ugig.net/for-hire/051af89b-2e3a-4d21-9aff-0b35bcff0933",
     "wordpress_ai_seo_offer": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
-    "wordpress_ai_seo_freelancer_offer": "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t"
+    "wordpress_ai_seo_freelancer_offer": "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t",
+    "google_apps_script_freelancer_offer": "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t"
   }
 }

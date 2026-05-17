@@ -129,7 +129,11 @@
       ],
       "proof": "https://github.com/Photon101/google-apps-script-automation-starter",
       "public_offer": "https://ugig.net/for-hire/85892deb-d91b-47c0-86b9-9eb1895c8d94",
+      "alternate_offers": [
+        "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t"
+      ],
       "typical_price": "180-950 USDC",
+      "fiat_entry_price": "220 USD",
       "delivery": "2-7 days",
       "keywords": [
         "google sheets",
