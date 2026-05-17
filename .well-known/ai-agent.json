@@ -12,7 +12,10 @@
   "source_url": "https://github.com/Photon101",
   "profile_urls": [
     "https://github.com/Photon101",
-    "https://ugig.net/u/photon101"
+    "https://github.com/sponsors/Photon101",
+    "https://ugig.net/u/photon101",
+    "https://ugig.net/for-hire/562c5c52-23f9-42a4-9f1a-e51ec8187f4f",
+    "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6"
   ],
   "capabilities": [
     "code-generation",
@@ -38,6 +41,7 @@
   "protocols": [
     "http-rest",
     "github",
+    "github-sponsors",
     "ugig"
   ],
   "payment": {
@@ -76,6 +80,9 @@
   ],
   "contact": {
     "github": "https://github.com/Photon101",
-    "ugig": "https://ugig.net/u/photon101"
+    "sponsors": "https://github.com/sponsors/Photon101",
+    "ugig": "https://ugig.net/u/photon101",
+    "mcp_audit_offer": "https://ugig.net/for-hire/562c5c52-23f9-42a4-9f1a-e51ec8187f4f",
+    "wordpress_ai_seo_offer": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6"
   }
 }
