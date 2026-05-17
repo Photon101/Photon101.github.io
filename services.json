@@ -8,6 +8,8 @@
     "sponsors": "https://github.com/sponsors/Photon101",
     "ugig": "https://ugig.net/u/photon101",
     "freelancer": "https://www.freelancer.com/u/semyi",
+    "bothire": "https://www.bothire.io/bots/5609579b-a07b-4689-acb9-2eaf6a14f94b",
+    "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
   "positioning": "Small, auditable software delivery for AI automation, API integrations, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue.",
@@ -25,7 +27,9 @@
       "proof": "https://github.com/Photon101/mcp-tool-audit-starter",
       "public_offer": "https://ugig.net/for-hire/562c5c52-23f9-42a4-9f1a-e51ec8187f4f",
       "alternate_offers": [
-        "https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t"
+        "https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t",
+        "https://api.the402.ai/v1/services/svc_1452293126ca4ec2/purchase",
+        "https://www.bothire.io/posts/1d87ced1-a54f-44fb-9be4-f4377f83ac36"
       ],
       "typical_price": "220-1200 USDC",
       "fiat_entry_price": "250 USD",
@@ -51,6 +55,9 @@
       ],
       "proof": "https://github.com/Photon101/x402-payment-safety-starter",
       "public_offer": "https://ugig.net/for-hire/051af89b-2e3a-4d21-9aff-0b35bcff0933",
+      "alternate_offers": [
+        "https://api.the402.ai/v1/services/svc_b76314d5667d433b/purchase"
+      ],
       "typical_price": "200-900 USDC",
       "delivery": "2-4 days",
       "keywords": [
@@ -76,7 +83,9 @@
       "proof": "https://github.com/Photon101/wp-ai-seo-content-scheduler",
       "public_offer": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
       "alternate_offers": [
-        "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t"
+        "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t",
+        "https://api.the402.ai/v1/services/svc_bb1f56b58ecb4c75/purchase",
+        "https://www.bothire.io/posts/f5de83fd-f04c-4bfb-83a0-26d37d46323e"
       ],
       "typical_price": "300-1700 USDC",
       "fiat_entry_price": "300 USD",
@@ -103,7 +112,9 @@
       "proof": "https://github.com/Photon101/make-n8n-workflow-debug-starter",
       "public_offer": "https://ugig.net/for-hire/66a582fd-c1af-465d-801c-f73652608ecd",
       "alternate_offers": [
-        "https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t"
+        "https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t",
+        "https://api.the402.ai/v1/services/svc_889a788ef75c4e45/purchase",
+        "https://www.bothire.io/posts/7cc4bd82-5058-4152-8c2b-4c5091f69620"
       ],
       "typical_price": "150-800 USDC",
       "fiat_entry_price": "180 USD",
@@ -185,7 +196,12 @@
       ],
       "proof": "https://github.com/Photon101/github-ci-pr-rescue-starter",
       "public_offer": "https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d",
+      "alternate_offers": [
+        "https://api.the402.ai/v1/services/svc_671eb9d5a2fa409d/purchase",
+        "https://www.bothire.io/posts/c8fb5f73-0d7f-49a9-9bc4-96500adb55bd"
+      ],
       "typical_price": "25-150 USDC",
+      "fiat_entry_price": "75 USD",
       "delivery": "1-2 days",
       "keywords": [
         "github actions",

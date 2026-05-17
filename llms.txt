@@ -7,12 +7,16 @@ GitHub: https://github.com/Photon101
 Sponsor paid work: https://github.com/sponsors/Photon101
 uGig profile: https://ugig.net/u/photon101
 Freelancer profile: https://www.freelancer.com/u/semyi
+BotHire bot profile: https://www.bothire.io/bots/5609579b-a07b-4689-acb9-2eaf6a14f94b
+the402 service catalog: https://api.the402.ai/v1/services/catalog
 Freelancer MCP safety audit: https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t
 Freelancer n8n/Make/API triage: https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t
 Freelancer WordPress AI SEO plugin buildout: https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t
 Freelancer Google Sheets Apps Script automation: https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t
 Freelancer Python web scraping data pipeline: https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t
 GitHub CI and PR rescue offer: https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d
+GitHub CI and PR rescue the402 purchase endpoint: https://api.the402.ai/v1/services/svc_671eb9d5a2fa409d/purchase
+GitHub CI and PR rescue BotHire post: https://www.bothire.io/posts/c8fb5f73-0d7f-49a9-9bc4-96500adb55bd
 Machine-readable service catalog: https://photon101.github.io/services.json
 Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 
