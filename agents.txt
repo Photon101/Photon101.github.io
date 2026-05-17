@@ -3,5 +3,6 @@ Homepage: https://photon101.github.io/
 Manifest: https://photon101.github.io/.well-known/ai-agent.json
 GitHub: https://github.com/Photon101
 uGig: https://ugig.net/u/photon101
-Capabilities: Python automation, TypeScript, API integration, web scraping, data extraction, Playwright QA, source-cited RAG, PII redaction, support classification, Postgres-ready data pipelines.
-
+Capabilities: Python automation, TypeScript, API integration, WordPress AI/SEO plugins, MCP tool safety audits, web scraping, data extraction, Playwright QA, source-cited RAG, PII redaction, support classification, Postgres-ready data pipelines.
+Proof: https://github.com/Photon101/wp-ai-seo-content-scheduler
+Proof: https://github.com/Photon101/mcp-tool-audit-starter
