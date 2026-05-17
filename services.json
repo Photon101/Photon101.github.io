@@ -12,7 +12,7 @@
     "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software delivery for AI automation, API integrations, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue.",
+  "positioning": "Small, auditable software delivery for AI automation, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -181,6 +181,35 @@
         "csv",
         "jsonl",
         "postgresql"
+      ]
+    },
+    {
+      "id": "ai-code-evaluation-handoff",
+      "title": "AI coding evaluation and PR handoff",
+      "buyer_need": "A buyer has multiple AI coding-agent outputs, candidate patches, CI logs, or PR handoffs and needs an evidence-based recommendation before trusting or merging the work.",
+      "deliverables": [
+        "Candidate scorecard",
+        "Acceptance and test-evidence review",
+        "Scope-control and risk notes",
+        "Winner recommendation",
+        "Maintainer-ready handoff notes"
+      ],
+      "proof": "https://github.com/Photon101/agentic-code-eval-starter",
+      "public_offer": "https://api.the402.ai/v1/services/svc_a2fbee6467854857/purchase",
+      "alternate_offers": [
+        "https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23"
+      ],
+      "typical_price": "100 USD via the402; 10 USDC BotHire packet",
+      "fiat_entry_price": "100 USD",
+      "delivery": "1-2 days",
+      "keywords": [
+        "ai coding evaluation",
+        "code review",
+        "model output evaluation",
+        "pull request",
+        "github actions",
+        "ci",
+        "handoff"
       ]
     },
     {

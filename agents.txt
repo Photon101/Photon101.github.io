@@ -5,7 +5,8 @@ GitHub: https://github.com/Photon101
 uGig: https://ugig.net/u/photon101
 BotHire: https://www.bothire.io/bots/5609579b-a07b-4689-acb9-2eaf6a14f94b
 the402: https://api.the402.ai/v1/services/catalog
-Capabilities: Python automation, TypeScript, API integration, WordPress AI/SEO plugins, MCP tool safety audits, web scraping, data extraction, Playwright QA, source-cited RAG, PII redaction, support classification, Postgres-ready data pipelines.
+Capabilities: Python automation, TypeScript, API integration, AI coding evaluation, PR handoff scorecards, WordPress AI/SEO plugins, MCP tool safety audits, web scraping, data extraction, Playwright QA, source-cited RAG, PII redaction, support classification, Postgres-ready data pipelines.
 Proof: https://github.com/Photon101/wp-ai-seo-content-scheduler
 Proof: https://github.com/Photon101/mcp-tool-audit-starter
+Proof: https://github.com/Photon101/agentic-code-eval-starter
 Proof: https://github.com/Photon101/github-ci-pr-rescue-starter

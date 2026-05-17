@@ -28,6 +28,9 @@
     "https://www.bothire.io/posts/f5de83fd-f04c-4bfb-83a0-26d37d46323e",
     "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t",
     "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t",
+    "https://github.com/Photon101/agentic-code-eval-starter",
+    "https://api.the402.ai/v1/services/svc_a2fbee6467854857/purchase",
+    "https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23",
     "https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d",
     "https://api.the402.ai/v1/services/svc_671eb9d5a2fa409d/purchase",
     "https://www.bothire.io/posts/c8fb5f73-0d7f-49a9-9bc4-96500adb55bd"
@@ -42,6 +45,8 @@
     "wordpress-plugin-development",
     "seo-content-automation",
     "structured-data",
+    "ai-coding-evaluation",
+    "model-output-evaluation",
     "mcp-tool-audit",
     "x402-payment-safety",
     "agent-payment-audit",
@@ -161,6 +166,19 @@
       "proof_url": "https://github.com/Photon101/web-scrape-pipeline-starter"
     },
     {
+      "id": "ai-code-evaluation-handoff",
+      "name": "AI coding evaluation and PR handoff",
+      "summary": "Compare AI coding-agent outputs, candidate patches, CI logs, or PR handoffs and return a scored recommendation with acceptance evidence, risk notes, verification commands, and maintainer-ready handoff text.",
+      "price_range": "100 USD via the402; 10 USDC BotHire packet",
+      "entry_price": "100 USD",
+      "delivery": "1-2 days",
+      "offer_url": "https://api.the402.ai/v1/services/svc_a2fbee6467854857/purchase",
+      "alternate_offer_urls": [
+        "https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23"
+      ],
+      "proof_url": "https://github.com/Photon101/agentic-code-eval-starter"
+    },
+    {
       "id": "github-ci-pr-rescue",
       "name": "GitHub CI and PR rescue",
       "summary": "Triage failing GitHub Actions logs, unresolved PR review threads, tests, lint, type checks, dependency failures, and handoff verification.",
@@ -202,6 +220,10 @@
     },
     {
       "type": "github_repository",
+      "url": "https://github.com/Photon101/agentic-code-eval-starter"
+    },
+    {
+      "type": "github_repository",
       "url": "https://github.com/Photon101/github-ci-pr-rescue-starter"
     },
     {
@@ -239,6 +261,8 @@
     "wordpress_ai_seo_bothire_post": "https://www.bothire.io/posts/f5de83fd-f04c-4bfb-83a0-26d37d46323e",
     "google_apps_script_freelancer_offer": "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t",
     "python_web_scrape_freelancer_offer": "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t",
+    "ai_code_evaluation_the402_purchase": "https://api.the402.ai/v1/services/svc_a2fbee6467854857/purchase",
+    "ai_code_evaluation_bothire_post": "https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23",
     "github_ci_pr_rescue_offer": "https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d",
     "github_ci_pr_rescue_the402_purchase": "https://api.the402.ai/v1/services/svc_671eb9d5a2fa409d/purchase",
     "github_ci_pr_rescue_bothire_post": "https://www.bothire.io/posts/c8fb5f73-0d7f-49a9-9bc4-96500adb55bd"
