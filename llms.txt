@@ -19,6 +19,7 @@ Freelancer Google Sheets Apps Script automation: https://www.freelancer.com/serv
 Freelancer Python web scraping data pipeline: https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t
 Evidence brief proof: https://github.com/Photon101/evidence-brief-starter
 Evidence brief sample output: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md
+Evidence brief uGig offer: https://ugig.net/for-hire/0da9061f-f8ea-4c2a-853b-f3bd229b6236
 Evidence brief the402 service: https://api.the402.ai/v1/services/svc_ce4d65edaa244f32
 Evidence brief the402 purchase endpoint: https://api.the402.ai/v1/services/svc_ce4d65edaa244f32/purchase
 Evidence brief BotHire packet: https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e

@@ -32,6 +32,7 @@
     "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t",
     "https://github.com/Photon101/evidence-brief-starter",
     "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md",
+    "https://ugig.net/for-hire/0da9061f-f8ea-4c2a-853b-f3bd229b6236",
     "https://api.the402.ai/v1/services/svc_ce4d65edaa244f32/purchase",
     "https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e",
     "https://photon101.github.io/ai-coding-evaluation.html",
@@ -181,7 +182,7 @@
       "alternate_offer_urls": [
         "https://github.com/sponsors/Photon101",
         "https://www.freelancer.com/u/semyi",
-        "https://ugig.net/u/photon101",
+        "https://ugig.net/for-hire/0da9061f-f8ea-4c2a-853b-f3bd229b6236",
         "https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e"
       ],
       "proof_url": "https://github.com/Photon101/evidence-brief-starter",
@@ -315,6 +316,7 @@
     "github_ci_pr_rescue_bothire_post": "https://www.bothire.io/posts/c8fb5f73-0d7f-49a9-9bc4-96500adb55bd",
     "evidence_brief_proof": "https://github.com/Photon101/evidence-brief-starter",
     "evidence_brief_sample": "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md",
+    "evidence_brief_ugig_offer": "https://ugig.net/for-hire/0da9061f-f8ea-4c2a-853b-f3bd229b6236",
     "evidence_brief_the402_purchase": "https://api.the402.ai/v1/services/svc_ce4d65edaa244f32/purchase",
     "evidence_brief_bothire_post": "https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e"
   }
