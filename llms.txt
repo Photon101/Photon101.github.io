@@ -17,6 +17,8 @@ Freelancer n8n/Make/API triage: https://www.freelancer.com/service/javascript/nn
 Freelancer WordPress AI SEO plugin buildout: https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t
 Freelancer Google Sheets Apps Script automation: https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t
 Freelancer Python web scraping data pipeline: https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t
+Evidence brief proof: https://github.com/Photon101/evidence-brief-starter
+Evidence brief sample output: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md
 AI coding evaluation proof: https://github.com/Photon101/agentic-code-eval-starter
 AI coding evaluation sample output: https://github.com/Photon101/agentic-code-eval-starter/blob/main/examples/sample-output.md
 AI coding evaluation the402 purchase endpoint: https://api.the402.ai/v1/services/svc_a2fbee6467854857/purchase
@@ -39,6 +41,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - n8n, Make, Zapier, webhook, and API workflow repair.
 - Google Sheets and Apps Script workflow automation.
 - GitHub Actions CI failure triage, PR review-thread cleanup, and verification handoffs.
+- Source-cited evidence briefs for market scans, vendor shortlists, lead-list audits, QA packets, competitor scans, and operations triage.
 - Python data extraction, log reporting, QA automation, source-cited RAG, and PII redaction.
 
 ## Proof Repositories
@@ -48,6 +51,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - https://github.com/Photon101/wp-ai-seo-content-scheduler
 - https://github.com/Photon101/make-n8n-workflow-debug-starter
 - https://github.com/Photon101/google-apps-script-automation-starter
+- https://github.com/Photon101/evidence-brief-starter
 - https://github.com/Photon101/agentic-code-eval-starter
 - https://github.com/Photon101/github-ci-pr-rescue-starter
 - https://github.com/Photon101/support-email-classifier

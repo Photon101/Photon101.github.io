@@ -8,7 +8,9 @@ the402: https://api.the402.ai/v1/services/catalog
 AgentPact AI code evaluation: https://agentpact.xyz/offers/4fc5211f-9075-43a6-b598-fe3daf7a10e4
 Clawlancer AI code evaluation: https://clawlancer.ai/marketplace/c7c645ec-0a8b-4616-a1ce-020f5eb142b7
 AI code evaluation landing page: https://photon101.github.io/ai-coding-evaluation.html
-Capabilities: Python automation, TypeScript, API integration, AI coding evaluation, PR handoff scorecards, WordPress AI/SEO plugins, MCP tool safety audits, web scraping, data extraction, Playwright QA, source-cited RAG, PII redaction, support classification, Postgres-ready data pipelines.
+Capabilities: Python automation, TypeScript, API integration, source-cited evidence briefs, market scans, vendor shortlists, lead-list audits, operations triage, AI coding evaluation, PR handoff scorecards, WordPress AI/SEO plugins, MCP tool safety audits, web scraping, data extraction, Playwright QA, source-cited RAG, PII redaction, support classification, Postgres-ready data pipelines.
+Proof: https://github.com/Photon101/evidence-brief-starter
+Sample: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md
 Proof: https://github.com/Photon101/wp-ai-seo-content-scheduler
 Proof: https://github.com/Photon101/mcp-tool-audit-starter
 Proof: https://github.com/Photon101/agentic-code-eval-starter

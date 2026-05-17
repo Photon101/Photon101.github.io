@@ -14,7 +14,7 @@
     "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software delivery for AI automation, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue.",
+  "positioning": "Small, auditable software and evidence delivery for AI automation, source-cited research briefs, QA evidence packets, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -155,6 +155,37 @@
         "admin automation",
         "webhooks",
         "audit logs"
+      ]
+    },
+    {
+      "id": "evidence-brief-research-ops",
+      "title": "Source-cited evidence brief for research, QA, and operations decisions",
+      "buyer_need": "A buyer needs a defensible decision packet: market scan, vendor shortlist, lead-list audit, QA evidence report, bounty/grant scan, competitor brief, or operations triage summary.",
+      "deliverables": [
+        "Source table with URLs and reliability notes",
+        "Ranked findings with citations",
+        "Option scorecard and recommendation",
+        "Action plan with owners, risks, and gaps",
+        "CSV export for leads, sources, findings, or next actions"
+      ],
+      "proof": "https://github.com/Photon101/evidence-brief-starter",
+      "sample_output": "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md",
+      "public_offer": "https://github.com/sponsors/Photon101",
+      "alternate_offers": [
+        "https://www.freelancer.com/u/semyi",
+        "https://ugig.net/u/photon101"
+      ],
+      "typical_price": "120-650 USDC",
+      "fiat_entry_price": "150 USD",
+      "delivery": "1-4 days",
+      "keywords": [
+        "market research",
+        "source cited brief",
+        "vendor shortlist",
+        "lead list audit",
+        "qa evidence",
+        "operations triage",
+        "competitor scan"
       ]
     },
     {
