@@ -21,7 +21,8 @@
     "https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t",
     "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
     "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t",
-    "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t"
+    "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t",
+    "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t"
   ],
   "capabilities": [
     "code-generation",
@@ -125,6 +126,19 @@
         "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t"
       ],
       "proof_url": "https://github.com/Photon101/google-apps-script-automation-starter"
+    },
+    {
+      "id": "python-web-scrape-pipeline",
+      "name": "Python web scraping and data pipeline",
+      "summary": "Collect public web data, normalize records, dedupe rows, preserve source hashes, and deliver CSV, JSONL, or Postgres-ready SQL with a reproducible handoff.",
+      "price_range": "250-1200 USDC",
+      "entry_price": "260 USD",
+      "delivery": "4-8 days",
+      "offer_url": "https://ugig.net/for-hire/cf3d586d-1c99-4b92-a1f6-ff320cbc365f",
+      "alternate_offer_urls": [
+        "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t"
+      ],
+      "proof_url": "https://github.com/Photon101/web-scrape-pipeline-starter"
     }
   ],
   "proofs": [
@@ -143,6 +157,14 @@
     {
       "type": "github_repository",
       "url": "https://github.com/Photon101/make-n8n-workflow-debug-starter"
+    },
+    {
+      "type": "github_repository",
+      "url": "https://github.com/Photon101/google-apps-script-automation-starter"
+    },
+    {
+      "type": "github_repository",
+      "url": "https://github.com/Photon101/web-scrape-pipeline-starter"
     },
     {
       "type": "github_repository",
@@ -168,6 +190,7 @@
     "x402_payment_safety_offer": "https://ugig.net/for-hire/051af89b-2e3a-4d21-9aff-0b35bcff0933",
     "wordpress_ai_seo_offer": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
     "wordpress_ai_seo_freelancer_offer": "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t",
-    "google_apps_script_freelancer_offer": "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t"
+    "google_apps_script_freelancer_offer": "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t",
+    "python_web_scrape_freelancer_offer": "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t"
   }
 }

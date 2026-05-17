@@ -143,6 +143,34 @@
         "webhooks",
         "audit logs"
       ]
+    },
+    {
+      "id": "python-web-scrape-pipeline",
+      "title": "Python web scraping and data pipeline",
+      "buyer_need": "A buyer needs public web data collected, normalized, deduplicated, and delivered as CSV, JSONL, SQL, or a documented repeatable pipeline.",
+      "deliverables": [
+        "Python scraper or focused pipeline patch",
+        "Normalized CSV, JSONL, or SQL output",
+        "Source hashing and dedupe notes",
+        "Redacted sample run and validation checks",
+        "README and handoff checklist"
+      ],
+      "proof": "https://github.com/Photon101/web-scrape-pipeline-starter",
+      "public_offer": "https://ugig.net/for-hire/cf3d586d-1c99-4b92-a1f6-ff320cbc365f",
+      "alternate_offers": [
+        "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t"
+      ],
+      "typical_price": "250-1200 USDC",
+      "fiat_entry_price": "260 USD",
+      "delivery": "4-8 days",
+      "keywords": [
+        "python",
+        "web scraping",
+        "data extraction",
+        "csv",
+        "jsonl",
+        "postgresql"
+      ]
     }
   ]
 }
