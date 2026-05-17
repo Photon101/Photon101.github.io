@@ -188,7 +188,8 @@
         "https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23"
       ],
       "landing_page": "https://photon101.github.io/ai-coding-evaluation.html",
-      "proof_url": "https://github.com/Photon101/agentic-code-eval-starter"
+      "proof_url": "https://github.com/Photon101/agentic-code-eval-starter",
+      "sample_output_url": "https://github.com/Photon101/agentic-code-eval-starter/blob/main/examples/sample-output.md"
     },
     {
       "id": "github-ci-pr-rescue",

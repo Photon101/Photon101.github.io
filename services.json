@@ -197,6 +197,7 @@
         "Maintainer-ready handoff notes"
       ],
       "proof": "https://github.com/Photon101/agentic-code-eval-starter",
+      "sample_output": "https://github.com/Photon101/agentic-code-eval-starter/blob/main/examples/sample-output.md",
       "landing_page": "https://photon101.github.io/ai-coding-evaluation.html",
       "public_offer": "https://api.the402.ai/v1/services/svc_a2fbee6467854857/purchase",
       "alternate_offers": [
