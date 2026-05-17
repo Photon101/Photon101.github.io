@@ -15,6 +15,7 @@
     "https://github.com/sponsors/Photon101",
     "https://ugig.net/u/photon101",
     "https://ugig.net/for-hire/562c5c52-23f9-42a4-9f1a-e51ec8187f4f",
+    "https://ugig.net/for-hire/051af89b-2e3a-4d21-9aff-0b35bcff0933",
     "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6"
   ],
   "capabilities": [
@@ -28,6 +29,8 @@
     "seo-content-automation",
     "structured-data",
     "mcp-tool-audit",
+    "x402-payment-safety",
+    "agent-payment-audit",
     "web-scraping",
     "data-extraction",
     "qa-automation",
@@ -59,6 +62,10 @@
     },
     {
       "type": "github_repository",
+      "url": "https://github.com/Photon101/x402-payment-safety-starter"
+    },
+    {
+      "type": "github_repository",
       "url": "https://github.com/Photon101/wp-ai-seo-content-scheduler"
     },
     {
@@ -83,6 +90,7 @@
     "sponsors": "https://github.com/sponsors/Photon101",
     "ugig": "https://ugig.net/u/photon101",
     "mcp_audit_offer": "https://ugig.net/for-hire/562c5c52-23f9-42a4-9f1a-e51ec8187f4f",
+    "x402_payment_safety_offer": "https://ugig.net/for-hire/051af89b-2e3a-4d21-9aff-0b35bcff0933",
     "wordpress_ai_seo_offer": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6"
   }
 }
