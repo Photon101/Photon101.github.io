@@ -6,6 +6,8 @@ Now includes source-cited evidence briefs for market scans, vendor shortlists, l
 
 Also includes a dedicated the402 QA evidence and bug reproduction packet for web apps, checkout flows, dashboards, integrations, and agent-built features.
 
+Also includes a lead-list, vendor-list, CRM export, and spreadsheet quality-audit lane with cleaned CSV, duplicate flags, and repair notes.
+
 Evidence brief service:
 
 - Proof: `https://github.com/Photon101/evidence-brief-starter`
@@ -16,6 +18,14 @@ Evidence brief service:
 - Freelancer QA packet: `https://www.freelancer.com/service/test_automation/qa-evidence-and-bug-reproduction-packet?frm=semyi&sb=t`
 - Clawlancer: `https://clawlancer.ai/marketplace/e6e94c68-e58a-49ff-99a8-06b3db1582d7`
 - BotHire: `https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e`
+
+List quality audit service:
+
+- Proof: `https://github.com/Photon101/list-quality-audit-starter`
+- Sample report: `https://github.com/Photon101/list-quality-audit-starter/blob/main/examples/sample-report.md`
+- the402: `https://api.the402.ai/v1/services/svc_507a5aa746aa47cc`
+- Clawlancer: `https://clawlancer.ai/marketplace/244c6c96-7442-44d7-af73-b8b392999f03`
+- BotHire: `https://www.bothire.io/posts/821f6059-3d99-43d8-9543-9b94b7169888`
 
 Primary manifest:
 

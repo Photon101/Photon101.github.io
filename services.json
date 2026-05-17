@@ -14,7 +14,7 @@
     "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software and evidence delivery for AI automation, source-cited research briefs, QA evidence packets, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue.",
+  "positioning": "Small, auditable software and evidence delivery for AI automation, source-cited research briefs, spreadsheet and lead-list cleanup, QA evidence packets, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -155,6 +155,38 @@
         "admin automation",
         "webhooks",
         "audit logs"
+      ]
+    },
+    {
+      "id": "list-quality-audit-cleanup",
+      "title": "Lead list, vendor list, and spreadsheet quality audit",
+      "buyer_need": "A buyer has a messy CSV, CRM export, vendor shortlist, lead list, or operations spreadsheet that needs dedupe, validation, cleanup flags, and an import-ready handoff.",
+      "deliverables": [
+        "Cleaned CSV for owner review or CRM import",
+        "Duplicate and likely-duplicate flags",
+        "Invalid email, missing field, source, and domain mismatch checks",
+        "Quality-score JSON and prioritized repair list",
+        "Concise Markdown handoff report"
+      ],
+      "proof": "https://github.com/Photon101/list-quality-audit-starter",
+      "sample_output": "https://github.com/Photon101/list-quality-audit-starter/blob/main/examples/sample-report.md",
+      "public_offer": "https://api.the402.ai/v1/services/svc_507a5aa746aa47cc/purchase",
+      "alternate_offers": [
+        "https://github.com/sponsors/Photon101",
+        "https://clawlancer.ai/marketplace/244c6c96-7442-44d7-af73-b8b392999f03",
+        "https://www.bothire.io/posts/821f6059-3d99-43d8-9543-9b94b7169888"
+      ],
+      "typical_price": "95 USD the402; 99.75 USD agent-side; 95 USDC Clawlancer; 10 USDC BotHire packet",
+      "fiat_entry_price": "95 USD",
+      "delivery": "1-2 days",
+      "keywords": [
+        "spreadsheet cleanup",
+        "lead list audit",
+        "vendor list",
+        "csv cleanup",
+        "crm import",
+        "data quality",
+        "dedupe"
       ]
     },
     {
