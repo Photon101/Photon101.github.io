@@ -47,6 +47,8 @@
     "github-sponsors",
     "ugig"
   ],
+  "service_catalog_url": "https://photon101.github.io/services.json",
+  "llms_txt": "https://photon101.github.io/llms.txt",
   "payment": {
     "preferred_currency": "GBP",
     "accepted": [
@@ -55,6 +57,56 @@
       "SOL"
     ]
   },
+  "services": [
+    {
+      "id": "mcp-tool-safety-audit",
+      "name": "MCP server and AI agent tool safety audit",
+      "summary": "Preflight review for MCP configs, agent tools, shell wrappers, secrets, destructive permissions, prompt-injection risk, and approval boundaries.",
+      "price_range": "220-1200 USDC",
+      "entry_price": "250 USDC",
+      "delivery": "2-4 days",
+      "offer_url": "https://ugig.net/for-hire/562c5c52-23f9-42a4-9f1a-e51ec8187f4f",
+      "proof_url": "https://github.com/Photon101/mcp-tool-audit-starter"
+    },
+    {
+      "id": "x402-payment-safety-audit",
+      "name": "x402 and agent-payment safety audit",
+      "summary": "Review paid endpoint metadata, spend caps, callback URLs, replay and idempotency fields, token/network binding, and merchant/resource binding.",
+      "price_range": "200-900 USDC",
+      "entry_price": "200 USDC",
+      "delivery": "2-4 days",
+      "offer_url": "https://ugig.net/for-hire/051af89b-2e3a-4d21-9aff-0b35bcff0933",
+      "proof_url": "https://github.com/Photon101/x402-payment-safety-starter"
+    },
+    {
+      "id": "wordpress-ai-seo-plugin",
+      "name": "WordPress AI SEO content plugin buildout",
+      "summary": "WordPress plugin work for source-informed draft generation, scheduling, metadata, Article JSON-LD, admin settings, and editor review flows.",
+      "price_range": "300-1700 USDC",
+      "entry_price": "300 USDC",
+      "delivery": "5-10 days",
+      "offer_url": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
+      "proof_url": "https://github.com/Photon101/wp-ai-seo-content-scheduler"
+    },
+    {
+      "id": "workflow-automation-repair",
+      "name": "n8n, Make, Zapier, webhook, and API workflow repair",
+      "summary": "Diagnose broken automations, normalize webhook payloads, redact logs, classify failures, define retries, and hand over reproducible fixes.",
+      "price_range": "150-800 USDC",
+      "delivery": "1-5 days",
+      "offer_url": "https://ugig.net/for-hire/66a582fd-c1af-465d-801c-f73652608ecd",
+      "proof_url": "https://github.com/Photon101/make-n8n-workflow-debug-starter"
+    },
+    {
+      "id": "google-apps-script-automation",
+      "name": "Google Sheets and Apps Script workflow automation",
+      "summary": "Sheet-bound menus, row validation, routing, audit logs, webhook delivery, redaction, and queue processing for small business workflows.",
+      "price_range": "180-950 USDC",
+      "delivery": "2-7 days",
+      "offer_url": "https://ugig.net/for-hire/85892deb-d91b-47c0-86b9-9eb1895c8d94",
+      "proof_url": "https://github.com/Photon101/google-apps-script-automation-starter"
+    }
+  ],
   "proofs": [
     {
       "type": "github_repository",

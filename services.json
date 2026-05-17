@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0",
+  "updated": "2026-05-17",
+  "provider": {
+    "name": "Photon101",
+    "homepage": "https://photon101.github.io/",
+    "github": "https://github.com/Photon101",
+    "sponsors": "https://github.com/sponsors/Photon101",
+    "ugig": "https://ugig.net/u/photon101",
+    "operator_country": "United Kingdom"
+  },
+  "positioning": "Small, auditable software delivery for AI automation, API integrations, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, and workflow repair.",
+  "services": [
+    {
+      "id": "mcp-tool-safety-audit",
+      "title": "MCP server and AI agent tool safety audit",
+      "buyer_need": "A team is connecting an AI assistant to local tools, accounts, databases, browsers, email, payments, or deployment systems and needs a preflight risk review.",
+      "deliverables": [
+        "Redacted findings report",
+        "Risk-ranked tool/config checklist",
+        "Concrete patch recommendations",
+        "Approval-boundary and logging notes"
+      ],
+      "proof": "https://github.com/Photon101/mcp-tool-audit-starter",
+      "public_offer": "https://ugig.net/for-hire/562c5c52-23f9-42a4-9f1a-e51ec8187f4f",
+      "typical_price": "220-1200 USDC",
+      "delivery": "2-4 days",
+      "keywords": [
+        "mcp",
+        "model context protocol",
+        "ai agent safety",
+        "tool poisoning",
+        "secret redaction",
+        "approval gates"
+      ]
+    },
+    {
+      "id": "x402-payment-safety-audit",
+      "title": "x402 and agent-payment safety audit",
+      "buyer_need": "A builder is launching paid agent endpoints, x402 tools, or USDC-settled services and wants to catch avoidable payment, replay, binding, or callback mistakes before going live.",
+      "deliverables": [
+        "Payment metadata audit",
+        "Replay/idempotency checklist",
+        "Spend cap and callback review",
+        "Endpoint/resource/merchant binding notes"
+      ],
+      "proof": "https://github.com/Photon101/x402-payment-safety-starter",
+      "public_offer": "https://ugig.net/for-hire/051af89b-2e3a-4d21-9aff-0b35bcff0933",
+      "typical_price": "200-900 USDC",
+      "delivery": "2-4 days",
+      "keywords": [
+        "x402",
+        "agent payments",
+        "USDC",
+        "Base",
+        "paid MCP",
+        "replay protection"
+      ]
+    },
+    {
+      "id": "wordpress-ai-seo-plugin",
+      "title": "WordPress AI SEO content plugin buildout",
+      "buyer_need": "A WordPress site needs source-informed AI-assisted content drafts, schedules, SEO metadata, structured data, and an editorial review path.",
+      "deliverables": [
+        "Installable WordPress plugin",
+        "Admin settings screen",
+        "Draft generation and scheduling flow",
+        "Article JSON-LD and metadata",
+        "README and validation notes"
+      ],
+      "proof": "https://github.com/Photon101/wp-ai-seo-content-scheduler",
+      "public_offer": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
+      "typical_price": "300-1700 USDC",
+      "delivery": "5-10 days",
+      "keywords": [
+        "wordpress",
+        "seo",
+        "ai content",
+        "structured data",
+        "openai",
+        "plugin development"
+      ]
+    },
+    {
+      "id": "workflow-automation-repair",
+      "title": "n8n, Make, Zapier, webhook, and API workflow repair",
+      "buyer_need": "A business workflow is brittle, failing silently, leaking sensitive data in logs, or stuck between no-code tools and custom API logic.",
+      "deliverables": [
+        "Failure classification",
+        "Redacted execution trace",
+        "Fixed script or workflow notes",
+        "Retry and handoff plan"
+      ],
+      "proof": "https://github.com/Photon101/make-n8n-workflow-debug-starter",
+      "public_offer": "https://ugig.net/for-hire/66a582fd-c1af-465d-801c-f73652608ecd",
+      "typical_price": "150-800 USDC",
+      "delivery": "1-5 days",
+      "keywords": [
+        "n8n",
+        "Make",
+        "Zapier",
+        "webhooks",
+        "API integration",
+        "automation repair"
+      ]
+    },
+    {
+      "id": "google-apps-script-automation",
+      "title": "Google Sheets and Apps Script workflow automation",
+      "buyer_need": "A small team needs a practical Sheets/Form workflow with validation, queueing, audit notes, and optional webhook delivery.",
+      "deliverables": [
+        "Apps Script code",
+        "Sheet menu and queue flow",
+        "Validation and routing rules",
+        "Audit output and handoff notes"
+      ],
+      "proof": "https://github.com/Photon101/google-apps-script-automation-starter",
+      "public_offer": "https://ugig.net/for-hire/85892deb-d91b-47c0-86b9-9eb1895c8d94",
+      "typical_price": "180-950 USDC",
+      "delivery": "2-7 days",
+      "keywords": [
+        "google sheets",
+        "apps script",
+        "forms",
+        "admin automation",
+        "webhooks",
+        "audit logs"
+      ]
+    }
+  ]
+}
