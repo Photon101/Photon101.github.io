@@ -192,6 +192,40 @@
       ]
     },
     {
+      "id": "qa-evidence-bug-repro",
+      "title": "QA evidence and bug reproduction packet",
+      "buyer_need": "A buyer, agent, or maintainer needs compact proof that a web app, checkout flow, dashboard, agent-built feature, or integration is working or failing in a reproducible way.",
+      "deliverables": [
+        "Scoped test notes",
+        "Observed vs expected behavior",
+        "Reproduction steps",
+        "Environment and device matrix",
+        "Screenshot or video evidence where available",
+        "Severity, risk, and next-action triage"
+      ],
+      "proof": "https://github.com/Photon101/evidence-brief-starter",
+      "sample_output": "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md",
+      "public_offer": "https://api.the402.ai/v1/services/svc_b29748bd84444bb8/purchase",
+      "alternate_offers": [
+        "https://github.com/sponsors/Photon101",
+        "https://www.freelancer.com/u/semyi",
+        "https://ugig.net/for-hire/0da9061f-f8ea-4c2a-853b-f3bd229b6236",
+        "https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e"
+      ],
+      "typical_price": "75 USD the402; 78.75 USD agent-side",
+      "fiat_entry_price": "75 USD",
+      "delivery": "1-2 days",
+      "keywords": [
+        "qa evidence",
+        "bug reproduction",
+        "checkout testing",
+        "web app testing",
+        "observed expected",
+        "screenshots",
+        "test notes"
+      ]
+    },
+    {
       "id": "python-web-scrape-pipeline",
       "title": "Python web scraping and data pipeline",
       "buyer_need": "A buyer needs public web data collected, normalized, deduplicated, and delivered as CSV, JSONL, SQL, or a documented repeatable pipeline.",
