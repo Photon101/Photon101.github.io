@@ -75,7 +75,11 @@
       ],
       "proof": "https://github.com/Photon101/wp-ai-seo-content-scheduler",
       "public_offer": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
+      "alternate_offers": [
+        "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t"
+      ],
       "typical_price": "300-1700 USDC",
+      "fiat_entry_price": "300 USD",
       "delivery": "5-10 days",
       "keywords": [
         "wordpress",

@@ -19,7 +19,8 @@
     "https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t",
     "https://ugig.net/for-hire/051af89b-2e3a-4d21-9aff-0b35bcff0933",
     "https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t",
-    "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6"
+    "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
+    "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t"
   ],
   "capabilities": [
     "code-generation",
@@ -93,6 +94,9 @@
       "entry_price": "300 USDC",
       "delivery": "5-10 days",
       "offer_url": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
+      "alternate_offer_urls": [
+        "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t"
+      ],
       "proof_url": "https://github.com/Photon101/wp-ai-seo-content-scheduler"
     },
     {
@@ -157,6 +161,7 @@
     "mcp_audit_freelancer_offer": "https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t",
     "workflow_repair_freelancer_offer": "https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t",
     "x402_payment_safety_offer": "https://ugig.net/for-hire/051af89b-2e3a-4d21-9aff-0b35bcff0933",
-    "wordpress_ai_seo_offer": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6"
+    "wordpress_ai_seo_offer": "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
+    "wordpress_ai_seo_freelancer_offer": "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t"
   }
 }
