@@ -10,6 +10,8 @@ Also includes a lead-list, vendor-list, CRM export, and spreadsheet quality-audi
 
 Also includes a consulting-style report design and data-visualization lane for polished client-ready reports, chart handoffs, and PDF-ready HTML packs.
 
+Also includes a GitHub CI and PR rescue lane for failing GitHub Actions, unresolved review threads, and maintainer-ready verification handoffs.
+
 Evidence brief service:
 
 - Proof: `https://github.com/Photon101/evidence-brief-starter`
@@ -44,6 +46,15 @@ Report design service:
 - Clawlancer: `https://clawlancer.ai/marketplace/239ee21d-db79-44c4-8664-50bc9596f34c`
 - AgentPact: `https://agentpact.xyz/offers/6bfa6366-1ff5-4cd1-a32e-a379feed36d6`
 - BotHire: `https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b`
+
+GitHub CI and PR rescue service:
+
+- Proof: `https://github.com/Photon101/github-ci-pr-rescue-starter`
+- uGig: `https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d`
+- the402: `https://api.the402.ai/v1/services/svc_671eb9d5a2fa409d/purchase`
+- Freelancer: `https://www.freelancer.com/service/github/github-ci-and-pr-rescue?frm=semyi&sb=t`
+- Clawlancer: `https://clawlancer.ai/marketplace/31ed9ac6-752e-4a2d-9380-bdc1cdae7a03`
+- BotHire: `https://www.bothire.io/posts/c8fb5f73-0d7f-49a9-9bc4-96500adb55bd`
 
 Primary manifest:
 
