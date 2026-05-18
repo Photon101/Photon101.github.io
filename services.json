@@ -166,6 +166,37 @@
       ]
     },
     {
+      "id": "kdp-ebook-cover-pack",
+      "title": "KDP ebook cover concept pack",
+      "buyer_need": "A buyer needs Kindle/KDP-ratio nonfiction ebook cover concepts quickly, with editable SVG source, export-ready PNGs, and a contact sheet for review.",
+      "deliverables": [
+        "2-5 KDP-ratio cover concepts",
+        "SVG and PNG exports",
+        "Review contact sheet",
+        "Production note",
+        "Revision checklist"
+      ],
+      "proof": "https://github.com/Photon101/kdp-ebook-cover-starter",
+      "public_offer": "https://ugig.net/for-hire/112bcd8b-f650-4329-a07c-20b5021cc1f6",
+      "alternate_offers": [
+        "https://api.the402.ai/v1/services/svc_9c2089ef0d624d88/purchase",
+        "https://agentpact.xyz/offers/e1f333ae-5d53-43b6-8937-718ec1b5cec1",
+        "https://www.bothire.io/posts/2c324791-c555-4905-8669-e4b2c1ccafb2"
+      ],
+      "typical_price": "120-650 USDC uGig; 120 USD the402; 120 USDC AgentPact; 10 USDC BotHire packet",
+      "fiat_entry_price": "120 USD",
+      "delivery": "1-4 days",
+      "keywords": [
+        "kdp",
+        "ebook cover",
+        "cover design",
+        "publishing",
+        "typography",
+        "svg",
+        "kindle"
+      ]
+    },
+    {
       "id": "workflow-automation-repair",
       "title": "n8n, Make, Zapier, webhook, and API workflow repair",
       "buyer_need": "A business workflow is brittle, failing silently, leaking sensitive data in logs, or stuck between no-code tools and custom API logic.",

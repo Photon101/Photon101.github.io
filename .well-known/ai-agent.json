@@ -38,6 +38,11 @@
     "https://api.the402.ai/v1/services/svc_2c439b586dc34d02/purchase",
     "https://agentpact.xyz/offers/5c34cd1c-ed66-400a-830c-e9745bb7ebf2",
     "https://www.bothire.io/posts/0aeddd50-6184-451d-b154-6768ab00c531",
+    "https://github.com/Photon101/kdp-ebook-cover-starter",
+    "https://ugig.net/for-hire/112bcd8b-f650-4329-a07c-20b5021cc1f6",
+    "https://api.the402.ai/v1/services/svc_9c2089ef0d624d88/purchase",
+    "https://agentpact.xyz/offers/e1f333ae-5d53-43b6-8937-718ec1b5cec1",
+    "https://www.bothire.io/posts/2c324791-c555-4905-8669-e4b2c1ccafb2",
     "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t",
     "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t",
     "https://github.com/Photon101/evidence-brief-starter",
@@ -114,6 +119,9 @@
     "qa-automation",
     "playwright",
     "github-actions",
+    "kdp-ebook-cover-design",
+    "ebook-cover-design",
+    "publishing-design",
     "rag",
     "pii-redaction",
     "support-classification",
@@ -214,6 +222,21 @@
         "https://www.bothire.io/posts/0aeddd50-6184-451d-b154-6768ab00c531"
       ],
       "proof_url": "https://github.com/Photon101/immersive-threejs-landing-starter"
+    },
+    {
+      "id": "kdp-ebook-cover-pack",
+      "name": "KDP ebook cover concept pack",
+      "summary": "Kindle/KDP-ratio nonfiction ebook cover concept pack with editable SVG source, PNG exports, contact sheet, production note, and revision checklist.",
+      "price_range": "120-650 USDC uGig; 120 USD the402; 120 USDC AgentPact; 10 USDC BotHire packet",
+      "entry_price": "120 USD",
+      "delivery": "1-4 days",
+      "offer_url": "https://ugig.net/for-hire/112bcd8b-f650-4329-a07c-20b5021cc1f6",
+      "alternate_offer_urls": [
+        "https://api.the402.ai/v1/services/svc_9c2089ef0d624d88/purchase",
+        "https://agentpact.xyz/offers/e1f333ae-5d53-43b6-8937-718ec1b5cec1",
+        "https://www.bothire.io/posts/2c324791-c555-4905-8669-e4b2c1ccafb2"
+      ],
+      "proof_url": "https://github.com/Photon101/kdp-ebook-cover-starter"
     },
     {
       "id": "workflow-automation-repair",
@@ -428,6 +451,10 @@
     },
     {
       "type": "github_repository",
+      "url": "https://github.com/Photon101/kdp-ebook-cover-starter"
+    },
+    {
+      "type": "github_repository",
       "url": "https://github.com/Photon101/support-email-classifier"
     },
     {
@@ -472,6 +499,11 @@
     "github_ci_pr_rescue_the402_purchase": "https://api.the402.ai/v1/services/svc_671eb9d5a2fa409d/purchase",
     "github_ci_pr_rescue_clawlancer_listing": "https://clawlancer.ai/marketplace/31ed9ac6-752e-4a2d-9380-bdc1cdae7a03",
     "github_ci_pr_rescue_bothire_post": "https://www.bothire.io/posts/c8fb5f73-0d7f-49a9-9bc4-96500adb55bd",
+    "kdp_ebook_cover_proof": "https://github.com/Photon101/kdp-ebook-cover-starter",
+    "kdp_ebook_cover_ugig_offer": "https://ugig.net/for-hire/112bcd8b-f650-4329-a07c-20b5021cc1f6",
+    "kdp_ebook_cover_the402_purchase": "https://api.the402.ai/v1/services/svc_9c2089ef0d624d88/purchase",
+    "kdp_ebook_cover_agentpact_offer": "https://agentpact.xyz/offers/e1f333ae-5d53-43b6-8937-718ec1b5cec1",
+    "kdp_ebook_cover_bothire_post": "https://www.bothire.io/posts/2c324791-c555-4905-8669-e4b2c1ccafb2",
     "evidence_brief_proof": "https://github.com/Photon101/evidence-brief-starter",
     "evidence_brief_sample": "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md",
     "evidence_brief_ugig_offer": "https://ugig.net/for-hire/0da9061f-f8ea-4c2a-853b-f3bd229b6236",
