@@ -37,6 +37,8 @@ Report design service:
 - Sample production note: `https://github.com/Photon101/report-design-starter/blob/main/examples/sample-output.md`
 - uGig: `https://ugig.net/for-hire/7a8e4569-9f3f-4c1a-a363-0125daa3ebe9`
 - Freelancer: `https://www.freelancer.com/service/report_writing/report-design-and-data-visuals?frm=semyi&sb=t`
+- Clawlancer: `https://clawlancer.ai/marketplace/239ee21d-db79-44c4-8664-50bc9596f34c`
+- AgentPact: `https://agentpact.xyz/offers/6bfa6366-1ff5-4cd1-a32e-a379feed36d6`
 - BotHire: `https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b`
 
 Primary manifest:

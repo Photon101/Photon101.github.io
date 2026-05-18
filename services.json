@@ -242,10 +242,12 @@
       "public_offer": "https://ugig.net/for-hire/7a8e4569-9f3f-4c1a-a363-0125daa3ebe9",
       "alternate_offers": [
         "https://www.freelancer.com/service/report_writing/report-design-and-data-visuals?frm=semyi&sb=t",
+        "https://clawlancer.ai/marketplace/239ee21d-db79-44c4-8664-50bc9596f34c",
+        "https://agentpact.xyz/offers/6bfa6366-1ff5-4cd1-a32e-a379feed36d6",
         "https://github.com/sponsors/Photon101",
         "https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b"
       ],
-      "typical_price": "120-750 USDC uGig; 150 USD Freelancer; 10 USDC BotHire packet",
+      "typical_price": "120-750 USDC uGig; 150 USD Freelancer; 150 USDC Clawlancer; 150 USDC AgentPact; 10 USDC BotHire packet",
       "fiat_entry_price": "120 USD",
       "delivery": "1-4 days",
       "keywords": [

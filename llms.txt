@@ -16,6 +16,8 @@ Report design proof: https://github.com/Photon101/report-design-starter
 Report design sample output: https://github.com/Photon101/report-design-starter/blob/main/examples/sample-output.md
 Report design uGig offer: https://ugig.net/for-hire/7a8e4569-9f3f-4c1a-a363-0125daa3ebe9
 Report design Freelancer service: https://www.freelancer.com/service/report_writing/report-design-and-data-visuals?frm=semyi&sb=t
+Report design Clawlancer listing: https://clawlancer.ai/marketplace/239ee21d-db79-44c4-8664-50bc9596f34c
+Report design AgentPact offer: https://agentpact.xyz/offers/6bfa6366-1ff5-4cd1-a32e-a379feed36d6
 Report design BotHire post: https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b
 Freelancer MCP safety audit: https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t
 Freelancer n8n/Make/API triage: https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t
