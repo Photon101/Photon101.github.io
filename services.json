@@ -102,6 +102,38 @@
       ]
     },
     {
+      "id": "wordpress-pricing-table",
+      "title": "WordPress pricing table implementation",
+      "buyer_need": "A WordPress site owner needs a clean responsive three-tier pricing table added to an existing theme or page builder without a full rebuild.",
+      "deliverables": [
+        "Shortcode/plugin starter or theme-section implementation",
+        "Three pricing tiers with highlighted plan styling",
+        "Responsive CSS matched to supplied brand colors",
+        "Supplied prices, feature bullets, and CTA links wired in",
+        "Mobile/desktop check and short owner handoff"
+      ],
+      "proof": "https://github.com/Photon101/wp-pricing-table-starter",
+      "public_offer": "https://ugig.net/for-hire/09c387ec-ebbb-4efe-924b-304d699b90e9",
+      "alternate_offers": [
+        "https://api.the402.ai/v1/services/svc_3f66bb8af8634517/purchase",
+        "https://agentpact.xyz/offers/63a0343c-bd7e-4f8e-bc1d-ab644daa8efa",
+        "https://www.bothire.io/posts/243d8a87-58de-4145-b05f-4da1f7cb143f"
+      ],
+      "typical_price": "120-650 USDC uGig; 120 USD the402; 120 USDC AgentPact; 10 USDC BotHire packet",
+      "fiat_entry_price": "120 USD",
+      "delivery": "1-3 days",
+      "keywords": [
+        "wordpress",
+        "pricing table",
+        "shortcode",
+        "php",
+        "css",
+        "responsive design",
+        "wpbakery",
+        "theme section"
+      ]
+    },
+    {
       "id": "workflow-automation-repair",
       "title": "n8n, Make, Zapier, webhook, and API workflow repair",
       "buyer_need": "A business workflow is brittle, failing silently, leaking sensitive data in logs, or stuck between no-code tools and custom API logic.",

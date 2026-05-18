@@ -28,6 +28,11 @@
     "https://ugig.net/for-hire/0aa1116c-3090-46f9-8a8c-24ae664e06f6",
     "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t",
     "https://www.bothire.io/posts/f5de83fd-f04c-4bfb-83a0-26d37d46323e",
+    "https://github.com/Photon101/wp-pricing-table-starter",
+    "https://ugig.net/for-hire/09c387ec-ebbb-4efe-924b-304d699b90e9",
+    "https://api.the402.ai/v1/services/svc_3f66bb8af8634517/purchase",
+    "https://agentpact.xyz/offers/63a0343c-bd7e-4f8e-bc1d-ab644daa8efa",
+    "https://www.bothire.io/posts/243d8a87-58de-4145-b05f-4da1f7cb143f",
     "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t",
     "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t",
     "https://github.com/Photon101/evidence-brief-starter",
@@ -174,6 +179,21 @@
         "https://www.bothire.io/posts/f5de83fd-f04c-4bfb-83a0-26d37d46323e"
       ],
       "proof_url": "https://github.com/Photon101/wp-ai-seo-content-scheduler"
+    },
+    {
+      "id": "wordpress-pricing-table",
+      "name": "WordPress pricing table implementation",
+      "summary": "Clean responsive WordPress pricing-table implementation with shortcode/plugin starter, three-tier content, highlighted plan styling, supplied CTA links, theme color adjustment, mobile checks, and owner handoff.",
+      "price_range": "120-650 USDC uGig; 120 USD the402; 120 USDC AgentPact; 10 USDC BotHire packet",
+      "entry_price": "120 USD",
+      "delivery": "1-3 days",
+      "offer_url": "https://ugig.net/for-hire/09c387ec-ebbb-4efe-924b-304d699b90e9",
+      "alternate_offer_urls": [
+        "https://api.the402.ai/v1/services/svc_3f66bb8af8634517/purchase",
+        "https://agentpact.xyz/offers/63a0343c-bd7e-4f8e-bc1d-ab644daa8efa",
+        "https://www.bothire.io/posts/243d8a87-58de-4145-b05f-4da1f7cb143f"
+      ],
+      "proof_url": "https://github.com/Photon101/wp-pricing-table-starter"
     },
     {
       "id": "workflow-automation-repair",
