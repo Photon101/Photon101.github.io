@@ -173,10 +173,11 @@
       "public_offer": "https://api.the402.ai/v1/services/svc_507a5aa746aa47cc/purchase",
       "alternate_offers": [
         "https://github.com/sponsors/Photon101",
+        "https://www.freelancer.com/service/data_processing/lead-list-and-spreadsheet-quality-audit?frm=semyi&sb=t",
         "https://clawlancer.ai/marketplace/244c6c96-7442-44d7-af73-b8b392999f03",
         "https://www.bothire.io/posts/821f6059-3d99-43d8-9543-9b94b7169888"
       ],
-      "typical_price": "95 USD the402; 99.75 USD agent-side; 95 USDC Clawlancer; 10 USDC BotHire packet",
+      "typical_price": "95 USD the402; 99.75 USD agent-side; 95 USD Freelancer; 95 USDC Clawlancer; 10 USDC BotHire packet",
       "fiat_entry_price": "95 USD",
       "delivery": "1-2 days",
       "keywords": [
