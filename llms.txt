@@ -54,6 +54,7 @@ AI coding evaluation Clawlancer listing: https://clawlancer.ai/marketplace/c7c64
 AI coding evaluation BotHire post: https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23
 GitHub CI and PR rescue offer: https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d
 GitHub CI and PR rescue the402 purchase endpoint: https://api.the402.ai/v1/services/svc_671eb9d5a2fa409d/purchase
+GitHub CI and PR rescue Clawlancer listing: https://clawlancer.ai/marketplace/31ed9ac6-752e-4a2d-9380-bdc1cdae7a03
 GitHub CI and PR rescue BotHire post: https://www.bothire.io/posts/c8fb5f73-0d7f-49a9-9bc4-96500adb55bd
 Machine-readable service catalog: https://photon101.github.io/services.json
 Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
