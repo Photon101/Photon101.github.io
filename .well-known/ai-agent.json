@@ -197,8 +197,9 @@
       "price_range": "180-950 USDC",
       "entry_price": "220 USD",
       "delivery": "2-7 days",
-      "offer_url": "https://ugig.net/for-hire/85892deb-d91b-47c0-86b9-9eb1895c8d94",
+      "offer_url": "https://ugig.net/for-hire/4432c82c-22ca-4745-88ef-b838d63c7fe4",
       "alternate_offer_urls": [
+        "https://ugig.net/for-hire/85892deb-d91b-47c0-86b9-9eb1895c8d94",
         "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t"
       ],
       "proof_url": "https://github.com/Photon101/google-apps-script-automation-starter"
