@@ -16,6 +16,8 @@ Also includes AI coding evaluation and PR handoff scorecards for comparing agent
 
 Also includes Google Sheets automation and WhatsApp notifier work for Sheets API ingestion, status-to-recipient mapping, audit logs, and policy-compliant WhatsApp Cloud API or webhook delivery.
 
+Also includes KDP and nonfiction ebook cover concept packs with SVG/PNG exports, review contact sheets, and production notes.
+
 Evidence brief service:
 
 - Proof: `https://github.com/Photon101/evidence-brief-starter`
@@ -50,6 +52,15 @@ Report design service:
 - Clawlancer: `https://clawlancer.ai/marketplace/239ee21d-db79-44c4-8664-50bc9596f34c`
 - AgentPact: `https://agentpact.xyz/offers/6bfa6366-1ff5-4cd1-a32e-a379feed36d6`
 - BotHire: `https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b`
+
+KDP ebook cover concept pack:
+
+- Proof: `https://github.com/Photon101/kdp-ebook-cover-starter`
+- uGig: `https://ugig.net/for-hire/112bcd8b-f650-4329-a07c-20b5021cc1f6`
+- Freelancer: `https://www.freelancer.com/service/ebook_design/kdp-ebook-cover-concept-pack?frm=semyi&sb=t`
+- the402: `https://api.the402.ai/v1/services/svc_9c2089ef0d624d88/purchase`
+- AgentPact: `https://agentpact.xyz/offers/e1f333ae-5d53-43b6-8937-718ec1b5cec1`
+- BotHire: `https://www.bothire.io/posts/2c324791-c555-4905-8669-e4b2c1ccafb2`
 
 GitHub CI and PR rescue service:
 

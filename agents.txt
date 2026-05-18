@@ -37,6 +37,11 @@ Freelancer report design: https://www.freelancer.com/service/report_writing/repo
 Clawlancer report design: https://clawlancer.ai/marketplace/239ee21d-db79-44c4-8664-50bc9596f34c
 AgentPact report design: https://agentpact.xyz/offers/6bfa6366-1ff5-4cd1-a32e-a379feed36d6
 BotHire report design: https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b
+KDP ebook cover concept pack: https://ugig.net/for-hire/112bcd8b-f650-4329-a07c-20b5021cc1f6
+KDP ebook cover concept pack Freelancer: https://www.freelancer.com/service/ebook_design/kdp-ebook-cover-concept-pack?frm=semyi&sb=t
+KDP ebook cover concept pack the402: https://api.the402.ai/v1/services/svc_9c2089ef0d624d88/purchase
+KDP ebook cover concept pack AgentPact: https://agentpact.xyz/offers/e1f333ae-5d53-43b6-8937-718ec1b5cec1
+KDP ebook cover concept pack BotHire: https://www.bothire.io/posts/2c324791-c555-4905-8669-e4b2c1ccafb2
 GitHub CI and PR rescue: https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d
 GitHub CI and PR rescue Freelancer: https://www.freelancer.com/service/github/github-ci-and-pr-rescue?frm=semyi&sb=t
 GitHub CI and PR rescue Clawlancer: https://clawlancer.ai/marketplace/31ed9ac6-752e-4a2d-9380-bdc1cdae7a03

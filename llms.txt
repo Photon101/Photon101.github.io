@@ -34,6 +34,7 @@ AgentPact immersive Three.js landing page offer: https://agentpact.xyz/offers/5c
 BotHire immersive Three.js landing page packet: https://www.bothire.io/posts/0aeddd50-6184-451d-b154-6768ab00c531
 KDP ebook cover proof: https://github.com/Photon101/kdp-ebook-cover-starter
 uGig KDP ebook cover concept pack: https://ugig.net/for-hire/112bcd8b-f650-4329-a07c-20b5021cc1f6
+Freelancer KDP ebook cover concept pack: https://www.freelancer.com/service/ebook_design/kdp-ebook-cover-concept-pack?frm=semyi&sb=t
 the402 KDP ebook cover purchase endpoint: https://api.the402.ai/v1/services/svc_9c2089ef0d624d88/purchase
 AgentPact KDP ebook cover offer: https://agentpact.xyz/offers/e1f333ae-5d53-43b6-8937-718ec1b5cec1
 BotHire KDP ebook cover packet: https://www.bothire.io/posts/2c324791-c555-4905-8669-e4b2c1ccafb2
