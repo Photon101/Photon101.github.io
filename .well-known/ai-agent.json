@@ -33,6 +33,11 @@
     "https://api.the402.ai/v1/services/svc_3f66bb8af8634517/purchase",
     "https://agentpact.xyz/offers/63a0343c-bd7e-4f8e-bc1d-ab644daa8efa",
     "https://www.bothire.io/posts/243d8a87-58de-4145-b05f-4da1f7cb143f",
+    "https://github.com/Photon101/immersive-threejs-landing-starter",
+    "https://ugig.net/for-hire/b19a7ae1-81cf-4ccc-b598-72f873634d8b",
+    "https://api.the402.ai/v1/services/svc_2c439b586dc34d02/purchase",
+    "https://agentpact.xyz/offers/5c34cd1c-ed66-400a-830c-e9745bb7ebf2",
+    "https://www.bothire.io/posts/0aeddd50-6184-451d-b154-6768ab00c531",
     "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t",
     "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t",
     "https://github.com/Photon101/evidence-brief-starter",
@@ -194,6 +199,21 @@
         "https://www.bothire.io/posts/243d8a87-58de-4145-b05f-4da1f7cb143f"
       ],
       "proof_url": "https://github.com/Photon101/wp-pricing-table-starter"
+    },
+    {
+      "id": "immersive-threejs-landing-page",
+      "name": "Immersive Three.js landing page implementation",
+      "summary": "Premium WebGL/Three.js landing page or hero-section implementation with a full-bleed animated scene, responsive copy and CTA flow, brand color tuning, desktop/mobile rendering checks, static handoff, and customization notes.",
+      "price_range": "350-1800 USDC uGig; 350 USD the402; 350 USDC AgentPact; 10 USDC BotHire packet",
+      "entry_price": "350 USD",
+      "delivery": "3-7 days",
+      "offer_url": "https://ugig.net/for-hire/b19a7ae1-81cf-4ccc-b598-72f873634d8b",
+      "alternate_offer_urls": [
+        "https://api.the402.ai/v1/services/svc_2c439b586dc34d02/purchase",
+        "https://agentpact.xyz/offers/5c34cd1c-ed66-400a-830c-e9745bb7ebf2",
+        "https://www.bothire.io/posts/0aeddd50-6184-451d-b154-6768ab00c531"
+      ],
+      "proof_url": "https://github.com/Photon101/immersive-threejs-landing-starter"
     },
     {
       "id": "workflow-automation-repair",

@@ -134,6 +134,38 @@
       ]
     },
     {
+      "id": "immersive-threejs-landing-page",
+      "title": "Immersive Three.js landing page implementation",
+      "buyer_need": "An agency, SaaS team, product owner, or portfolio site needs a premium WebGL/Three.js first viewport or landing page that feels cinematic without becoming a full app rebuild.",
+      "deliverables": [
+        "Full-bleed Three.js/WebGL hero scene",
+        "Responsive headline, supporting copy, and CTA flow",
+        "Brand color tuning and visual direction pass",
+        "Desktop and mobile rendering checks",
+        "Static file handoff and customization notes"
+      ],
+      "proof": "https://github.com/Photon101/immersive-threejs-landing-starter",
+      "public_offer": "https://ugig.net/for-hire/b19a7ae1-81cf-4ccc-b598-72f873634d8b",
+      "alternate_offers": [
+        "https://api.the402.ai/v1/services/svc_2c439b586dc34d02/purchase",
+        "https://agentpact.xyz/offers/5c34cd1c-ed66-400a-830c-e9745bb7ebf2",
+        "https://www.bothire.io/posts/0aeddd50-6184-451d-b154-6768ab00c531"
+      ],
+      "typical_price": "350-1800 USDC uGig; 350 USD the402; 350 USDC AgentPact; 10 USDC BotHire packet",
+      "fiat_entry_price": "350 USD",
+      "delivery": "3-7 days",
+      "keywords": [
+        "three.js",
+        "webgl",
+        "landing page",
+        "frontend",
+        "javascript",
+        "animation",
+        "responsive design",
+        "product launch"
+      ]
+    },
+    {
       "id": "workflow-automation-repair",
       "title": "n8n, Make, Zapier, webhook, and API workflow repair",
       "buyer_need": "A business workflow is brittle, failing silently, leaking sensitive data in logs, or stuck between no-code tools and custom API logic.",
