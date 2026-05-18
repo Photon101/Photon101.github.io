@@ -36,6 +36,7 @@ Report design service:
 - Proof: `https://github.com/Photon101/report-design-starter`
 - Sample production note: `https://github.com/Photon101/report-design-starter/blob/main/examples/sample-output.md`
 - uGig: `https://ugig.net/for-hire/7a8e4569-9f3f-4c1a-a363-0125daa3ebe9`
+- Freelancer: `https://www.freelancer.com/service/report_writing/report-design-and-data-visuals?frm=semyi&sb=t`
 - BotHire: `https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b`
 
 Primary manifest:

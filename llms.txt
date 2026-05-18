@@ -15,6 +15,7 @@ AI coding evaluation landing page: https://photon101.github.io/ai-coding-evaluat
 Report design proof: https://github.com/Photon101/report-design-starter
 Report design sample output: https://github.com/Photon101/report-design-starter/blob/main/examples/sample-output.md
 Report design uGig offer: https://ugig.net/for-hire/7a8e4569-9f3f-4c1a-a363-0125daa3ebe9
+Report design Freelancer service: https://www.freelancer.com/service/report_writing/report-design-and-data-visuals?frm=semyi&sb=t
 Report design BotHire post: https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b
 Freelancer MCP safety audit: https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t
 Freelancer n8n/Make/API triage: https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t
