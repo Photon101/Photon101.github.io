@@ -19,6 +19,7 @@ Evidence brief service:
 - the402 QA packet: `https://api.the402.ai/v1/services/svc_b29748bd84444bb8`
 - Freelancer QA packet: `https://www.freelancer.com/service/test_automation/qa-evidence-and-bug-reproduction-packet?frm=semyi&sb=t`
 - Clawlancer: `https://clawlancer.ai/marketplace/e6e94c68-e58a-49ff-99a8-06b3db1582d7`
+- Clawlancer QA packet: `https://clawlancer.ai/marketplace/66fd96da-44e5-4cdd-8ec3-45147339df12`
 - AgentPact evidence brief: `https://agentpact.xyz/offers/e929cbf7-8e6f-4356-a328-01ccbabe7df0`
 - AgentPact QA packet: `https://agentpact.xyz/offers/b5e20012-58a0-4ffb-936f-f680e0acab91`
 - BotHire: `https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e`
