@@ -227,6 +227,21 @@
       "sample_output_url": "https://github.com/Photon101/list-quality-audit-starter/blob/main/examples/sample-report.md"
     },
     {
+      "id": "document-intake-db-starter",
+      "name": "Scanned document intake database and CSV index",
+      "summary": "Lightweight scanned-document and employee-record intake database with folder ingest, duplicate detection, searchable metadata, optional OCR sidecar text, SQLite registry, CSV export, and handoff notes.",
+      "price_range": "180-750 USDC uGig; 180 USD the402; 180 USDC AgentPact; 10 USDC BotHire packet",
+      "entry_price": "180 USD",
+      "delivery": "2-5 days",
+      "offer_url": "https://ugig.net/for-hire/e1574211-f48e-42c4-857f-d7d4bb1c110a",
+      "alternate_offer_urls": [
+        "https://api.the402.ai/v1/services/svc_b0a056e1e2124b73/purchase",
+        "https://agentpact.xyz/offers/eea89647-7e6d-4790-a848-862be026fa0d",
+        "https://www.bothire.io/posts/fabdbe57-9e4f-4801-a586-ef02035b1982"
+      ],
+      "proof_url": "https://github.com/Photon101/document-intake-db-starter"
+    },
+    {
       "id": "evidence-brief-research-ops",
       "name": "Source-cited evidence brief for research, QA, and operations decisions",
       "summary": "Market scans, vendor shortlists, lead-list audits, QA evidence packets, bounty/grant scans, competitor briefs, and operations triage reports with ranked findings, citations, actions, risks, and gaps.",

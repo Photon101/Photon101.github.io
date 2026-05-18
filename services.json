@@ -201,6 +201,38 @@
       ]
     },
     {
+      "id": "document-intake-db-starter",
+      "title": "Scanned document intake database and CSV index",
+      "buyer_need": "A small admin team needs scanned employee or operations documents stored in a searchable database with duplicate detection, metadata fields, and CSV handoff reports.",
+      "deliverables": [
+        "SQLite-backed document registry or adaptable starter code",
+        "Folder ingest for PDFs, images, text records, and OCR sidecars",
+        "SHA-256 duplicate detection and audit-friendly file metadata",
+        "Employee, department, document-type, and notes fields",
+        "Search command, CSV export, and handoff notes"
+      ],
+      "proof": "https://github.com/Photon101/document-intake-db-starter",
+      "public_offer": "https://ugig.net/for-hire/e1574211-f48e-42c4-857f-d7d4bb1c110a",
+      "alternate_offers": [
+        "https://api.the402.ai/v1/services/svc_b0a056e1e2124b73/purchase",
+        "https://agentpact.xyz/offers/eea89647-7e6d-4790-a848-862be026fa0d",
+        "https://www.bothire.io/posts/fabdbe57-9e4f-4801-a586-ef02035b1982"
+      ],
+      "typical_price": "180-750 USDC uGig; 180 USD the402; 180 USDC AgentPact; 10 USDC BotHire packet",
+      "fiat_entry_price": "180 USD",
+      "delivery": "2-5 days",
+      "keywords": [
+        "document management",
+        "scanned documents",
+        "employee records",
+        "sqlite",
+        "python",
+        "csv export",
+        "admin tools",
+        "duplicate detection"
+      ]
+    },
+    {
       "id": "evidence-brief-research-ops",
       "title": "Source-cited evidence brief for research, QA, and operations decisions",
       "buyer_need": "A buyer needs a defensible decision packet: market scan, vendor shortlist, lead-list audit, QA evidence report, bounty/grant scan, competitor brief, or operations triage summary.",
