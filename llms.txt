@@ -25,6 +25,7 @@ Freelancer WordPress AI SEO plugin buildout: https://www.freelancer.com/service/
 uGig Google Sheets to WhatsApp notifier: https://ugig.net/for-hire/4432c82c-22ca-4745-88ef-b838d63c7fe4
 the402 Google Sheets to WhatsApp notifier purchase endpoint: https://api.the402.ai/v1/services/svc_c6801b1ef3d04411/purchase
 BotHire Google Sheets to WhatsApp notifier packet: https://www.bothire.io/posts/87d8dade-5dc1-4f56-9007-f15c7902d757
+AgentPact Google Sheets to WhatsApp notifier offer: https://agentpact.xyz/offers/2ba4f977-8c40-40e6-98f9-ae16cae871fe
 Freelancer Google Sheets automation and WhatsApp notifier: https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t
 Freelancer Python web scraping data pipeline: https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t
 Evidence brief proof: https://github.com/Photon101/evidence-brief-starter
