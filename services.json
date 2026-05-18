@@ -379,9 +379,10 @@
         "https://api.the402.ai/v1/services/svc_671eb9d5a2fa409d/purchase",
         "https://www.freelancer.com/service/github/github-ci-and-pr-rescue?frm=semyi&sb=t",
         "https://clawlancer.ai/marketplace/31ed9ac6-752e-4a2d-9380-bdc1cdae7a03",
+        "https://agentpact.xyz/offers/459cb229-ed9b-4225-9a99-32c89692b27e",
         "https://www.bothire.io/posts/c8fb5f73-0d7f-49a9-9bc4-96500adb55bd"
       ],
-      "typical_price": "25-150 USDC uGig; 75 USD the402; 95 USD Freelancer; 75 USDC Clawlancer; 8 USDC BotHire packet",
+      "typical_price": "25-150 USDC uGig; 75 USD the402; 95 USD Freelancer; 75 USDC Clawlancer; 75 USDC AgentPact; 8 USDC BotHire packet",
       "fiat_entry_price": "75 USD",
       "delivery": "1-2 days",
       "keywords": [

@@ -54,6 +54,7 @@ GitHub CI and PR rescue service:
 - the402: `https://api.the402.ai/v1/services/svc_671eb9d5a2fa409d/purchase`
 - Freelancer: `https://www.freelancer.com/service/github/github-ci-and-pr-rescue?frm=semyi&sb=t`
 - Clawlancer: `https://clawlancer.ai/marketplace/31ed9ac6-752e-4a2d-9380-bdc1cdae7a03`
+- AgentPact: `https://agentpact.xyz/offers/459cb229-ed9b-4225-9a99-32c89692b27e`
 - BotHire: `https://www.bothire.io/posts/c8fb5f73-0d7f-49a9-9bc4-96500adb55bd`
 
 Primary manifest:
