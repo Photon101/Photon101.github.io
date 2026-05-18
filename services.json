@@ -132,13 +132,14 @@
     },
     {
       "id": "google-apps-script-automation",
-      "title": "Google Sheets and Apps Script workflow automation",
-      "buyer_need": "A small team needs a practical Sheets/Form workflow with validation, queueing, audit notes, and optional webhook delivery.",
+      "title": "Google Sheets automation and WhatsApp notifier",
+      "buyer_need": "A small team needs a Sheets API workflow that validates rows, maps statuses to recipients, sends policy-compliant WhatsApp or webhook notifications, and leaves a clear local audit log.",
       "deliverables": [
-        "Apps Script code",
-        "Sheet menu and queue flow",
-        "Validation and routing rules",
-        "Audit output and handoff notes"
+        "Apps Script or lightweight desktop workflow code",
+        "Google Sheets API or sheet-bound menu flow",
+        "Status-to-recipient mapping and validation rules",
+        "WhatsApp Cloud API, provider webhook, or generic webhook notification adapter",
+        "Audit log, sample config, and handoff notes"
       ],
       "proof": "https://github.com/Photon101/google-apps-script-automation-starter",
       "public_offer": "https://ugig.net/for-hire/85892deb-d91b-47c0-86b9-9eb1895c8d94",
@@ -151,9 +152,12 @@
       "keywords": [
         "google sheets",
         "apps script",
+        "whatsapp cloud api",
+        "status notifier",
         "forms",
         "admin automation",
         "webhooks",
+        "api integration",
         "audit logs"
       ]
     },

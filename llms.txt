@@ -22,7 +22,7 @@ Report design BotHire post: https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014
 Freelancer MCP safety audit: https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t
 Freelancer n8n/Make/API triage: https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t
 Freelancer WordPress AI SEO plugin buildout: https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t
-Freelancer Google Sheets Apps Script automation: https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t
+Freelancer Google Sheets automation and WhatsApp notifier: https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t
 Freelancer Python web scraping data pipeline: https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t
 Evidence brief proof: https://github.com/Photon101/evidence-brief-starter
 Evidence brief sample output: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md
@@ -69,7 +69,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - AI coding-agent output evaluation, PR scorecards, and maintainer-ready handoff packets.
 - WordPress AI SEO content plugin buildouts.
 - n8n, Make, Zapier, webhook, and API workflow repair.
-- Google Sheets and Apps Script workflow automation.
+- Google Sheets automation, Apps Script workflows, Sheets API status routing, WhatsApp Cloud API or webhook notification handoffs, and audit logs.
 - GitHub Actions CI failure triage, PR review-thread cleanup, and verification handoffs.
 - Source-cited evidence briefs for market scans, vendor shortlists, lead-list audits, QA packets, competitor scans, and operations triage.
 - Consulting-style report design, data visuals, chart handoffs, and PDF-ready HTML report packs.

@@ -14,6 +14,8 @@ Also includes a GitHub CI and PR rescue lane for failing GitHub Actions, unresol
 
 Also includes AI coding evaluation and PR handoff scorecards for comparing agent-written patches before merge.
 
+Also includes Google Sheets automation and WhatsApp notifier work for Sheets API ingestion, status-to-recipient mapping, audit logs, and policy-compliant WhatsApp Cloud API or webhook delivery.
+
 Evidence brief service:
 
 - Proof: `https://github.com/Photon101/evidence-brief-starter`
