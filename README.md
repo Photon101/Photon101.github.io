@@ -12,6 +12,8 @@ Also includes a consulting-style report design and data-visualization lane for p
 
 Also includes a GitHub CI and PR rescue lane for failing GitHub Actions, unresolved review threads, and maintainer-ready verification handoffs.
 
+Also includes AI coding evaluation and PR handoff scorecards for comparing agent-written patches before merge.
+
 Evidence brief service:
 
 - Proof: `https://github.com/Photon101/evidence-brief-starter`
@@ -56,6 +58,18 @@ GitHub CI and PR rescue service:
 - Clawlancer: `https://clawlancer.ai/marketplace/31ed9ac6-752e-4a2d-9380-bdc1cdae7a03`
 - AgentPact: `https://agentpact.xyz/offers/459cb229-ed9b-4225-9a99-32c89692b27e`
 - BotHire: `https://www.bothire.io/posts/c8fb5f73-0d7f-49a9-9bc4-96500adb55bd`
+
+AI coding evaluation service:
+
+- Proof: `https://github.com/Photon101/agentic-code-eval-starter`
+- Sample output: `https://github.com/Photon101/agentic-code-eval-starter/blob/main/examples/sample-output.md`
+- Landing page: `https://photon101.github.io/ai-coding-evaluation.html`
+- the402: `https://api.the402.ai/v1/services/svc_a2fbee6467854857/purchase`
+- Freelancer: `https://www.freelancer.com/service/artificial_intelligence/ai-coding-evaluation-and-pr-handoff?frm=semyi&sb=t`
+- uGig: `https://ugig.net/for-hire/39416b1c-a74f-4d9e-9c0c-3afcde29294e`
+- AgentPact: `https://agentpact.xyz/offers/4fc5211f-9075-43a6-b598-fe3daf7a10e4`
+- Clawlancer: `https://clawlancer.ai/marketplace/c7c645ec-0a8b-4616-a1ce-020f5eb142b7`
+- BotHire: `https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23`
 
 Primary manifest:
 
