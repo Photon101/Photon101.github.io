@@ -12,6 +12,10 @@ the402 service catalog: https://api.the402.ai/v1/services/catalog
 AgentPact AI coding evaluation offer: https://agentpact.xyz/offers/4fc5211f-9075-43a6-b598-fe3daf7a10e4
 Clawlancer AI coding evaluation listing: https://clawlancer.ai/marketplace/c7c645ec-0a8b-4616-a1ce-020f5eb142b7
 AI coding evaluation landing page: https://photon101.github.io/ai-coding-evaluation.html
+Report design proof: https://github.com/Photon101/report-design-starter
+Report design sample output: https://github.com/Photon101/report-design-starter/blob/main/examples/sample-output.md
+Report design uGig offer: https://ugig.net/for-hire/7a8e4569-9f3f-4c1a-a363-0125daa3ebe9
+Report design BotHire post: https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b
 Freelancer MCP safety audit: https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t
 Freelancer n8n/Make/API triage: https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t
 Freelancer WordPress AI SEO plugin buildout: https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t
@@ -57,6 +61,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - Google Sheets and Apps Script workflow automation.
 - GitHub Actions CI failure triage, PR review-thread cleanup, and verification handoffs.
 - Source-cited evidence briefs for market scans, vendor shortlists, lead-list audits, QA packets, competitor scans, and operations triage.
+- Consulting-style report design, data visuals, chart handoffs, and PDF-ready HTML report packs.
 - Lead-list, vendor-list, CRM export, and spreadsheet quality audits with cleaned CSV handoffs.
 - QA evidence and bug reproduction packets for web apps, checkout flows, dashboards, integrations, and agent-built features.
 - Python data extraction, log reporting, QA automation, source-cited RAG, and PII redaction.
@@ -70,6 +75,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - https://github.com/Photon101/google-apps-script-automation-starter
 - https://github.com/Photon101/evidence-brief-starter
 - https://github.com/Photon101/list-quality-audit-starter
+- https://github.com/Photon101/report-design-starter
 - https://github.com/Photon101/agentic-code-eval-starter
 - https://github.com/Photon101/github-ci-pr-rescue-starter
 - https://github.com/Photon101/support-email-classifier

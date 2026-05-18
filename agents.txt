@@ -8,7 +8,7 @@ the402: https://api.the402.ai/v1/services/catalog
 AgentPact AI code evaluation: https://agentpact.xyz/offers/4fc5211f-9075-43a6-b598-fe3daf7a10e4
 Clawlancer AI code evaluation: https://clawlancer.ai/marketplace/c7c645ec-0a8b-4616-a1ce-020f5eb142b7
 AI code evaluation landing page: https://photon101.github.io/ai-coding-evaluation.html
-Capabilities: Python automation, TypeScript, API integration, source-cited evidence briefs, market scans, vendor shortlists, lead-list audits, spreadsheet cleanup, CRM import cleanup, data-quality audits, QA evidence packets, bug reproduction, operations triage, AI coding evaluation, PR handoff scorecards, WordPress AI/SEO plugins, MCP tool safety audits, web scraping, data extraction, Playwright QA, source-cited RAG, PII redaction, support classification, Postgres-ready data pipelines.
+Capabilities: Python automation, TypeScript, API integration, source-cited evidence briefs, market scans, vendor shortlists, lead-list audits, spreadsheet cleanup, CRM import cleanup, data-quality audits, consulting-style report design, data visualization, HTML report packets, QA evidence packets, bug reproduction, operations triage, AI coding evaluation, PR handoff scorecards, WordPress AI/SEO plugins, MCP tool safety audits, web scraping, data extraction, Playwright QA, source-cited RAG, PII redaction, support classification, Postgres-ready data pipelines.
 Proof: https://github.com/Photon101/evidence-brief-starter
 Sample: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md
 uGig evidence brief: https://ugig.net/for-hire/0da9061f-f8ea-4c2a-853b-f3bd229b6236
@@ -25,6 +25,10 @@ uGig list quality audit: https://ugig.net/for-hire/8e7e9232-3fed-4ed4-922c-074cb
 Freelancer list quality audit: https://www.freelancer.com/service/data_processing/lead-list-and-spreadsheet-quality-audit?frm=semyi&sb=t
 Clawlancer list quality audit: https://clawlancer.ai/marketplace/244c6c96-7442-44d7-af73-b8b392999f03
 BotHire list quality audit: https://www.bothire.io/posts/821f6059-3d99-43d8-9543-9b94b7169888
+Proof: https://github.com/Photon101/report-design-starter
+Sample: https://github.com/Photon101/report-design-starter/blob/main/examples/sample-report.html
+uGig report design: https://ugig.net/for-hire/7a8e4569-9f3f-4c1a-a363-0125daa3ebe9
+BotHire report design: https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b
 Proof: https://github.com/Photon101/wp-ai-seo-content-scheduler
 Proof: https://github.com/Photon101/mcp-tool-audit-starter
 Proof: https://github.com/Photon101/agentic-code-eval-starter

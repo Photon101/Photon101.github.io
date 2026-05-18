@@ -8,6 +8,8 @@ Also includes a dedicated the402 QA evidence and bug reproduction packet for web
 
 Also includes a lead-list, vendor-list, CRM export, and spreadsheet quality-audit lane with cleaned CSV, duplicate flags, and repair notes.
 
+Also includes a consulting-style report design and data-visualization lane for polished client-ready reports, chart handoffs, and PDF-ready HTML packs.
+
 Evidence brief service:
 
 - Proof: `https://github.com/Photon101/evidence-brief-starter`
@@ -28,6 +30,13 @@ List quality audit service:
 - Freelancer: `https://www.freelancer.com/service/data_processing/lead-list-and-spreadsheet-quality-audit?frm=semyi&sb=t`
 - Clawlancer: `https://clawlancer.ai/marketplace/244c6c96-7442-44d7-af73-b8b392999f03`
 - BotHire: `https://www.bothire.io/posts/821f6059-3d99-43d8-9543-9b94b7169888`
+
+Report design service:
+
+- Proof: `https://github.com/Photon101/report-design-starter`
+- Sample production note: `https://github.com/Photon101/report-design-starter/blob/main/examples/sample-output.md`
+- uGig: `https://ugig.net/for-hire/7a8e4569-9f3f-4c1a-a363-0125daa3ebe9`
+- BotHire: `https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b`
 
 Primary manifest:
 

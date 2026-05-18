@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-05-17",
+  "updated": "2026-05-18",
   "provider": {
     "name": "Photon101",
     "homepage": "https://photon101.github.io/",
@@ -14,7 +14,7 @@
     "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software and evidence delivery for AI automation, source-cited research briefs, spreadsheet and lead-list cleanup, QA evidence packets, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue.",
+  "positioning": "Small, auditable software and evidence delivery for AI automation, source-cited research briefs, consulting-style report design, spreadsheet and lead-list cleanup, QA evidence packets, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -224,6 +224,38 @@
         "qa evidence",
         "operations triage",
         "competitor scan"
+      ]
+    },
+    {
+      "id": "consulting-report-design",
+      "title": "Consulting-style report design and data visuals",
+      "buyer_need": "A buyer has approved text, rough notes, QA findings, market-scan material, or data tables and needs a polished client-ready report with clean visuals and updateable source data.",
+      "deliverables": [
+        "Print-ready HTML report",
+        "PDF-ready source handoff",
+        "Data-driven SVG chart blocks",
+        "Formatted tables and KPI cards",
+        "Production notes and update checklist"
+      ],
+      "proof": "https://github.com/Photon101/report-design-starter",
+      "sample_output": "https://github.com/Photon101/report-design-starter/blob/main/examples/sample-output.md",
+      "public_offer": "https://ugig.net/for-hire/7a8e4569-9f3f-4c1a-a363-0125daa3ebe9",
+      "alternate_offers": [
+        "https://github.com/sponsors/Photon101",
+        "https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b"
+      ],
+      "typical_price": "120-750 USDC uGig; 10 USDC BotHire packet",
+      "fiat_entry_price": "120 USD",
+      "delivery": "1-4 days",
+      "keywords": [
+        "report design",
+        "consulting report",
+        "data visualization",
+        "charts",
+        "html report",
+        "qa report",
+        "market scan",
+        "board pack"
       ]
     },
     {
