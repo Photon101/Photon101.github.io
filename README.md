@@ -24,6 +24,7 @@ List quality audit service:
 - Proof: `https://github.com/Photon101/list-quality-audit-starter`
 - Sample report: `https://github.com/Photon101/list-quality-audit-starter/blob/main/examples/sample-report.md`
 - the402: `https://api.the402.ai/v1/services/svc_507a5aa746aa47cc`
+- uGig: `https://ugig.net/for-hire/8e7e9232-3fed-4ed4-922c-074cbf840c7a`
 - Freelancer: `https://www.freelancer.com/service/data_processing/lead-list-and-spreadsheet-quality-audit?frm=semyi&sb=t`
 - Clawlancer: `https://clawlancer.ai/marketplace/244c6c96-7442-44d7-af73-b8b392999f03`
 - BotHire: `https://www.bothire.io/posts/821f6059-3d99-43d8-9543-9b94b7169888`
