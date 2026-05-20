@@ -21,6 +21,7 @@ Report design AgentPact offer: https://agentpact.xyz/offers/6bfa6366-1ff5-4cd1-a
 Report design BotHire post: https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b
 Freelancer MCP safety audit: https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t
 Freelancer n8n/Make/API triage: https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t
+uGig Make.com scenario quick fix: https://ugig.net/for-hire/6381a577-37bb-4156-9185-d8c84f8b6daf
 Freelancer WordPress AI SEO plugin buildout: https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t
 WordPress pricing table proof: https://github.com/Photon101/wp-pricing-table-starter
 uGig WordPress pricing table implementation: https://ugig.net/for-hire/09c387ec-ebbb-4efe-924b-304d699b90e9
@@ -97,6 +98,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - Immersive Three.js/WebGL landing-page and hero-section implementations.
 - KDP and nonfiction ebook cover concept packs with SVG/PNG exports and contact sheets.
 - n8n, Make, Zapier, webhook, and API workflow repair.
+- Make.com scenario quick fixes for one broken run, module, webhook, JSON parse, or API mapping issue.
 - Google Sheets automation, Apps Script workflows, Sheets API status routing, WhatsApp Cloud API or webhook notification handoffs, and audit logs.
 - GitHub Actions CI failure triage, PR review-thread cleanup, and verification handoffs.
 - Source-cited evidence briefs for market scans, vendor shortlists, lead-list audits, QA packets, competitor scans, and operations triage.

@@ -16,6 +16,8 @@ Also includes AI coding evaluation and PR handoff scorecards for comparing agent
 
 Also includes Google Sheets automation and WhatsApp notifier work for Sheets API ingestion, status-to-recipient mapping, audit logs, and policy-compliant WhatsApp Cloud API or webhook delivery.
 
+Also includes a lower-entry Make.com scenario quick-fix rail for broken runs, webhook mappings, JSON parsing, API modules, and handoff notes.
+
 Also includes KDP and nonfiction ebook cover concept packs with SVG/PNG exports, review contact sheets, and production notes.
 
 Evidence brief service:

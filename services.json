@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-05-18",
+  "updated": "2026-05-20",
   "provider": {
     "name": "Photon101",
     "homepage": "https://photon101.github.io/",
@@ -208,15 +208,16 @@
         "Retry and handoff plan"
       ],
       "proof": "https://github.com/Photon101/make-n8n-workflow-debug-starter",
-      "public_offer": "https://ugig.net/for-hire/66a582fd-c1af-465d-801c-f73652608ecd",
+      "public_offer": "https://ugig.net/for-hire/6381a577-37bb-4156-9185-d8c84f8b6daf",
       "alternate_offers": [
+        "https://ugig.net/for-hire/66a582fd-c1af-465d-801c-f73652608ecd",
         "https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t",
         "https://api.the402.ai/v1/services/svc_889a788ef75c4e45/purchase",
         "https://www.bothire.io/posts/7cc4bd82-5058-4152-8c2b-4c5091f69620"
       ],
-      "typical_price": "150-800 USDC",
+      "typical_price": "45-180 USDC quick fix; 150-800 USDC buildout",
       "fiat_entry_price": "180 USD",
-      "delivery": "1-5 days",
+      "delivery": "same day to 5 days",
       "keywords": [
         "n8n",
         "Make",
