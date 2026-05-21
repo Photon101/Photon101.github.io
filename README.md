@@ -18,6 +18,8 @@ Also includes Google Sheets automation and WhatsApp notifier work for Sheets API
 
 Also includes a lower-entry Make.com scenario quick-fix rail for broken runs, webhook mappings, JSON parsing, API modules, and handoff notes.
 
+Also includes YouTube channel positioning and 2-week content plans for small channels using public videos, captions/transcripts, titles, thumbnails, and simple test plans.
+
 Also includes KDP and nonfiction ebook cover concept packs with SVG/PNG exports, review contact sheets, and production notes.
 
 Evidence brief service:
@@ -54,6 +56,12 @@ Report design service:
 - Clawlancer: `https://clawlancer.ai/marketplace/239ee21d-db79-44c4-8664-50bc9596f34c`
 - AgentPact: `https://agentpact.xyz/offers/6bfa6366-1ff5-4cd1-a32e-a379feed36d6`
 - BotHire: `https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b`
+
+YouTube channel positioning service:
+
+- uGig: `https://ugig.net/for-hire/9a538e3f-e84c-49d2-a8df-96f97c3d64b1`
+- Proof: `https://github.com/Photon101/evidence-brief-starter`
+- Sample output: `https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md`
 
 KDP ebook cover concept pack:
 

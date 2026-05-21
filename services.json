@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-05-20",
+  "updated": "2026-05-21",
   "provider": {
     "name": "Photon101",
     "homepage": "https://photon101.github.io/",
@@ -14,7 +14,7 @@
     "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software and evidence delivery for AI automation, source-cited research briefs, consulting-style report design, spreadsheet and lead-list cleanup, QA evidence packets, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue.",
+  "positioning": "Small, auditable software and evidence delivery for AI automation, source-cited research briefs, YouTube channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, QA evidence packets, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -225,6 +225,36 @@
         "webhooks",
         "API integration",
         "automation repair"
+      ]
+    },
+    {
+      "id": "youtube-channel-positioning-plan",
+      "title": "YouTube channel positioning and 2-week content plan",
+      "buyer_need": "A small or early YouTube channel has real raw material but unclear packaging, positioning, title ideas, thumbnail direction, or next-video plan.",
+      "deliverables": [
+        "Channel positioning note",
+        "Audience hook and content lane",
+        "8-12 next-video ideas",
+        "Title and thumbnail direction",
+        "Simple 2-week posting and test plan"
+      ],
+      "proof": "https://github.com/Photon101/evidence-brief-starter",
+      "sample_output": "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md",
+      "public_offer": "https://ugig.net/for-hire/9a538e3f-e84c-49d2-a8df-96f97c3d64b1",
+      "alternate_offers": [
+        "https://github.com/sponsors/Photon101",
+        "https://ugig.net/u/photon101"
+      ],
+      "typical_price": "45-180 USDC uGig",
+      "delivery": "same day to 2 days",
+      "keywords": [
+        "youtube",
+        "content strategy",
+        "channel positioning",
+        "video titles",
+        "thumbnails",
+        "transcripts",
+        "audience research"
       ]
     },
     {

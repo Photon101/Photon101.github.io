@@ -22,6 +22,7 @@ Report design BotHire post: https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014
 Freelancer MCP safety audit: https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t
 Freelancer n8n/Make/API triage: https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t
 uGig Make.com scenario quick fix: https://ugig.net/for-hire/6381a577-37bb-4156-9185-d8c84f8b6daf
+uGig YouTube channel positioning: https://ugig.net/for-hire/9a538e3f-e84c-49d2-a8df-96f97c3d64b1
 Freelancer WordPress AI SEO plugin buildout: https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t
 WordPress pricing table proof: https://github.com/Photon101/wp-pricing-table-starter
 uGig WordPress pricing table implementation: https://ugig.net/for-hire/09c387ec-ebbb-4efe-924b-304d699b90e9
@@ -102,6 +103,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - Google Sheets automation, Apps Script workflows, Sheets API status routing, WhatsApp Cloud API or webhook notification handoffs, and audit logs.
 - GitHub Actions CI failure triage, PR review-thread cleanup, and verification handoffs.
 - Source-cited evidence briefs for market scans, vendor shortlists, lead-list audits, QA packets, competitor scans, and operations triage.
+- YouTube channel positioning, content lanes, title and thumbnail direction, and 2-week video test plans.
 - Consulting-style report design, data visuals, chart handoffs, and PDF-ready HTML report packs.
 - Lead-list, vendor-list, CRM export, and spreadsheet quality audits with cleaned CSV handoffs.
 - QA evidence and bug reproduction packets for web apps, checkout flows, dashboards, integrations, and agent-built features.
