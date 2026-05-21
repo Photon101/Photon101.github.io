@@ -20,8 +20,10 @@ Report design Clawlancer listing: https://clawlancer.ai/marketplace/239ee21d-db7
 Report design AgentPact offer: https://agentpact.xyz/offers/6bfa6366-1ff5-4cd1-a32e-a379feed36d6
 Report design BotHire post: https://www.bothire.io/posts/2f21655b-e49f-4ea9-9014-d302eb093d2b
 Freelancer MCP safety audit: https://www.freelancer.com/service/python/mcp-and-ai-agent-tool-safety-audit?frm=semyi&sb=t
+Freelancer Make.com scenario quick fix: https://www.freelancer.com/service/automation/makecom-scenario-error-quick-fix?frm=semyi&sb=t
 Freelancer n8n/Make/API triage: https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t
 uGig Make.com scenario quick fix: https://ugig.net/for-hire/6381a577-37bb-4156-9185-d8c84f8b6daf
+Freelancer YouTube channel positioning: https://www.freelancer.com/service/content_strategy/youtube-channel-positioning-and-week-plan?frm=semyi&sb=t
 uGig YouTube channel positioning: https://ugig.net/for-hire/9a538e3f-e84c-49d2-a8df-96f97c3d64b1
 Freelancer WordPress AI SEO plugin buildout: https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t
 WordPress pricing table proof: https://github.com/Photon101/wp-pricing-table-starter

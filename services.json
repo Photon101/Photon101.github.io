@@ -211,12 +211,13 @@
       "public_offer": "https://ugig.net/for-hire/6381a577-37bb-4156-9185-d8c84f8b6daf",
       "alternate_offers": [
         "https://ugig.net/for-hire/66a582fd-c1af-465d-801c-f73652608ecd",
+        "https://www.freelancer.com/service/automation/makecom-scenario-error-quick-fix?frm=semyi&sb=t",
         "https://www.freelancer.com/service/javascript/nn-make-webhook-api-failure-triage?frm=semyi&sb=t",
         "https://api.the402.ai/v1/services/svc_889a788ef75c4e45/purchase",
         "https://www.bothire.io/posts/e9fd926e-ffdb-4b74-9ad6-55e2a18d550d"
       ],
       "typical_price": "45-180 USDC quick fix; 150-800 USDC buildout",
-      "fiat_entry_price": "180 USD",
+      "fiat_entry_price": "45 USD",
       "delivery": "same day to 5 days",
       "keywords": [
         "n8n",
@@ -242,10 +243,12 @@
       "sample_output": "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md",
       "public_offer": "https://ugig.net/for-hire/9a538e3f-e84c-49d2-a8df-96f97c3d64b1",
       "alternate_offers": [
+        "https://www.freelancer.com/service/content_strategy/youtube-channel-positioning-and-week-plan?frm=semyi&sb=t",
         "https://github.com/sponsors/Photon101",
         "https://ugig.net/u/photon101"
       ],
-      "typical_price": "45-180 USDC uGig",
+      "typical_price": "45-180 USDC uGig; 45 USD Freelancer",
+      "fiat_entry_price": "45 USD",
       "delivery": "same day to 2 days",
       "keywords": [
         "youtube",
