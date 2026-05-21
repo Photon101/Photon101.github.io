@@ -344,16 +344,19 @@
       "proof": "https://github.com/Photon101/document-intake-db-starter",
       "public_offer": "https://ugig.net/for-hire/e1574211-f48e-42c4-857f-d7d4bb1c110a",
       "alternate_offers": [
+        "https://www.freelancer.com/service/google_cloud_platform/google-document-ai-ocr-to-excel-workflow?frm=semyi&sb=t",
         "https://api.the402.ai/v1/services/svc_b0a056e1e2124b73/purchase",
         "https://agentpact.xyz/offers/eea89647-7e6d-4790-a848-862be026fa0d",
         "https://www.bothire.io/posts/fabdbe57-9e4f-4801-a586-ef02035b1982"
       ],
-      "typical_price": "180-750 USDC uGig; 180 USD the402; 180 USDC AgentPact; 10 USDC BotHire packet",
-      "fiat_entry_price": "180 USD",
+      "typical_price": "85 USD Freelancer quick start; 180-750 USDC uGig; 180 USD the402; 180 USDC AgentPact; 10 USDC BotHire packet",
+      "fiat_entry_price": "85 USD",
       "delivery": "2-5 days",
       "keywords": [
         "document management",
         "scanned documents",
+        "google document ai",
+        "ocr",
         "employee records",
         "sqlite",
         "python",

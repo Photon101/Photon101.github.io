@@ -47,6 +47,7 @@ the402 Google Sheets to WhatsApp notifier purchase endpoint: https://api.the402.
 BotHire Google Sheets to WhatsApp notifier packet: https://www.bothire.io/posts/87d8dade-5dc1-4f56-9007-f15c7902d757
 AgentPact Google Sheets to WhatsApp notifier offer: https://agentpact.xyz/offers/2ba4f977-8c40-40e6-98f9-ae16cae871fe
 Document intake DB proof: https://github.com/Photon101/document-intake-db-starter
+Freelancer Google Document AI OCR to Excel workflow: https://www.freelancer.com/service/google_cloud_platform/google-document-ai-ocr-to-excel-workflow?frm=semyi&sb=t
 uGig scanned document intake database: https://ugig.net/for-hire/e1574211-f48e-42c4-857f-d7d4bb1c110a
 the402 scanned document intake database purchase endpoint: https://api.the402.ai/v1/services/svc_b0a056e1e2124b73/purchase
 AgentPact scanned document intake database offer: https://agentpact.xyz/offers/eea89647-7e6d-4790-a848-862be026fa0d

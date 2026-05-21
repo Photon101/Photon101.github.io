@@ -18,9 +18,13 @@ Also includes AI coding evaluation and PR handoff scorecards for comparing agent
 
 Also includes Google Sheets automation and WhatsApp notifier work for Sheets API ingestion, status-to-recipient mapping, audit logs, and policy-compliant WhatsApp Cloud API or webhook delivery.
 
+Also includes a Google Document AI OCR to Excel quick-start service for Gmail/folder intake, field extraction mapping, cleaned CSV/Excel output, validation notes, and short handoff.
+
 Also includes a lower-entry Make.com scenario quick-fix rail for broken runs, webhook mappings, JSON parsing, API modules, and handoff notes.
 
 Freelancer quick-fix entry: `https://www.freelancer.com/service/automation/makecom-scenario-error-quick-fix?frm=semyi&sb=t`
+
+Freelancer Google Document AI OCR quick-start: `https://www.freelancer.com/service/google_cloud_platform/google-document-ai-ocr-to-excel-workflow?frm=semyi&sb=t`
 
 Also includes YouTube channel positioning and 2-week content plans for small channels using public videos, captions/transcripts, titles, thumbnails, and simple test plans.
 
