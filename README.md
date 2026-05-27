@@ -28,6 +28,12 @@ Ecommerce product scraper BotHire packet: `https://www.bothire.io/posts/ffcae639
 
 Ecommerce product scraper AgentPact offer: `https://agentpact.xyz/offers/3aafb6ca-56fd-455f-8a87-824f6a5c8447`
 
+Also includes Node.js product and vendor API backend modules with validation, pagination, SQL mapping notes, tests, and frontend or Flutter handoff.
+
+Node API backend proof: `https://github.com/Photon101/node-api-backend-starter`
+
+Node API backend BotHire packet: `https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b`
+
 Also includes AI coding evaluation and PR handoff scorecards for comparing agent-written patches before merge.
 
 Also includes Google Sheets automation and WhatsApp notifier work for Sheets API ingestion, status-to-recipient mapping, audit logs, and policy-compliant WhatsApp Cloud API or webhook delivery.

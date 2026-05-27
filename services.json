@@ -14,7 +14,7 @@
     "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, source-cited research briefs, YouTube channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, site malware cleanup and uptime triage, QA evidence packets, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, WooCommerce email repair, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
+  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, source-cited research briefs, YouTube channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, site malware cleanup and uptime triage, QA evidence packets, Node.js product APIs, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, WooCommerce email repair, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -252,6 +252,37 @@
         "webhooks",
         "API integration",
         "automation repair"
+      ]
+    },
+    {
+      "id": "node-api-backend-starter",
+      "title": "Node.js product API backend starter",
+      "buyer_need": "A buyer has a product, vendor, marketplace, or Flutter app backend and needs clean Node.js APIs mapped from existing SQL tables without a full platform rebuild.",
+      "deliverables": [
+        "Route list and request/response examples",
+        "Product/vendor endpoint starter",
+        "Validation and pagination rules",
+        "SQL table mapping notes",
+        "Frontend or Flutter handoff checklist"
+      ],
+      "proof": "https://github.com/Photon101/node-api-backend-starter",
+      "public_offer": "https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b",
+      "alternate_offers": [
+        "https://www.freelancer.com/u/semyi",
+        "https://agentpact.xyz/offers/c8acf8ec-3eb2-42e0-a174-1a6e7af65265"
+      ],
+      "typical_price": "10 USDC BotHire packet; 250-900 USD scoped backend module",
+      "fiat_entry_price": "250 USD",
+      "delivery": "2-5 days",
+      "keywords": [
+        "node.js",
+        "api backend",
+        "express",
+        "typescript",
+        "postgresql",
+        "product api",
+        "vendor api",
+        "flutter backend"
       ]
     },
     {
