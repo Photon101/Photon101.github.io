@@ -14,7 +14,7 @@
     "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software and evidence delivery for AI automation, source-cited research briefs, YouTube channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, QA evidence packets, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
+  "positioning": "Small, auditable software and evidence delivery for AI automation, source-cited research briefs, YouTube channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, QA evidence packets, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -328,6 +328,36 @@
         "crm import",
         "data quality",
         "dedupe"
+      ]
+    },
+    {
+      "id": "excel-financial-model-audit",
+      "title": "Excel financial model audit and cleanup packet",
+      "buyer_need": "A buyer has a draft financial model, KPI workbook, forecast, board-pack spreadsheet, or operating tracker that needs formula review, hardcoded-input notes, error checks, and a practical cleanup plan before handoff or automation.",
+      "deliverables": [
+        "Workbook structure and sheet-role map",
+        "Formula, error, volatile-function, and external-link audit",
+        "Likely hardcoded numeric input list",
+        "Markdown and JSON evidence report",
+        "Prioritized cleanup and automation recommendations"
+      ],
+      "proof": "https://github.com/Photon101/excel-model-audit-starter",
+      "sample_output": "https://github.com/Photon101/excel-model-audit-starter/blob/main/examples/sample-report.md",
+      "public_offer": "https://www.bothire.io/posts/8ede7696-fcab-4ebb-a1d0-d9b401d2f127",
+      "alternate_offers": [
+        "https://github.com/sponsors/Photon101"
+      ],
+      "typical_price": "10 USDC BotHire packet; 95-350 USDC fuller review",
+      "fiat_entry_price": "95 USD",
+      "delivery": "1-3 days",
+      "keywords": [
+        "excel",
+        "financial model",
+        "spreadsheet audit",
+        "formula review",
+        "hardcoded inputs",
+        "forecast cleanup",
+        "model handoff"
       ]
     },
     {

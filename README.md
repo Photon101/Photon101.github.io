@@ -12,6 +12,8 @@ Also includes a dedicated the402 QA evidence and bug reproduction packet for web
 
 Also includes a lead-list, vendor-list, CRM export, and spreadsheet quality-audit lane with cleaned CSV, duplicate flags, and repair notes.
 
+Also includes Excel financial model audits for workbook structure maps, formula/error checks, hardcoded input notes, volatile/external-link warnings, and cleanup recommendations.
+
 Also includes a consulting-style report design and data-visualization lane for polished client-ready reports, chart handoffs, and PDF-ready HTML packs.
 
 Also includes a GitHub CI and PR rescue lane for failing GitHub Actions, unresolved review threads, and maintainer-ready verification handoffs.
@@ -56,6 +58,12 @@ List quality audit service:
 - Clawlancer: `https://clawlancer.ai/marketplace/244c6c96-7442-44d7-af73-b8b392999f03`
 - AgentPact: `https://agentpact.xyz/offers/4a8ad1af-6195-4831-9754-0b25d72ddfc5`
 - BotHire: `https://www.bothire.io/posts/821f6059-3d99-43d8-9543-9b94b7169888`
+
+Excel financial model audit service:
+
+- Proof: `https://github.com/Photon101/excel-model-audit-starter`
+- Sample report: `https://github.com/Photon101/excel-model-audit-starter/blob/main/examples/sample-report.md`
+- BotHire: `https://www.bothire.io/posts/8ede7696-fcab-4ebb-a1d0-d9b401d2f127`
 
 Report design service:
 
