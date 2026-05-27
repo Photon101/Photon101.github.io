@@ -46,6 +46,12 @@ LLM prompt workflow the402 purchase endpoint: `https://api.the402.ai/v1/services
 
 LLM prompt workflow BotHire packet: `https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d`
 
+Also includes GoHighLevel funnel setup for landing pages, opt-in forms, tags, redirects, nurture email timing, and customer routing from provided copy/templates.
+
+GoHighLevel funnel setup the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_4966cf730c4f4288/purchase`
+
+GoHighLevel funnel setup BotHire packet: `https://www.bothire.io/posts/3c653e70-a8dd-48c8-b734-ab6547fae54e`
+
 Also includes Google Sheets automation and WhatsApp notifier work for Sheets API ingestion, status-to-recipient mapping, audit logs, and policy-compliant WhatsApp Cloud API or webhook delivery.
 
 Also includes a Google Document AI OCR to Excel quick-start service for Gmail/folder intake, field extraction mapping, cleaned CSV/Excel output, validation notes, and short handoff.

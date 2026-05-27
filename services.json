@@ -639,6 +639,36 @@
       ]
     },
     {
+      "id": "gohighlevel-funnel-setup",
+      "title": "GoHighLevel funnel setup and email sequence",
+      "buyer_need": "A buyer has a small GHL funnel spec, copied pages, emails, tags, redirects, or nurture rules and needs the setup completed accurately from existing copy/templates.",
+      "deliverables": [
+        "Landing-page/template setup or cloning notes",
+        "Opt-in form, redirect, and tag configuration",
+        "Email nurture sequence timing checklist",
+        "Purchase/customer routing notes",
+        "QA and handoff checklist"
+      ],
+      "proof": "https://photon101.github.io/services.json",
+      "public_offer": "https://api.the402.ai/v1/services/svc_4966cf730c4f4288/purchase",
+      "alternate_offers": [
+        "https://www.bothire.io/posts/3c653e70-a8dd-48c8-b734-ab6547fae54e",
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "180 USD the402 service; 10 USDC BotHire checklist packet; larger GHL builds quoted separately",
+      "fiat_entry_price": "180 USD",
+      "delivery": "2 days for small setup when copy/assets are provided",
+      "keywords": [
+        "gohighlevel",
+        "ghl",
+        "funnel",
+        "landing pages",
+        "email sequence",
+        "crm automation",
+        "lead magnet"
+      ]
+    },
+    {
       "id": "ai-code-evaluation-handoff",
       "title": "AI coding evaluation and PR handoff",
       "buyer_need": "A buyer has multiple AI coding-agent outputs, candidate patches, CI logs, or PR handoffs and needs an evidence-based recommendation before trusting or merging the work.",
