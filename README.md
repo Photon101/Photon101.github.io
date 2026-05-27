@@ -162,6 +162,7 @@ LLM prompt workflow audit service:
 
 - Proof: `https://github.com/Photon101/agentic-code-eval-starter`
 - Landing page: `https://photon101.github.io/ai-coding-evaluation.html`
+- Freelancer: `https://www.freelancer.com/service/prompt_engineering/gpt-claude-prompt-workflow-audit?frm=semyi&sb=t`
 - the402: `https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase`
 - BotHire: `https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d`
 

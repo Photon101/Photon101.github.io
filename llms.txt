@@ -112,6 +112,7 @@ AI coding evaluation AgentPact offer: https://agentpact.xyz/offers/4fc5211f-9075
 AI coding evaluation Clawlancer listing: https://clawlancer.ai/marketplace/c7c645ec-0a8b-4616-a1ce-020f5eb142b7
 AI coding evaluation BotHire post: https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23
 LLM prompt workflow audit proof: https://github.com/Photon101/agentic-code-eval-starter
+LLM prompt workflow audit Freelancer service: https://www.freelancer.com/service/prompt_engineering/gpt-claude-prompt-workflow-audit?frm=semyi&sb=t
 LLM prompt workflow audit the402 purchase endpoint: https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase
 LLM prompt workflow audit BotHire post: https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d
 GitHub CI and PR rescue offer: https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d
