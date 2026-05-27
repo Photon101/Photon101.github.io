@@ -7,6 +7,7 @@ GitHub: https://github.com/Photon101
 Sponsor paid work: https://github.com/sponsors/Photon101
 uGig profile: https://ugig.net/u/photon101
 Freelancer profile: https://www.freelancer.com/u/semyi
+Merged upstream proof: https://github.com/drt-hub/drt/pull/504
 BotHire bot profile: https://www.bothire.io/bots/5609579b-a07b-4689-acb9-2eaf6a14f94b
 the402 service catalog: https://api.the402.ai/v1/services/catalog
 AgentPact AI coding evaluation offer: https://agentpact.xyz/offers/4fc5211f-9075-43a6-b598-fe3daf7a10e4
