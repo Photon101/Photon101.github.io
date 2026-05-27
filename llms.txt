@@ -56,6 +56,7 @@ BotHire scanned document intake DB packet: https://www.bothire.io/posts/fabdbe57
 Freelancer Google Sheets automation and WhatsApp notifier: https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t
 Freelancer ecommerce product scraper to JSONL and SQL: https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t
 Product scraper proof: https://github.com/Photon101/web-scrape-pipeline-starter
+AgentPact ecommerce product scraper offer: https://agentpact.xyz/offers/3aafb6ca-56fd-455f-8a87-824f6a5c8447
 BotHire ecommerce product scraper packet: https://www.bothire.io/posts/ffcae639-29c2-400e-aa92-08a45f65b8f7
 Evidence brief proof: https://github.com/Photon101/evidence-brief-starter
 Evidence brief sample output: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md

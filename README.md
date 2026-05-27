@@ -24,6 +24,8 @@ Also includes an ecommerce product scraper lane for clean JSONL/SQL exports with
 
 Ecommerce product scraper BotHire packet: `https://www.bothire.io/posts/ffcae639-29c2-400e-aa92-08a45f65b8f7`
 
+Ecommerce product scraper AgentPact offer: `https://agentpact.xyz/offers/3aafb6ca-56fd-455f-8a87-824f6a5c8447`
+
 Also includes AI coding evaluation and PR handoff scorecards for comparing agent-written patches before merge.
 
 Also includes Google Sheets automation and WhatsApp notifier work for Sheets API ingestion, status-to-recipient mapping, audit logs, and policy-compliant WhatsApp Cloud API or webhook delivery.
