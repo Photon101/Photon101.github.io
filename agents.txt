@@ -41,6 +41,7 @@ Freelancer Excel model audit service: https://www.freelancer.com/service/excel/e
 BotHire Excel model audit packet: https://www.bothire.io/posts/8ede7696-fcab-4ebb-a1d0-d9b401d2f127
 Ecommerce product scraper proof: https://github.com/Photon101/web-scrape-pipeline-starter
 Freelancer ecommerce product scraper service: https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t
+BotHire ecommerce product scraper packet: https://www.bothire.io/posts/ffcae639-29c2-400e-aa92-08a45f65b8f7
 Site malware uptime audit proof: https://github.com/Photon101/site-malware-uptime-audit-starter
 Site malware uptime audit sample report: https://github.com/Photon101/site-malware-uptime-audit-starter/blob/main/examples/sample-report.md
 Freelancer site malware uptime triage service: https://www.freelancer.com/service/php/site-malware-cleanup-and-uptime-triage?frm=semyi&sb=t

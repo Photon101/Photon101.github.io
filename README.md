@@ -22,6 +22,8 @@ Also includes a GitHub CI and PR rescue lane for failing GitHub Actions, unresol
 
 Also includes an ecommerce product scraper lane for clean JSONL/SQL exports with SKU, price, currency, availability, product URLs, image URLs, dedupe, source hashes, and a tested handoff.
 
+Ecommerce product scraper BotHire packet: `https://www.bothire.io/posts/ffcae639-29c2-400e-aa92-08a45f65b8f7`
+
 Also includes AI coding evaluation and PR handoff scorecards for comparing agent-written patches before merge.
 
 Also includes Google Sheets automation and WhatsApp notifier work for Sheets API ingestion, status-to-recipient mapping, audit logs, and policy-compliant WhatsApp Cloud API or webhook delivery.

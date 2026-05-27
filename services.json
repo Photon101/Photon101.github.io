@@ -518,9 +518,10 @@
       "proof": "https://github.com/Photon101/web-scrape-pipeline-starter",
       "public_offer": "https://ugig.net/for-hire/cf3d586d-1c99-4b92-a1f6-ff320cbc365f",
       "alternate_offers": [
-        "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t"
+        "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t",
+        "https://www.bothire.io/posts/ffcae639-29c2-400e-aa92-08a45f65b8f7"
       ],
-      "typical_price": "250-1200 USDC",
+      "typical_price": "250-1200 USDC; 260 USD Freelancer; 10 USDC BotHire packet",
       "fiat_entry_price": "260 USD",
       "delivery": "4-8 days",
       "keywords": [
