@@ -54,6 +54,7 @@ Node API backend BotHire packet: https://www.bothire.io/posts/f8448bc5-5a39-4588
 Site malware uptime audit proof: https://github.com/Photon101/site-malware-uptime-audit-starter
 Site malware uptime audit sample report: https://github.com/Photon101/site-malware-uptime-audit-starter/blob/main/examples/sample-report.md
 Freelancer site malware uptime triage service: https://www.freelancer.com/service/php/site-malware-cleanup-and-uptime-triage?frm=semyi&sb=t
+the402 site malware uptime triage purchase endpoint: https://api.the402.ai/v1/services/svc_b195615214684603/purchase
 BotHire site malware uptime triage packet: https://www.bothire.io/posts/3834e0b1-a989-486c-8dbc-a30ca4907f10
 WooCommerce email repair proof: https://github.com/Photon101/woocommerce-email-audit-starter
 WooCommerce email repair sample report: https://github.com/Photon101/woocommerce-email-audit-starter/blob/main/examples/output/report.md

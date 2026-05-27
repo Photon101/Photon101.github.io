@@ -89,6 +89,7 @@ Excel financial model audit service:
 Site malware cleanup and uptime triage:
 
 - Freelancer: `https://www.freelancer.com/service/php/site-malware-cleanup-and-uptime-triage?frm=semyi&sb=t`
+- the402: `https://api.the402.ai/v1/services/svc_b195615214684603/purchase`
 - Proof: `https://github.com/Photon101/site-malware-uptime-audit-starter`
 - Sample report: `https://github.com/Photon101/site-malware-uptime-audit-starter/blob/main/examples/sample-report.md`
 - BotHire: `https://www.bothire.io/posts/3834e0b1-a989-486c-8dbc-a30ca4907f10`
