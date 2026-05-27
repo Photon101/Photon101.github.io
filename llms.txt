@@ -63,6 +63,7 @@ Product scraper proof: https://github.com/Photon101/web-scrape-pipeline-starter
 AgentPact ecommerce product scraper offer: https://agentpact.xyz/offers/3aafb6ca-56fd-455f-8a87-824f6a5c8447
 BotHire ecommerce product scraper packet: https://www.bothire.io/posts/ffcae639-29c2-400e-aa92-08a45f65b8f7
 Node API backend proof: https://github.com/Photon101/node-api-backend-starter
+Node API backend Freelancer service: https://www.freelancer.com/service/nodejs/nodejs-supabase-api-backend-repair?frm=semyi&sb=t
 Node API backend BotHire packet: https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b
 Evidence brief proof: https://github.com/Photon101/evidence-brief-starter
 Evidence brief sample output: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md
