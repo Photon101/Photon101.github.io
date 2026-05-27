@@ -26,6 +26,9 @@ Node API backend proof: https://github.com/Photon101/node-api-backend-starter
 Node API backend Freelancer service: https://www.freelancer.com/service/nodejs/nodejs-supabase-api-backend-repair?frm=semyi&sb=t
 Node API backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase
 Node API backend BotHire packet: https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b
+React Node EC2 deployment proof: https://github.com/Photon101/react-node-ec2-deploy-starter
+React Node EC2 deployment the402 purchase endpoint: https://api.the402.ai/v1/services/svc_48ebc047f3f448a9/purchase
+React Node EC2 deployment BotHire packet: https://www.bothire.io/posts/3d26e8c7-15e7-45ee-8069-a58466e082c0
 Farm management SaaS backend proof: https://github.com/Photon101/farm-management-saas-starter
 Farm management SaaS backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_5c4601c0df1641a8/purchase
 Farm management SaaS backend BotHire packet: https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715
@@ -61,6 +64,9 @@ BotHire ecommerce product scraper packet: https://www.bothire.io/posts/ffcae639-
 Node API backend proof: https://github.com/Photon101/node-api-backend-starter
 Node API backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase
 Node API backend BotHire packet: https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b
+React Node EC2 deployment proof: https://github.com/Photon101/react-node-ec2-deploy-starter
+React Node EC2 deployment the402 purchase endpoint: https://api.the402.ai/v1/services/svc_48ebc047f3f448a9/purchase
+React Node EC2 deployment BotHire packet: https://www.bothire.io/posts/3d26e8c7-15e7-45ee-8069-a58466e082c0
 Farm management SaaS backend proof: https://github.com/Photon101/farm-management-saas-starter
 Farm management SaaS backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_5c4601c0df1641a8/purchase
 Farm management SaaS backend BotHire packet: https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715

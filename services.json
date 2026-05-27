@@ -290,6 +290,38 @@
       ]
     },
     {
+      "id": "react-node-ec2-deployment",
+      "title": "React Node EC2 deployment handoff",
+      "buyer_need": "A buyer has a React frontend and Node.js API that need to go live on AWS EC2 with Nginx, SSL, process management, MongoDB environment wiring, and reproducible handoff notes.",
+      "deliverables": [
+        "EC2 deployment checklist",
+        "Nginx reverse-proxy notes",
+        "PM2 or systemd process handoff",
+        "MongoDB/env variable wiring notes",
+        "DNS, SSL, verification, and rollback commands"
+      ],
+      "proof": "https://github.com/Photon101/react-node-ec2-deploy-starter",
+      "public_offer": "https://api.the402.ai/v1/services/svc_48ebc047f3f448a9/purchase",
+      "alternate_offers": [
+        "https://www.bothire.io/posts/3d26e8c7-15e7-45ee-8069-a58466e082c0",
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "95 USD the402 handoff; 10 USDC BotHire packet; hands-on EC2 deployment quoted by access/scope",
+      "fiat_entry_price": "95 USD",
+      "delivery": "1 day",
+      "keywords": [
+        "aws",
+        "ec2",
+        "react",
+        "node.js",
+        "nginx",
+        "pm2",
+        "mongodb",
+        "ssl",
+        "deployment"
+      ]
+    },
+    {
       "id": "farm-management-saas-backend",
       "title": "Mobile farm SaaS backend foundation",
       "buyer_need": "A farm-management, agtech, or operations SaaS buyer needs a mobile-first backend foundation for crops, livestock, aquaculture, tasks, inventory, and finance before adding AI, ecommerce, LMS, or subscription modules.",

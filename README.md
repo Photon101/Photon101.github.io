@@ -38,6 +38,12 @@ Node API backend the402 purchase endpoint: `https://api.the402.ai/v1/services/sv
 
 Node API backend BotHire packet: `https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b`
 
+React Node EC2 deployment proof: `https://github.com/Photon101/react-node-ec2-deploy-starter`
+
+React Node EC2 deployment the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_48ebc047f3f448a9/purchase`
+
+React Node EC2 deployment BotHire packet: `https://www.bothire.io/posts/3d26e8c7-15e7-45ee-8069-a58466e082c0`
+
 Farm management SaaS backend proof: `https://github.com/Photon101/farm-management-saas-starter`
 
 Farm management SaaS backend the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_5c4601c0df1641a8/purchase`

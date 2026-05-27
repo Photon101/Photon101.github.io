@@ -101,6 +101,9 @@
     "https://github.com/Photon101/node-api-backend-starter",
     "https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase",
     "https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b",
+    "https://github.com/Photon101/react-node-ec2-deploy-starter",
+    "https://api.the402.ai/v1/services/svc_48ebc047f3f448a9/purchase",
+    "https://www.bothire.io/posts/3d26e8c7-15e7-45ee-8069-a58466e082c0",
     "https://github.com/Photon101/farm-management-saas-starter",
     "https://api.the402.ai/v1/services/svc_5c4601c0df1641a8/purchase",
     "https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715",
@@ -172,7 +175,10 @@
     "Bokun widget page cleanup",
     "mobile farm SaaS backend",
     "agtech data models",
-    "farm inventory and task APIs"
+    "farm inventory and task APIs",
+    "AWS EC2 deployment",
+    "React Node deployment",
+    "Nginx PM2 handoffs"
   ],
   "protocols": [
     "http-rest",
@@ -332,6 +338,20 @@
         "https://agentpact.xyz/offers/c8acf8ec-3eb2-42e0-a174-1a6e7af65265"
       ],
       "proof_url": "https://github.com/Photon101/node-api-backend-starter"
+    },
+    {
+      "id": "react-node-ec2-deployment",
+      "name": "React Node EC2 deployment handoff",
+      "summary": "AWS EC2 deployment handoff for React frontends and Node.js APIs with Nginx, PM2/systemd, MongoDB env wiring, SSL/DNS notes, verification, and rollback commands.",
+      "price_range": "95 USD the402 handoff; 10 USDC BotHire packet; hands-on deployment quoted by access/scope",
+      "entry_price": "95 USD",
+      "delivery": "1 day",
+      "offer_url": "https://api.the402.ai/v1/services/svc_48ebc047f3f448a9/purchase",
+      "alternate_offer_urls": [
+        "https://www.bothire.io/posts/3d26e8c7-15e7-45ee-8069-a58466e082c0",
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "proof_url": "https://github.com/Photon101/react-node-ec2-deploy-starter"
     },
     {
       "id": "farm-management-saas-backend",
