@@ -34,6 +34,8 @@ Node API backend proof: `https://github.com/Photon101/node-api-backend-starter`
 
 Node API backend Freelancer service: `https://www.freelancer.com/service/nodejs/nodejs-supabase-api-backend-repair?frm=semyi&sb=t`
 
+Node API backend the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase`
+
 Node API backend BotHire packet: `https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b`
 
 Also includes AI coding evaluation and PR handoff scorecards for comparing agent-written patches before merge.

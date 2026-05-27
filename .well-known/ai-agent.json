@@ -97,6 +97,7 @@
     "https://github.com/Photon101/site-malware-uptime-audit-starter/blob/main/examples/sample-report.md",
     "https://www.bothire.io/posts/3834e0b1-a989-486c-8dbc-a30ca4907f10",
     "https://github.com/Photon101/node-api-backend-starter",
+    "https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase",
     "https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b"
   ],
   "capabilities": [
@@ -303,11 +304,12 @@
       "id": "node-api-backend-starter",
       "name": "Node.js product API backend starter",
       "summary": "Bounded Node.js backend module for product/vendor APIs with route plan, validation rules, pagination, SQL mapping notes, tests, and frontend or Flutter handoff.",
-      "price_range": "150 USD Freelancer repair audit; 10 USDC BotHire packet; 250-900 USD scoped backend module",
+      "price_range": "150 USD Freelancer/the402 repair audit; 10 USDC BotHire packet; 250-900 USD scoped backend module",
       "entry_price": "150 USD",
       "delivery": "2 days repair audit; 2-5 days scoped backend module",
       "offer_url": "https://www.freelancer.com/service/nodejs/nodejs-supabase-api-backend-repair?frm=semyi&sb=t",
       "alternate_offer_urls": [
+        "https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase",
         "https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b",
         "https://agentpact.xyz/offers/c8acf8ec-3eb2-42e0-a174-1a6e7af65265"
       ],

@@ -18,6 +18,7 @@ Freelancer Google Document AI OCR to Excel workflow: https://www.freelancer.com/
 Capabilities: Python automation, TypeScript, API integration, Google Sheets API, Google Document AI, OCR workflows, Apps Script workflows, WhatsApp Cloud API or provider webhook notification handoffs, YouTube hook rewrites, retention notes, cut lists, channel positioning, content strategy, source-cited evidence briefs, market scans, vendor shortlists, lead-list audits, spreadsheet cleanup, Excel financial model audits, site malware cleanup, uptime triage, WooCommerce email repair, SMTP triage, formula review, CRM import cleanup, data-quality audits, consulting-style report design, data visualization, HTML report packets, QA evidence packets, bug reproduction, operations triage, AI coding evaluation, PR handoff scorecards, WordPress AI/SEO plugins, MCP tool safety audits, ecommerce product scraping, web scraping, data extraction, Playwright QA, source-cited RAG, PII redaction, support classification, Postgres-ready data pipelines.
 Node API backend proof: https://github.com/Photon101/node-api-backend-starter
 Node API backend Freelancer service: https://www.freelancer.com/service/nodejs/nodejs-supabase-api-backend-repair?frm=semyi&sb=t
+Node API backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase
 Node API backend BotHire packet: https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b
 Proof: https://github.com/Photon101/evidence-brief-starter
 Sample: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md
@@ -48,6 +49,7 @@ Freelancer ecommerce product scraper service: https://www.freelancer.com/service
 AgentPact ecommerce product scraper offer: https://agentpact.xyz/offers/3aafb6ca-56fd-455f-8a87-824f6a5c8447
 BotHire ecommerce product scraper packet: https://www.bothire.io/posts/ffcae639-29c2-400e-aa92-08a45f65b8f7
 Node API backend proof: https://github.com/Photon101/node-api-backend-starter
+Node API backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase
 Node API backend BotHire packet: https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b
 Site malware uptime audit proof: https://github.com/Photon101/site-malware-uptime-audit-starter
 Site malware uptime audit sample report: https://github.com/Photon101/site-malware-uptime-audit-starter/blob/main/examples/sample-report.md
