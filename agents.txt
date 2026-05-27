@@ -53,6 +53,7 @@ Freelancer site malware uptime triage service: https://www.freelancer.com/servic
 BotHire site malware uptime triage packet: https://www.bothire.io/posts/3834e0b1-a989-486c-8dbc-a30ca4907f10
 WooCommerce email repair proof: https://github.com/Photon101/woocommerce-email-audit-starter
 WooCommerce email repair sample report: https://github.com/Photon101/woocommerce-email-audit-starter/blob/main/examples/output/report.md
+Freelancer WooCommerce email repair service: https://www.freelancer.com/service/woocommerce/woocommerce-email-notification-repair?frm=semyi&sb=t
 BotHire WooCommerce email repair packet: https://www.bothire.io/posts/773e1bd3-c152-4eb9-af27-f24fb9590810
 Proof: https://github.com/Photon101/report-design-starter
 Sample: https://github.com/Photon101/report-design-starter/blob/main/examples/sample-report.html

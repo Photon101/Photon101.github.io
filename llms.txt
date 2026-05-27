@@ -29,6 +29,7 @@ uGig YouTube channel positioning: https://ugig.net/for-hire/9a538e3f-e84c-49d2-a
 Freelancer WordPress AI SEO plugin buildout: https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t
 WooCommerce email repair proof: https://github.com/Photon101/woocommerce-email-audit-starter
 WooCommerce email repair sample report: https://github.com/Photon101/woocommerce-email-audit-starter/blob/main/examples/output/report.md
+Freelancer WooCommerce email repair service: https://www.freelancer.com/service/woocommerce/woocommerce-email-notification-repair?frm=semyi&sb=t
 BotHire WooCommerce email repair packet: https://www.bothire.io/posts/773e1bd3-c152-4eb9-af27-f24fb9590810
 WordPress pricing table proof: https://github.com/Photon101/wp-pricing-table-starter
 uGig WordPress pricing table implementation: https://ugig.net/for-hire/09c387ec-ebbb-4efe-924b-304d699b90e9
