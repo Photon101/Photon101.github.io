@@ -227,11 +227,12 @@
       "id": "woocommerce-email-repair-audit",
       "name": "WooCommerce email notification repair audit",
       "summary": "Audit WooCommerce and booking-email failures where customer/admin messages stop sending or email enable toggles vanish, with hooks, templates, SMTP logs, SPF/DMARC notes, and live test-order checklist.",
-      "price_range": "95 USD Freelancer audit; 10 USDC BotHire packet; larger repairs scoped after audit",
+      "price_range": "95 USD Freelancer/the402 audit; 10 USDC BotHire packet; larger repairs scoped after audit",
       "entry_price": "95 USD",
       "delivery": "1 day audit; 1-2 days for larger repairs",
       "offer_url": "https://www.freelancer.com/service/woocommerce/woocommerce-email-notification-repair?frm=semyi&sb=t",
       "alternate_offer_urls": [
+        "https://api.the402.ai/v1/services/svc_38db9165e32a43e0/purchase",
         "https://www.bothire.io/posts/773e1bd3-c152-4eb9-af27-f24fb9590810"
       ],
       "proof_url": "https://github.com/Photon101/woocommerce-email-audit-starter",
@@ -578,6 +579,7 @@
     },
     "https://github.com/Photon101/woocommerce-email-audit-starter",
     "https://github.com/Photon101/woocommerce-email-audit-starter/blob/main/examples/output/report.md",
+    "https://api.the402.ai/v1/services/svc_38db9165e32a43e0/purchase",
     "https://www.bothire.io/posts/773e1bd3-c152-4eb9-af27-f24fb9590810"
   ],
   "contact": {

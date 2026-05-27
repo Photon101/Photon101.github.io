@@ -98,6 +98,7 @@ WooCommerce email notification repair:
 - Proof: `https://github.com/Photon101/woocommerce-email-audit-starter`
 - Sample report: `https://github.com/Photon101/woocommerce-email-audit-starter/blob/main/examples/output/report.md`
 - Freelancer: `https://www.freelancer.com/service/woocommerce/woocommerce-email-notification-repair?frm=semyi&sb=t`
+- the402: `https://api.the402.ai/v1/services/svc_38db9165e32a43e0/purchase`
 - BotHire: `https://www.bothire.io/posts/773e1bd3-c152-4eb9-af27-f24fb9590810`
 
 Report design service:
