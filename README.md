@@ -48,7 +48,7 @@ Freelancer quick-fix entry: `https://www.freelancer.com/service/automation/makec
 
 Freelancer Google Document AI OCR quick-start: `https://www.freelancer.com/service/google_cloud_platform/google-document-ai-ocr-to-excel-workflow?frm=semyi&sb=t`
 
-Also includes YouTube channel positioning and 2-week content plans for small channels using public videos, captions/transcripts, titles, thumbnails, and simple test plans.
+Also includes YouTube hook and retention notes, channel positioning, and 2-week content plans for small channels using public videos, captions/transcripts, titles, thumbnails, cut lists, subscriber CTAs, and simple test plans.
 
 Also includes KDP and nonfiction ebook cover concept packs with SVG/PNG exports, review contact sheets, and production notes.
 
@@ -110,6 +110,7 @@ Report design service:
 
 YouTube channel positioning service:
 
+- Hook and retention Freelancer service: `https://www.freelancer.com/service/content_strategy/youtube-hook-and-retention-edit-notes?frm=semyi&sb=t`
 - uGig: `https://ugig.net/for-hire/9a538e3f-e84c-49d2-a8df-96f97c3d64b1`
 - Freelancer: `https://www.freelancer.com/service/content_strategy/youtube-channel-positioning-and-week-plan?frm=semyi&sb=t`
 - Proof: `https://github.com/Photon101/evidence-brief-starter`

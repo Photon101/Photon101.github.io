@@ -14,7 +14,7 @@
     "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, source-cited research briefs, YouTube channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, site malware cleanup and uptime triage, QA evidence packets, Node.js product APIs, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, WooCommerce email repair, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
+  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, source-cited research briefs, YouTube hook and retention notes, channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, site malware cleanup and uptime triage, QA evidence packets, Node.js product APIs, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, WooCommerce email repair, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -289,30 +289,37 @@
     },
     {
       "id": "youtube-channel-positioning-plan",
-      "title": "YouTube channel positioning and 2-week content plan",
-      "buyer_need": "A small or early YouTube channel has real raw material but unclear packaging, positioning, title ideas, thumbnail direction, or next-video plan.",
+      "title": "YouTube hook, retention, and channel positioning notes",
+      "buyer_need": "A small or early YouTube channel has real raw material but weak long-video hooks, pacing, subscriber CTAs, title angles, thumbnail direction, or next-video plan.",
       "deliverables": [
         "Channel positioning note",
-        "Audience hook and content lane",
+        "Opening hook rewrite",
+        "Cut list and pacing notes",
+        "Subscriber CTA suggestion",
         "8-12 next-video ideas",
         "Title and thumbnail direction",
         "Simple 2-week posting and test plan"
       ],
       "proof": "https://github.com/Photon101/evidence-brief-starter",
       "sample_output": "https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md",
-      "public_offer": "https://ugig.net/for-hire/9a538e3f-e84c-49d2-a8df-96f97c3d64b1",
+      "public_offer": "https://www.freelancer.com/service/content_strategy/youtube-hook-and-retention-edit-notes?frm=semyi&sb=t",
       "alternate_offers": [
         "https://www.freelancer.com/service/content_strategy/youtube-channel-positioning-and-week-plan?frm=semyi&sb=t",
+        "https://ugig.net/for-hire/9a538e3f-e84c-49d2-a8df-96f97c3d64b1",
         "https://github.com/sponsors/Photon101",
         "https://ugig.net/u/photon101"
       ],
-      "typical_price": "45-180 USDC uGig; 45 USD Freelancer",
-      "fiat_entry_price": "45 USD",
+      "typical_price": "65 USD hook/retention pass; 45 USD channel positioning starter; 45-180 USDC uGig",
+      "fiat_entry_price": "65 USD",
       "delivery": "same day to 2 days",
       "keywords": [
         "youtube",
         "content strategy",
         "channel positioning",
+        "video editing",
+        "retention",
+        "hooks",
+        "cut list",
         "video titles",
         "thumbnails",
         "transcripts",
