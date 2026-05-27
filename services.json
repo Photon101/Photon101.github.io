@@ -413,10 +413,11 @@
       "sample_output": "https://github.com/Photon101/excel-model-audit-starter/blob/main/examples/sample-report.md",
       "public_offer": "https://www.freelancer.com/service/excel/excel-financial-model-audit?frm=semyi&sb=t",
       "alternate_offers": [
+        "https://api.the402.ai/v1/services/svc_4ee99a23d7b540de/purchase",
         "https://www.bothire.io/posts/8ede7696-fcab-4ebb-a1d0-d9b401d2f127",
         "https://github.com/sponsors/Photon101"
       ],
-      "typical_price": "95 USD Freelancer starter; 10 USDC BotHire packet; 95-350 USDC fuller review",
+      "typical_price": "95 USD Freelancer/the402 starter; 10 USDC BotHire packet; 95-350 USDC fuller review",
       "fiat_entry_price": "95 USD",
       "delivery": "1-3 days",
       "keywords": [

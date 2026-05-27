@@ -84,6 +84,7 @@ Excel financial model audit service:
 - Freelancer: `https://www.freelancer.com/service/excel/excel-financial-model-audit?frm=semyi&sb=t`
 - Proof: `https://github.com/Photon101/excel-model-audit-starter`
 - Sample report: `https://github.com/Photon101/excel-model-audit-starter/blob/main/examples/sample-report.md`
+- the402: `https://api.the402.ai/v1/services/svc_4ee99a23d7b540de/purchase`
 - BotHire: `https://www.bothire.io/posts/8ede7696-fcab-4ebb-a1d0-d9b401d2f127`
 
 Site malware cleanup and uptime triage:
