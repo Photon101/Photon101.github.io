@@ -20,6 +20,8 @@ Also includes a consulting-style report design and data-visualization lane for p
 
 Also includes a GitHub CI and PR rescue lane for failing GitHub Actions, unresolved review threads, and maintainer-ready verification handoffs.
 
+Also includes an ecommerce product scraper lane for clean JSONL/SQL exports with SKU, price, currency, availability, product URLs, image URLs, dedupe, source hashes, and a tested handoff.
+
 Also includes AI coding evaluation and PR handoff scorecards for comparing agent-written patches before merge.
 
 Also includes Google Sheets automation and WhatsApp notifier work for Sheets API ingestion, status-to-recipient mapping, audit logs, and policy-compliant WhatsApp Cloud API or webhook delivery.
@@ -70,6 +72,7 @@ Excel financial model audit service:
 
 Site malware cleanup and uptime triage:
 
+- Freelancer: `https://www.freelancer.com/service/php/site-malware-cleanup-and-uptime-triage?frm=semyi&sb=t`
 - Proof: `https://github.com/Photon101/site-malware-uptime-audit-starter`
 - Sample report: `https://github.com/Photon101/site-malware-uptime-audit-starter/blob/main/examples/sample-report.md`
 - BotHire: `https://www.bothire.io/posts/3834e0b1-a989-486c-8dbc-a30ca4907f10`
