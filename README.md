@@ -38,6 +38,10 @@ Node API backend the402 purchase endpoint: `https://api.the402.ai/v1/services/sv
 
 Node API backend BotHire packet: `https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b`
 
+Farm management SaaS backend proof: `https://github.com/Photon101/farm-management-saas-starter`
+
+Farm management SaaS backend BotHire packet: `https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715`
+
 Also includes AI coding evaluation and PR handoff scorecards for comparing agent-written patches before merge.
 
 Also includes LLM prompt workflow audits for GPT-4 and Claude content-generation chains, with input wrapping, XML-style sections, output contracts, edge cases, and hallucination checks.

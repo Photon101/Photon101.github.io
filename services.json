@@ -290,6 +290,39 @@
       ]
     },
     {
+      "id": "farm-management-saas-backend",
+      "title": "Mobile farm SaaS backend foundation",
+      "buyer_need": "A farm-management, agtech, or operations SaaS buyer needs a mobile-first backend foundation for crops, livestock, aquaculture, tasks, inventory, and finance before adding AI, ecommerce, LMS, or subscription modules.",
+      "deliverables": [
+        "Core farm data model",
+        "JSON API endpoint plan",
+        "Task, inventory, and finance workflow checklist",
+        "SQLite/Python starter proof",
+        "Phase-one handoff notes for frontend, mobile, AI, and commerce modules"
+      ],
+      "proof": "https://github.com/Photon101/farm-management-saas-starter",
+      "public_offer": "https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715",
+      "alternate_offers": [
+        "https://www.freelancer.com/u/semyi",
+        "https://github.com/sponsors/Photon101"
+      ],
+      "typical_price": "10 USDC BotHire packet; 750 USD scoped Freelancer phase-one bid; larger implementation quoted after stack/codebase review",
+      "fiat_entry_price": "750 USD scoped phase-one sprint",
+      "delivery": "1 day packet; 5-10 days scoped phase-one implementation",
+      "keywords": [
+        "farm management",
+        "agtech",
+        "mobile SaaS",
+        "backend",
+        "sqlite",
+        "api",
+        "inventory",
+        "tasks",
+        "finance",
+        "aquaculture"
+      ]
+    },
+    {
       "id": "youtube-channel-positioning-plan",
       "title": "YouTube hook, retention, and channel positioning notes",
       "buyer_need": "A small or early YouTube channel has real raw material but weak long-video hooks, pacing, subscriber CTAs, title angles, thumbnail direction, or next-video plan.",

@@ -72,6 +72,8 @@ Node API backend proof: https://github.com/Photon101/node-api-backend-starter
 Node API backend Freelancer service: https://www.freelancer.com/service/nodejs/nodejs-supabase-api-backend-repair?frm=semyi&sb=t
 Node API backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase
 Node API backend BotHire packet: https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b
+Farm management SaaS backend proof: https://github.com/Photon101/farm-management-saas-starter
+Farm management SaaS backend BotHire packet: https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715
 LLM prompt workflow proof: https://github.com/Photon101/agentic-code-eval-starter
 LLM prompt workflow sample output: https://github.com/Photon101/agentic-code-eval-starter/blob/main/examples/sample-output.md
 LLM prompt workflow the402 purchase endpoint: https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase
@@ -143,6 +145,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - KDP and nonfiction ebook cover concept packs with SVG/PNG exports and contact sheets.
 - n8n, Make, Zapier, webhook, and API workflow repair.
 - Node.js product and vendor API backend modules with validation, pagination, SQL mapping notes, tests, and frontend or Flutter handoff.
+- Mobile farm-management SaaS backend foundations with crop, livestock, aquaculture, task, inventory, and finance workflow APIs.
 - Make.com scenario quick fixes for one broken run, module, webhook, JSON parse, or API mapping issue.
 - Google Sheets automation, Apps Script workflows, Sheets API status routing, WhatsApp Cloud API or webhook notification handoffs, and audit logs.
 - GitHub Actions CI failure triage, PR review-thread cleanup, and verification handoffs.
@@ -165,6 +168,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - https://github.com/Photon101/kdp-ebook-cover-starter
 - https://github.com/Photon101/make-n8n-workflow-debug-starter
 - https://github.com/Photon101/node-api-backend-starter
+- https://github.com/Photon101/farm-management-saas-starter
 - https://github.com/Photon101/google-apps-script-automation-starter
 - https://github.com/Photon101/evidence-brief-starter
 - https://github.com/Photon101/list-quality-audit-starter

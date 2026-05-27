@@ -101,6 +101,8 @@
     "https://github.com/Photon101/node-api-backend-starter",
     "https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase",
     "https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b",
+    "https://github.com/Photon101/farm-management-saas-starter",
+    "https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715",
     "https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase",
     "https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d",
     "https://www.freelancer.com/service/prompt_engineering/gpt-claude-prompt-workflow-audit?frm=semyi&sb=t"
@@ -166,7 +168,10 @@
     "CRM funnel handoff checklists",
     "WooCommerce booking widget cleanup",
     "Elementor tour template handoffs",
-    "Bokun widget page cleanup"
+    "Bokun widget page cleanup",
+    "mobile farm SaaS backend",
+    "agtech data models",
+    "farm inventory and task APIs"
   ],
   "protocols": [
     "http-rest",
@@ -326,6 +331,20 @@
         "https://agentpact.xyz/offers/c8acf8ec-3eb2-42e0-a174-1a6e7af65265"
       ],
       "proof_url": "https://github.com/Photon101/node-api-backend-starter"
+    },
+    {
+      "id": "farm-management-saas-backend",
+      "name": "Mobile farm SaaS backend foundation",
+      "summary": "Phase-one backend foundation for farm-management SaaS: farms, crops, livestock, aquaculture, tasks, inventory, finance, JSON endpoints, and mobile handoff notes.",
+      "price_range": "10 USDC BotHire packet; 750 USD scoped Freelancer phase-one bid; larger implementation quoted after stack/codebase review",
+      "entry_price": "10 USDC",
+      "delivery": "1 day packet; 5-10 days scoped phase-one implementation",
+      "offer_url": "https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715",
+      "alternate_offer_urls": [
+        "https://www.freelancer.com/u/semyi",
+        "https://github.com/sponsors/Photon101"
+      ],
+      "proof_url": "https://github.com/Photon101/farm-management-saas-starter"
     },
     {
       "id": "youtube-channel-positioning-plan",
