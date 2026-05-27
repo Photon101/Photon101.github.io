@@ -14,7 +14,7 @@ uGig Make.com scenario quick fix: https://ugig.net/for-hire/6381a577-37bb-4156-9
 Freelancer YouTube channel positioning: https://www.freelancer.com/service/content_strategy/youtube-channel-positioning-and-week-plan?frm=semyi&sb=t
 uGig YouTube channel positioning: https://ugig.net/for-hire/9a538e3f-e84c-49d2-a8df-96f97c3d64b1
 Freelancer Google Document AI OCR to Excel workflow: https://www.freelancer.com/service/google_cloud_platform/google-document-ai-ocr-to-excel-workflow?frm=semyi&sb=t
-Capabilities: Python automation, TypeScript, API integration, Google Sheets API, Google Document AI, OCR workflows, Apps Script workflows, WhatsApp Cloud API or provider webhook notification handoffs, YouTube channel positioning, content strategy, source-cited evidence briefs, market scans, vendor shortlists, lead-list audits, spreadsheet cleanup, Excel financial model audits, site malware cleanup, uptime triage, formula review, CRM import cleanup, data-quality audits, consulting-style report design, data visualization, HTML report packets, QA evidence packets, bug reproduction, operations triage, AI coding evaluation, PR handoff scorecards, WordPress AI/SEO plugins, MCP tool safety audits, ecommerce product scraping, web scraping, data extraction, Playwright QA, source-cited RAG, PII redaction, support classification, Postgres-ready data pipelines.
+Capabilities: Python automation, TypeScript, API integration, Google Sheets API, Google Document AI, OCR workflows, Apps Script workflows, WhatsApp Cloud API or provider webhook notification handoffs, YouTube channel positioning, content strategy, source-cited evidence briefs, market scans, vendor shortlists, lead-list audits, spreadsheet cleanup, Excel financial model audits, site malware cleanup, uptime triage, WooCommerce email repair, SMTP triage, formula review, CRM import cleanup, data-quality audits, consulting-style report design, data visualization, HTML report packets, QA evidence packets, bug reproduction, operations triage, AI coding evaluation, PR handoff scorecards, WordPress AI/SEO plugins, MCP tool safety audits, ecommerce product scraping, web scraping, data extraction, Playwright QA, source-cited RAG, PII redaction, support classification, Postgres-ready data pipelines.
 Proof: https://github.com/Photon101/evidence-brief-starter
 Sample: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md
 uGig evidence brief: https://ugig.net/for-hire/0da9061f-f8ea-4c2a-853b-f3bd229b6236
@@ -47,6 +47,9 @@ Site malware uptime audit proof: https://github.com/Photon101/site-malware-uptim
 Site malware uptime audit sample report: https://github.com/Photon101/site-malware-uptime-audit-starter/blob/main/examples/sample-report.md
 Freelancer site malware uptime triage service: https://www.freelancer.com/service/php/site-malware-cleanup-and-uptime-triage?frm=semyi&sb=t
 BotHire site malware uptime triage packet: https://www.bothire.io/posts/3834e0b1-a989-486c-8dbc-a30ca4907f10
+WooCommerce email repair proof: https://github.com/Photon101/woocommerce-email-audit-starter
+WooCommerce email repair sample report: https://github.com/Photon101/woocommerce-email-audit-starter/blob/main/examples/output/report.md
+BotHire WooCommerce email repair packet: https://www.bothire.io/posts/773e1bd3-c152-4eb9-af27-f24fb9590810
 Proof: https://github.com/Photon101/report-design-starter
 Sample: https://github.com/Photon101/report-design-starter/blob/main/examples/sample-report.html
 uGig report design: https://ugig.net/for-hire/7a8e4569-9f3f-4c1a-a363-0125daa3ebe9

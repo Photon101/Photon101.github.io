@@ -14,7 +14,7 @@
     "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, source-cited research briefs, YouTube channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, site malware cleanup and uptime triage, QA evidence packets, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
+  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, source-cited research briefs, YouTube channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, site malware cleanup and uptime triage, QA evidence packets, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, WooCommerce email repair, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -99,6 +99,32 @@
         "structured data",
         "openai",
         "plugin development"
+      ]
+    },
+    {
+      "id": "woocommerce-email-repair-audit",
+      "title": "WooCommerce email notification repair audit",
+      "buyer_need": "A WooCommerce or bookings site has stopped sending customer/admin emails, lost email enable toggles, or needs proof that SMTP and templates are working again.",
+      "deliverables": [
+        "Root-cause email audit report",
+        "Hook/filter/template override findings",
+        "SMTP, SPF, DMARC, and mail/PHP log notes",
+        "Live test-order checklist for customer and admin notifications"
+      ],
+      "proof": "https://github.com/Photon101/woocommerce-email-audit-starter",
+      "sample_output": "https://github.com/Photon101/woocommerce-email-audit-starter/blob/main/examples/output/report.md",
+      "public_offer": "https://www.bothire.io/posts/773e1bd3-c152-4eb9-af27-f24fb9590810",
+      "alternate_offers": [],
+      "typical_price": "10 USDC BotHire packet; larger repairs scoped after audit",
+      "delivery": "1-2 days",
+      "keywords": [
+        "woocommerce",
+        "wordpress",
+        "email notifications",
+        "smtp",
+        "php",
+        "booking emails",
+        "dmarc"
       ]
     },
     {

@@ -27,6 +27,9 @@ uGig Make.com scenario quick fix: https://ugig.net/for-hire/6381a577-37bb-4156-9
 Freelancer YouTube channel positioning: https://www.freelancer.com/service/content_strategy/youtube-channel-positioning-and-week-plan?frm=semyi&sb=t
 uGig YouTube channel positioning: https://ugig.net/for-hire/9a538e3f-e84c-49d2-a8df-96f97c3d64b1
 Freelancer WordPress AI SEO plugin buildout: https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t
+WooCommerce email repair proof: https://github.com/Photon101/woocommerce-email-audit-starter
+WooCommerce email repair sample report: https://github.com/Photon101/woocommerce-email-audit-starter/blob/main/examples/output/report.md
+BotHire WooCommerce email repair packet: https://www.bothire.io/posts/773e1bd3-c152-4eb9-af27-f24fb9590810
 WordPress pricing table proof: https://github.com/Photon101/wp-pricing-table-starter
 uGig WordPress pricing table implementation: https://ugig.net/for-hire/09c387ec-ebbb-4efe-924b-304d699b90e9
 the402 WordPress pricing table purchase endpoint: https://api.the402.ai/v1/services/svc_3f66bb8af8634517/purchase

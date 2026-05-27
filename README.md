@@ -16,6 +16,8 @@ Also includes Excel financial model audits for workbook structure maps, formula/
 
 Also includes site malware cleanup and uptime triage for suspicious PHP/JavaScript indicators, uploaded executable files, error logs, 5xx symptoms, and owner cleanup handoffs.
 
+Also includes WooCommerce email notification repair audits for vanished email toggles, disabled hooks, stale template overrides, SMTP failures, DMARC/SPF clues, and live test-order checklists.
+
 Also includes a consulting-style report design and data-visualization lane for polished client-ready reports, chart handoffs, and PDF-ready HTML packs.
 
 Also includes a GitHub CI and PR rescue lane for failing GitHub Actions, unresolved review threads, and maintainer-ready verification handoffs.
@@ -80,6 +82,12 @@ Site malware cleanup and uptime triage:
 - Proof: `https://github.com/Photon101/site-malware-uptime-audit-starter`
 - Sample report: `https://github.com/Photon101/site-malware-uptime-audit-starter/blob/main/examples/sample-report.md`
 - BotHire: `https://www.bothire.io/posts/3834e0b1-a989-486c-8dbc-a30ca4907f10`
+
+WooCommerce email notification repair:
+
+- Proof: `https://github.com/Photon101/woocommerce-email-audit-starter`
+- Sample report: `https://github.com/Photon101/woocommerce-email-audit-starter/blob/main/examples/output/report.md`
+- BotHire: `https://www.bothire.io/posts/773e1bd3-c152-4eb9-af27-f24fb9590810`
 
 Report design service:
 
