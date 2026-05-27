@@ -14,6 +14,8 @@ Also includes a lead-list, vendor-list, CRM export, and spreadsheet quality-audi
 
 Also includes Excel financial model audits for workbook structure maps, formula/error checks, hardcoded input notes, volatile/external-link warnings, and cleanup recommendations.
 
+Also includes site malware cleanup and uptime triage for suspicious PHP/JavaScript indicators, uploaded executable files, error logs, 5xx symptoms, and owner cleanup handoffs.
+
 Also includes a consulting-style report design and data-visualization lane for polished client-ready reports, chart handoffs, and PDF-ready HTML packs.
 
 Also includes a GitHub CI and PR rescue lane for failing GitHub Actions, unresolved review threads, and maintainer-ready verification handoffs.
@@ -65,6 +67,12 @@ Excel financial model audit service:
 - Proof: `https://github.com/Photon101/excel-model-audit-starter`
 - Sample report: `https://github.com/Photon101/excel-model-audit-starter/blob/main/examples/sample-report.md`
 - BotHire: `https://www.bothire.io/posts/8ede7696-fcab-4ebb-a1d0-d9b401d2f127`
+
+Site malware cleanup and uptime triage:
+
+- Proof: `https://github.com/Photon101/site-malware-uptime-audit-starter`
+- Sample report: `https://github.com/Photon101/site-malware-uptime-audit-starter/blob/main/examples/sample-report.md`
+- BotHire: `https://www.bothire.io/posts/3834e0b1-a989-486c-8dbc-a30ca4907f10`
 
 Report design service:
 
