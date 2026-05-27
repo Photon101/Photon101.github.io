@@ -301,12 +301,13 @@
         "Phase-one handoff notes for frontend, mobile, AI, and commerce modules"
       ],
       "proof": "https://github.com/Photon101/farm-management-saas-starter",
-      "public_offer": "https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715",
+      "public_offer": "https://api.the402.ai/v1/services/svc_5c4601c0df1641a8/purchase",
       "alternate_offers": [
+        "https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715",
         "https://www.freelancer.com/u/semyi",
         "https://github.com/sponsors/Photon101"
       ],
-      "typical_price": "10 USDC BotHire packet; 750 USD scoped Freelancer phase-one bid; larger implementation quoted after stack/codebase review",
+      "typical_price": "750 USD the402/Freelancer phase-one sprint; 10 USDC BotHire packet; larger implementation quoted after stack/codebase review",
       "fiat_entry_price": "750 USD scoped phase-one sprint",
       "delivery": "1 day packet; 5-10 days scoped phase-one implementation",
       "keywords": [

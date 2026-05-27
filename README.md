@@ -40,6 +40,8 @@ Node API backend BotHire packet: `https://www.bothire.io/posts/f8448bc5-5a39-458
 
 Farm management SaaS backend proof: `https://github.com/Photon101/farm-management-saas-starter`
 
+Farm management SaaS backend the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_5c4601c0df1641a8/purchase`
+
 Farm management SaaS backend BotHire packet: `https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715`
 
 Also includes AI coding evaluation and PR handoff scorecards for comparing agent-written patches before merge.

@@ -27,6 +27,7 @@ Node API backend Freelancer service: https://www.freelancer.com/service/nodejs/n
 Node API backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase
 Node API backend BotHire packet: https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b
 Farm management SaaS backend proof: https://github.com/Photon101/farm-management-saas-starter
+Farm management SaaS backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_5c4601c0df1641a8/purchase
 Farm management SaaS backend BotHire packet: https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715
 Proof: https://github.com/Photon101/evidence-brief-starter
 Sample: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md
@@ -61,6 +62,7 @@ Node API backend proof: https://github.com/Photon101/node-api-backend-starter
 Node API backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase
 Node API backend BotHire packet: https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b
 Farm management SaaS backend proof: https://github.com/Photon101/farm-management-saas-starter
+Farm management SaaS backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_5c4601c0df1641a8/purchase
 Farm management SaaS backend BotHire packet: https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715
 Site malware uptime audit proof: https://github.com/Photon101/site-malware-uptime-audit-starter
 Site malware uptime audit sample report: https://github.com/Photon101/site-malware-uptime-audit-starter/blob/main/examples/sample-report.md
