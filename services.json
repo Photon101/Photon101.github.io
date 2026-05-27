@@ -14,7 +14,7 @@
     "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, source-cited research briefs, YouTube hook and retention notes, channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, site malware cleanup and uptime triage, QA evidence packets, Node.js product APIs, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, WooCommerce email repair, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
+  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, LLM prompt workflow audits, source-cited research briefs, YouTube hook and retention notes, channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, site malware cleanup and uptime triage, QA evidence packets, Node.js product APIs, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, WooCommerce email repair, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -602,6 +602,39 @@
         "data extraction",
         "jsonl",
         "postgresql"
+      ]
+    },
+    {
+      "id": "llm-prompt-workflow-audit",
+      "title": "LLM prompt workflow audit and build",
+      "buyer_need": "A buyer has a raw-data-to-blog, research-to-draft, or internal content prompt spec for GPT-4 or Claude and needs it turned into a reusable workflow with output contracts and hallucination controls.",
+      "deliverables": [
+        "Prompt-chain audit",
+        "Reusable prompt structure with XML-style sections",
+        "Input wrapping and output contract",
+        "Edge-case and hallucination guard checklist",
+        "Short model/API handoff notes"
+      ],
+      "proof": "https://github.com/Photon101/agentic-code-eval-starter",
+      "sample_output": "https://github.com/Photon101/agentic-code-eval-starter/blob/main/examples/sample-output.md",
+      "landing_page": "https://photon101.github.io/ai-coding-evaluation.html",
+      "public_offer": "https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase",
+      "alternate_offers": [
+        "https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d",
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "150 USD the402; 10 USDC BotHire packet; larger API/prompt-system builds quoted separately",
+      "fiat_entry_price": "150 USD",
+      "delivery": "1-2 days",
+      "keywords": [
+        "prompt engineering",
+        "GPT-4",
+        "Claude",
+        "LLM workflow",
+        "content generation",
+        "XML tags",
+        "hallucination guards",
+        "output contract"
       ]
     },
     {

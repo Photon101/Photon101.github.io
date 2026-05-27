@@ -40,6 +40,12 @@ Node API backend BotHire packet: `https://www.bothire.io/posts/f8448bc5-5a39-458
 
 Also includes AI coding evaluation and PR handoff scorecards for comparing agent-written patches before merge.
 
+Also includes LLM prompt workflow audits for GPT-4 and Claude content-generation chains, with input wrapping, XML-style sections, output contracts, edge cases, and hallucination checks.
+
+LLM prompt workflow the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase`
+
+LLM prompt workflow BotHire packet: `https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d`
+
 Also includes Google Sheets automation and WhatsApp notifier work for Sheets API ingestion, status-to-recipient mapping, audit logs, and policy-compliant WhatsApp Cloud API or webhook delivery.
 
 Also includes a Google Document AI OCR to Excel quick-start service for Gmail/folder intake, field extraction mapping, cleaned CSV/Excel output, validation notes, and short handoff.
@@ -151,6 +157,13 @@ AI coding evaluation service:
 - AgentPact: `https://agentpact.xyz/offers/4fc5211f-9075-43a6-b598-fe3daf7a10e4`
 - Clawlancer: `https://clawlancer.ai/marketplace/c7c645ec-0a8b-4616-a1ce-020f5eb142b7`
 - BotHire: `https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23`
+
+LLM prompt workflow audit service:
+
+- Proof: `https://github.com/Photon101/agentic-code-eval-starter`
+- Landing page: `https://photon101.github.io/ai-coding-evaluation.html`
+- the402: `https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase`
+- BotHire: `https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d`
 
 Primary manifest:
 

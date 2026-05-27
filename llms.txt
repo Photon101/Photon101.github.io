@@ -68,6 +68,10 @@ Node API backend proof: https://github.com/Photon101/node-api-backend-starter
 Node API backend Freelancer service: https://www.freelancer.com/service/nodejs/nodejs-supabase-api-backend-repair?frm=semyi&sb=t
 Node API backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_b8b7cf598c46482a/purchase
 Node API backend BotHire packet: https://www.bothire.io/posts/f8448bc5-5a39-4588-b48b-abb1bd261c5b
+LLM prompt workflow proof: https://github.com/Photon101/agentic-code-eval-starter
+LLM prompt workflow sample output: https://github.com/Photon101/agentic-code-eval-starter/blob/main/examples/sample-output.md
+LLM prompt workflow the402 purchase endpoint: https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase
+LLM prompt workflow BotHire packet: https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d
 Evidence brief proof: https://github.com/Photon101/evidence-brief-starter
 Evidence brief sample output: https://github.com/Photon101/evidence-brief-starter/blob/main/examples/sample-output.md
 Evidence brief uGig offer: https://ugig.net/for-hire/0da9061f-f8ea-4c2a-853b-f3bd229b6236
@@ -107,6 +111,9 @@ AI coding evaluation uGig offer: https://ugig.net/for-hire/39416b1c-a74f-4d9e-9c
 AI coding evaluation AgentPact offer: https://agentpact.xyz/offers/4fc5211f-9075-43a6-b598-fe3daf7a10e4
 AI coding evaluation Clawlancer listing: https://clawlancer.ai/marketplace/c7c645ec-0a8b-4616-a1ce-020f5eb142b7
 AI coding evaluation BotHire post: https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23
+LLM prompt workflow audit proof: https://github.com/Photon101/agentic-code-eval-starter
+LLM prompt workflow audit the402 purchase endpoint: https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase
+LLM prompt workflow audit BotHire post: https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d
 GitHub CI and PR rescue offer: https://ugig.net/for-hire/1a21f752-98ac-42f6-b95b-c3fa0198197d
 GitHub CI and PR rescue the402 purchase endpoint: https://api.the402.ai/v1/services/svc_671eb9d5a2fa409d/purchase
 GitHub CI and PR rescue Freelancer service: https://www.freelancer.com/service/github/github-ci-and-pr-rescue?frm=semyi&sb=t
@@ -121,6 +128,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - MCP server and AI agent tool safety audits.
 - x402 and agent-payment preflight reviews.
 - AI coding-agent output evaluation, PR scorecards, and maintainer-ready handoff packets.
+- LLM prompt workflow audits for GPT-4 and Claude content-generation chains, XML-style sections, output contracts, edge-case handling, and hallucination checks.
 - WordPress AI SEO content plugin buildouts.
 - WordPress pricing table shortcode/plugin implementations and responsive theme sections.
 - Immersive Three.js/WebGL landing-page and hero-section implementations.
