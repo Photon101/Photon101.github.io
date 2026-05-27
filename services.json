@@ -766,6 +766,36 @@
         "website hardening",
         "error logs"
       ]
+    },
+    {
+      "id": "woocommerce-booking-widget-cleanup",
+      "title": "WooCommerce booking widget cleanup",
+      "buyer_need": "A WordPress/WooCommerce site uses product pages for tour, appointment, event, or booking content, but a third-party booking widget should handle checkout without duplicate WooCommerce cart/book buttons.",
+      "deliverables": [
+        "WooCommerce cart/book button cleanup plan or implementation",
+        "Booking widget visibility/functionality checks",
+        "Elementor/template preservation notes",
+        "Reusable page/template guidance",
+        "Plain-English owner handoff guide"
+      ],
+      "proof": "https://github.com/Photon101/wp-pricing-table-starter",
+      "public_offer": "https://api.the402.ai/v1/services/svc_7724bbeb460b4462/purchase",
+      "alternate_offers": [
+        "https://www.bothire.io/posts/e7f07125-0434-4aa2-8f5b-938323908ef4",
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "140 USD the402 service; 10 USDC BotHire checklist packet; larger WordPress cleanup quoted separately",
+      "fiat_entry_price": "140 USD",
+      "delivery": "2 days for small cleanup/template handoff",
+      "keywords": [
+        "woocommerce",
+        "wordpress",
+        "elementor",
+        "bokun",
+        "booking widget",
+        "tour template",
+        "cart button cleanup"
+      ]
     }
   ]
 }

@@ -115,6 +115,11 @@ WooCommerce email notification repair:
 - the402: `https://api.the402.ai/v1/services/svc_38db9165e32a43e0/purchase`
 - BotHire: `https://www.bothire.io/posts/773e1bd3-c152-4eb9-af27-f24fb9590810`
 
+WooCommerce booking widget cleanup:
+
+- the402: `https://api.the402.ai/v1/services/svc_7724bbeb460b4462/purchase`
+- BotHire: `https://www.bothire.io/posts/e7f07125-0434-4aa2-8f5b-938323908ef4`
+
 Report design service:
 
 - Proof: `https://github.com/Photon101/report-design-starter`
