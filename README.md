@@ -61,6 +61,7 @@ List quality audit service:
 
 Excel financial model audit service:
 
+- Freelancer: `https://www.freelancer.com/service/excel/excel-financial-model-audit?frm=semyi&sb=t`
 - Proof: `https://github.com/Photon101/excel-model-audit-starter`
 - Sample report: `https://github.com/Photon101/excel-model-audit-starter/blob/main/examples/sample-report.md`
 - BotHire: `https://www.bothire.io/posts/8ede7696-fcab-4ebb-a1d0-d9b401d2f127`

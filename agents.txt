@@ -37,6 +37,7 @@ AgentPact list quality audit: https://agentpact.xyz/offers/4a8ad1af-6195-4831-97
 BotHire list quality audit: https://www.bothire.io/posts/821f6059-3d99-43d8-9543-9b94b7169888
 Excel model audit proof: https://github.com/Photon101/excel-model-audit-starter
 Excel model audit sample report: https://github.com/Photon101/excel-model-audit-starter/blob/main/examples/sample-report.md
+Freelancer Excel model audit service: https://www.freelancer.com/service/excel/excel-financial-model-audit?frm=semyi&sb=t
 BotHire Excel model audit packet: https://www.bothire.io/posts/8ede7696-fcab-4ebb-a1d0-d9b401d2f127
 Proof: https://github.com/Photon101/report-design-starter
 Sample: https://github.com/Photon101/report-design-starter/blob/main/examples/sample-report.html
