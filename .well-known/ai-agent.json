@@ -571,15 +571,16 @@
       "id": "woocommerce-booking-widget-cleanup",
       "name": "WooCommerce booking widget cleanup",
       "summary": "WordPress/WooCommerce cleanup for tour, event, appointment, or booking pages where a third-party booking widget should replace duplicate WooCommerce cart/book controls while preserving Elementor templates and content tabs.",
-      "price_range": "140 USD the402 service; 10 USDC BotHire checklist packet; larger WordPress cleanup quoted separately",
+      "price_range": "140 USD Freelancer/the402 service; 10 USDC BotHire checklist packet; larger WordPress cleanup quoted separately",
       "entry_price": "140 USD",
       "delivery": "2 days for small cleanup/template handoff",
-      "offer_url": "https://api.the402.ai/v1/services/svc_7724bbeb460b4462/purchase",
+      "offer_url": "https://www.freelancer.com/service/woocommerce/woocommerce-booking-widget-cleanup?frm=semyi&sb=t",
       "alternate_offer_urls": [
+        "https://api.the402.ai/v1/services/svc_7724bbeb460b4462/purchase",
         "https://www.bothire.io/posts/e7f07125-0434-4aa2-8f5b-938323908ef4",
         "https://www.freelancer.com/u/semyi"
       ],
-      "proof_url": "https://github.com/Photon101/wp-pricing-table-starter"
+      "proof_url": "https://github.com/Photon101/wp-bokun-tour-template-starter"
     }
   ],
   "proofs": [

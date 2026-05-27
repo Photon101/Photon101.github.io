@@ -117,6 +117,8 @@ WooCommerce email notification repair:
 
 WooCommerce booking widget cleanup:
 
+- Proof: `https://github.com/Photon101/wp-bokun-tour-template-starter`
+- Freelancer: `https://www.freelancer.com/service/woocommerce/woocommerce-booking-widget-cleanup?frm=semyi&sb=t`
 - the402: `https://api.the402.ai/v1/services/svc_7724bbeb460b4462/purchase`
 - BotHire: `https://www.bothire.io/posts/e7f07125-0434-4aa2-8f5b-938323908ef4`
 
