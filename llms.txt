@@ -113,6 +113,7 @@ the402 Excel model audit purchase endpoint: https://api.the402.ai/v1/services/sv
 BotHire Excel model audit packet: https://www.bothire.io/posts/8ede7696-fcab-4ebb-a1d0-d9b401d2f127
 Site malware uptime audit proof: https://github.com/Photon101/site-malware-uptime-audit-starter
 Site malware uptime audit sample report: https://github.com/Photon101/site-malware-uptime-audit-starter/blob/main/examples/sample-report.md
+Freelancer WordPress critical error quick fix: https://www.freelancer.com/service/wordpress/wordpress-critical-error-quick-fix?frm=semyi&sb=t
 Freelancer site malware uptime triage service: https://www.freelancer.com/service/php/site-malware-cleanup-and-uptime-triage?frm=semyi&sb=t
 the402 site malware uptime triage purchase endpoint: https://api.the402.ai/v1/services/svc_b195615214684603/purchase
 BotHire site malware uptime triage packet: https://www.bothire.io/posts/3834e0b1-a989-486c-8dbc-a30ca4907f10

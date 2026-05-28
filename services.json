@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-05-27",
+  "updated": "2026-05-28",
   "provider": {
     "name": "Photon101",
     "homepage": "https://photon101.github.io/",
@@ -14,7 +14,7 @@
     "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, LLM prompt workflow audits, source-cited research briefs, YouTube hook and retention notes, channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, site malware cleanup and uptime triage, QA evidence packets, Node.js product APIs, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, WooCommerce email repair, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
+  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, LLM prompt workflow audits, source-cited research briefs, YouTube hook and retention notes, channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, WordPress critical-error quick fixes, site malware cleanup and uptime triage, QA evidence packets, Node.js product APIs, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, WooCommerce email repair, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -817,15 +817,18 @@
       "sample_output": "https://github.com/Photon101/site-malware-uptime-audit-starter/blob/main/examples/sample-report.md",
       "public_offer": "https://www.freelancer.com/service/php/site-malware-cleanup-and-uptime-triage?frm=semyi&sb=t",
       "alternate_offers": [
+        "https://www.freelancer.com/service/wordpress/wordpress-critical-error-quick-fix?frm=semyi&sb=t",
         "https://api.the402.ai/v1/services/svc_b195615214684603/purchase",
         "https://www.bothire.io/posts/3834e0b1-a989-486c-8dbc-a30ca4907f10"
       ],
-      "typical_price": "95 USD Freelancer/the402 service; 10 USDC BotHire packet; larger cleanup quoted separately after triage",
+      "typical_price": "95 USD Freelancer critical-error or malware/uptime service; 95 USD the402 service; 10 USDC BotHire packet; larger cleanup quoted separately after triage",
       "fiat_entry_price": "95 USD",
       "delivery": "1-2 days for triage packet",
       "keywords": [
         "malware cleanup",
         "wordpress malware",
+        "wordpress critical error",
+        "white screen",
         "php audit",
         "uptime",
         "incident triage",

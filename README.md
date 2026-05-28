@@ -113,6 +113,7 @@ Excel financial model audit service:
 
 Site malware cleanup and uptime triage:
 
+- WordPress critical error quick fix: `https://www.freelancer.com/service/wordpress/wordpress-critical-error-quick-fix?frm=semyi&sb=t`
 - Freelancer: `https://www.freelancer.com/service/php/site-malware-cleanup-and-uptime-triage?frm=semyi&sb=t`
 - the402: `https://api.the402.ai/v1/services/svc_b195615214684603/purchase`
 - Proof: `https://github.com/Photon101/site-malware-uptime-audit-starter`
