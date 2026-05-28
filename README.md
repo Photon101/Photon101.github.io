@@ -224,6 +224,7 @@ Shopify discount exclusion setup:
 Offline CSV dashboard with dynamic filters:
 
 - Proof: `https://photon101.github.io/offline-csv-dashboard-filters.html`
+- Freelancer: `https://www.freelancer.com/service/micropython/offline-csv-dashboard-with-filters?frm=semyi&sb=t`
 - the402: `https://api.the402.ai/v1/services/svc_93c9c81b5bee49b1/purchase`
 - Freelancer profile: `https://www.freelancer.com/u/semyi`
 
