@@ -29,6 +29,9 @@ Node API backend BotHire packet: https://www.bothire.io/posts/f8448bc5-5a39-4588
 React Node EC2 deployment proof: https://github.com/Photon101/react-node-ec2-deploy-starter
 React Node EC2 deployment the402 purchase endpoint: https://api.the402.ai/v1/services/svc_48ebc047f3f448a9/purchase
 React Node EC2 deployment BotHire packet: https://www.bothire.io/posts/3d26e8c7-15e7-45ee-8069-a58466e082c0
+BigBlueButton Docker deployment proof: https://github.com/Photon101/bigbluebutton-docker-deploy-starter
+BigBlueButton Docker deployment the402 purchase endpoint: https://api.the402.ai/v1/services/svc_472142e2c6a54598/purchase
+BigBlueButton Docker deployment BotHire packet: https://www.bothire.io/posts/f0cc3dae-0e9f-4f57-abeb-c7134a4d64d4
 Farm management SaaS backend proof: https://github.com/Photon101/farm-management-saas-starter
 Farm management SaaS backend the402 purchase endpoint: https://api.the402.ai/v1/services/svc_5c4601c0df1641a8/purchase
 Farm management SaaS backend BotHire packet: https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715

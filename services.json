@@ -322,6 +322,39 @@
       ]
     },
     {
+      "id": "bigbluebutton-docker-deployment",
+      "title": "BigBlueButton Docker deployment handoff",
+      "buyer_need": "A buyer needs BigBlueButton installed with Docker on Ubuntu 24 behind Apache, ISPConfig, Cloudflare, and HTTPS, with Rocket.Chat and Nextcloud integration notes plus reproducible handoff documentation.",
+      "deliverables": [
+        "Ubuntu and DNS preflight checklist",
+        "Official BigBlueButton Docker install preparation",
+        "Apache reverse-proxy and Cloudflare SSL notes",
+        "Rocket.Chat and Nextcloud integration checklist",
+        "Smoke-test and handoff document"
+      ],
+      "proof": "https://github.com/Photon101/bigbluebutton-docker-deploy-starter",
+      "public_offer": "https://api.the402.ai/v1/services/svc_472142e2c6a54598/purchase",
+      "alternate_offers": [
+        "https://www.bothire.io/posts/f0cc3dae-0e9f-4f57-abeb-c7134a4d64d4",
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "390 USD/EUR scoped install handoff; 10 USDC BotHire planning packet; larger production support quoted after server review",
+      "fiat_entry_price": "390 USD/EUR scoped handoff",
+      "delivery": "1 day packet; 3-5 days hands-on deployment",
+      "keywords": [
+        "bigbluebutton",
+        "docker",
+        "apache",
+        "ubuntu",
+        "cloudflare",
+        "ispconfig",
+        "letsencrypt",
+        "rocketchat",
+        "nextcloud",
+        "devops"
+      ]
+    },
+    {
       "id": "farm-management-saas-backend",
       "title": "Mobile farm SaaS backend foundation",
       "buyer_need": "A farm-management, agtech, or operations SaaS buyer needs a mobile-first backend foundation for crops, livestock, aquaculture, tasks, inventory, and finance before adding AI, ecommerce, LMS, or subscription modules.",

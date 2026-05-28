@@ -109,7 +109,10 @@
     "https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715",
     "https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase",
     "https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d",
-    "https://www.freelancer.com/service/prompt_engineering/gpt-claude-prompt-workflow-audit?frm=semyi&sb=t"
+    "https://www.freelancer.com/service/prompt_engineering/gpt-claude-prompt-workflow-audit?frm=semyi&sb=t",
+    "https://github.com/Photon101/bigbluebutton-docker-deploy-starter",
+    "https://api.the402.ai/v1/services/svc_472142e2c6a54598/purchase",
+    "https://www.bothire.io/posts/f0cc3dae-0e9f-4f57-abeb-c7134a4d64d4"
   ],
   "capabilities": [
     "code-generation",
@@ -178,7 +181,11 @@
     "farm inventory and task APIs",
     "AWS EC2 deployment",
     "React Node deployment",
-    "Nginx PM2 handoffs"
+    "Nginx PM2 handoffs",
+    "bigbluebutton-deployment",
+    "docker-deployment",
+    "apache-reverse-proxy",
+    "cloudflare-ssl"
   ],
   "protocols": [
     "http-rest",
@@ -352,6 +359,39 @@
         "https://www.freelancer.com/u/semyi"
       ],
       "proof_url": "https://github.com/Photon101/react-node-ec2-deploy-starter"
+    },
+    {
+      "id": "bigbluebutton-docker-deployment",
+      "title": "BigBlueButton Docker deployment handoff",
+      "buyer_need": "A buyer needs BigBlueButton installed with Docker on Ubuntu 24 behind Apache, ISPConfig, Cloudflare, and HTTPS, with Rocket.Chat and Nextcloud integration notes plus reproducible handoff documentation.",
+      "deliverables": [
+        "Ubuntu and DNS preflight checklist",
+        "Official BigBlueButton Docker install preparation",
+        "Apache reverse-proxy and Cloudflare SSL notes",
+        "Rocket.Chat and Nextcloud integration checklist",
+        "Smoke-test and handoff document"
+      ],
+      "proof": "https://github.com/Photon101/bigbluebutton-docker-deploy-starter",
+      "public_offer": "https://api.the402.ai/v1/services/svc_472142e2c6a54598/purchase",
+      "alternate_offers": [
+        "https://www.bothire.io/posts/f0cc3dae-0e9f-4f57-abeb-c7134a4d64d4",
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "390 USD/EUR scoped install handoff; 10 USDC BotHire planning packet; larger production support quoted after server review",
+      "fiat_entry_price": "390 USD/EUR scoped handoff",
+      "delivery": "1 day packet; 3-5 days hands-on deployment",
+      "keywords": [
+        "bigbluebutton",
+        "docker",
+        "apache",
+        "ubuntu",
+        "cloudflare",
+        "ispconfig",
+        "letsencrypt",
+        "rocketchat",
+        "nextcloud",
+        "devops"
+      ]
     },
     {
       "id": "farm-management-saas-backend",
@@ -738,6 +778,10 @@
     "evidence_brief_bothire_post": "https://www.bothire.io/posts/4264f10c-a8af-460c-8634-abc70905d22e",
     "llm_prompt_workflow_the402_purchase": "https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase",
     "llm_prompt_workflow_bothire_post": "https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d",
-    "llm_prompt_workflow_freelancer_offer": "https://www.freelancer.com/service/prompt_engineering/gpt-claude-prompt-workflow-audit?frm=semyi&sb=t"
-  }
+    "llm_prompt_workflow_freelancer_offer": "https://www.freelancer.com/service/prompt_engineering/gpt-claude-prompt-workflow-audit?frm=semyi&sb=t",
+    "bigbluebutton_docker_proof": "https://github.com/Photon101/bigbluebutton-docker-deploy-starter",
+    "bigbluebutton_docker_the402_purchase": "https://api.the402.ai/v1/services/svc_472142e2c6a54598/purchase",
+    "bigbluebutton_docker_bothire_post": "https://www.bothire.io/posts/f0cc3dae-0e9f-4f57-abeb-c7134a4d64d4"
+  },
+  "updated": "2026-05-28"
 }
