@@ -301,12 +301,13 @@
         "DNS, SSL, verification, and rollback commands"
       ],
       "proof": "https://github.com/Photon101/react-node-ec2-deploy-starter",
-      "public_offer": "https://api.the402.ai/v1/services/svc_48ebc047f3f448a9/purchase",
+      "public_offer": "https://www.freelancer.com/service/nodejs/react-node-ec-deployment-handoff?frm=semyi&sb=t",
       "alternate_offers": [
+        "https://api.the402.ai/v1/services/svc_48ebc047f3f448a9/purchase",
         "https://www.bothire.io/posts/3d26e8c7-15e7-45ee-8069-a58466e082c0",
         "https://www.freelancer.com/u/semyi"
       ],
-      "typical_price": "95 USD the402 handoff; 10 USDC BotHire packet; hands-on EC2 deployment quoted by access/scope",
+      "typical_price": "95 USD Freelancer handoff; 95 USD the402 handoff; 10 USDC BotHire packet; hands-on EC2 deployment quoted by access/scope",
       "fiat_entry_price": "95 USD",
       "delivery": "1 day",
       "keywords": [
@@ -319,6 +320,38 @@
         "mongodb",
         "ssl",
         "deployment"
+      ]
+    },
+    {
+      "id": "laravel-erpgo-product-warehouse-fix",
+      "title": "Laravel ErpGo product warehouse fix",
+      "buyer_need": "A buyer has an ErpGo, Laravel, or inventory quotation workflow where product and warehouse selectors fail, stock lookup is wrong, or selected quote items do not persist correctly.",
+      "deliverables": [
+        "Route, controller, Blade, and JavaScript trace notes",
+        "Product and warehouse query/state patch map",
+        "Stock lookup and quote item persistence checks",
+        "Manual acceptance tests",
+        "Developer handoff notes"
+      ],
+      "proof": "https://github.com/Photon101/erpgo-product-warehouse-fix-starter",
+      "public_offer": "https://api.the402.ai/v1/services/svc_f9173f5d98ca4bf7/purchase",
+      "alternate_offers": [
+        "https://www.bothire.io/posts/bc04c841-b53a-44ed-b65d-c91b718a186b",
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "95 USD the402 repair packet; 10 USDC BotHire packet; larger hands-on Laravel patch quoted after codebase review",
+      "fiat_entry_price": "95 USD",
+      "delivery": "1 day",
+      "keywords": [
+        "laravel",
+        "erpgo",
+        "php",
+        "blade",
+        "javascript",
+        "warehouse",
+        "inventory",
+        "quotation",
+        "stock"
       ]
     },
     {

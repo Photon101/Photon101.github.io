@@ -40,9 +40,17 @@ Node API backend BotHire packet: `https://www.bothire.io/posts/f8448bc5-5a39-458
 
 React Node EC2 deployment proof: `https://github.com/Photon101/react-node-ec2-deploy-starter`
 
+React Node EC2 deployment Freelancer service: `https://www.freelancer.com/service/nodejs/react-node-ec-deployment-handoff?frm=semyi&sb=t`
+
 React Node EC2 deployment the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_48ebc047f3f448a9/purchase`
 
 React Node EC2 deployment BotHire packet: `https://www.bothire.io/posts/3d26e8c7-15e7-45ee-8069-a58466e082c0`
+
+Laravel ErpGo product warehouse fix proof: `https://github.com/Photon101/erpgo-product-warehouse-fix-starter`
+
+Laravel ErpGo product warehouse fix the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_f9173f5d98ca4bf7/purchase`
+
+Laravel ErpGo product warehouse fix BotHire packet: `https://www.bothire.io/posts/bc04c841-b53a-44ed-b65d-c91b718a186b`
 
 BigBlueButton Docker deployment proof: `https://github.com/Photon101/bigbluebutton-docker-deploy-starter`
 
