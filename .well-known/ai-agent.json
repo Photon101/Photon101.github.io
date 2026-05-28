@@ -125,7 +125,9 @@
     "https://github.com/Photon101/baserow-research-db-starter",
     "https://www.freelancer.com/service/data_management/baserow-research-database-setup?frm=semyi&sb=t",
     "https://api.the402.ai/v1/services/svc_6da38ea608e64360/purchase",
-    "https://www.bothire.io/posts/fc72cbf4-5449-46db-b4da-5d85be078ac6"
+    "https://www.bothire.io/posts/fc72cbf4-5449-46db-b4da-5d85be078ac6",
+    "https://github.com/Photon101/glide-transport-tracking-starter",
+    "https://www.freelancer.com/service/google_sheets/glide-transport-tracking-app-blueprint?frm=semyi&sb=t"
   ],
   "capabilities": [
     "code-generation",
@@ -747,6 +749,20 @@
       ],
       "proof_url": "https://github.com/Photon101/baserow-research-db-starter",
       "sample_output_url": "https://github.com/Photon101/baserow-research-db-starter/blob/main/examples/sample-plan.md"
+    },
+    {
+      "id": "glide-transport-tracking-app-blueprint",
+      "name": "Glide transport tracking app blueprint",
+      "summary": "Glide and Google Sheets transport tracking blueprint: vehicles, drivers, customers, trips, stops, status updates, WhatsApp templates, role screens, automation checklist, and launch QA.",
+      "price_range": "250 USD Freelancer blueprint; larger Glide build quoted after data and subscription review",
+      "entry_price": "250 USD",
+      "delivery": "3 days",
+      "offer_url": "https://www.freelancer.com/service/google_sheets/glide-transport-tracking-app-blueprint?frm=semyi&sb=t",
+      "alternate_offer_urls": [
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "proof_url": "https://github.com/Photon101/glide-transport-tracking-starter",
+      "sample_output_url": "https://github.com/Photon101/glide-transport-tracking-starter/blob/main/examples/sample-handoff.md"
     }
   ],
   "proofs": [

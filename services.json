@@ -1031,6 +1031,36 @@
         "api integration",
         "data governance"
       ]
+    },
+    {
+      "id": "glide-transport-tracking-app-blueprint",
+      "title": "Glide transport tracking app blueprint",
+      "buyer_need": "A logistics, delivery, or field-service team needs a Glide app plan for dispatch, driver updates, customer tracking, Google Sheets data, and WhatsApp status messages before the full app is built.",
+      "deliverables": [
+        "Vehicle, driver, customer, trip, stop, status update, and WhatsApp template table plan",
+        "Google Sheets column mapping for Glide",
+        "Dispatcher, driver, customer, and admin screen plan",
+        "WhatsApp update template and automation checklist",
+        "Launch QA sequence with sample handoff output"
+      ],
+      "proof": "https://github.com/Photon101/glide-transport-tracking-starter",
+      "sample_output": "https://github.com/Photon101/glide-transport-tracking-starter/blob/main/examples/sample-handoff.md",
+      "public_offer": "https://www.freelancer.com/service/google_sheets/glide-transport-tracking-app-blueprint?frm=semyi&sb=t",
+      "alternate_offers": [
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "250 USD Freelancer blueprint; larger Glide build quoted after data and subscription review",
+      "fiat_entry_price": "250 USD",
+      "delivery": "3 days",
+      "keywords": [
+        "glide",
+        "google sheets",
+        "transport tracking",
+        "delivery tracking",
+        "whatsapp",
+        "dispatch",
+        "no-code app"
+      ]
     }
   ]
 }

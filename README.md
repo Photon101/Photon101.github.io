@@ -112,6 +112,14 @@ Baserow research database setup the402 purchase endpoint: `https://api.the402.ai
 
 Baserow research database setup BotHire packet: `https://www.bothire.io/posts/fc72cbf4-5449-46db-b4da-5d85be078ac6`
 
+Also includes Glide transport tracking app blueprints for dispatcher, driver, customer, vehicle, trip, stop, Google Sheets, and WhatsApp update flows.
+
+Glide transport tracking proof: `https://github.com/Photon101/glide-transport-tracking-starter`
+
+Glide transport tracking sample handoff: `https://github.com/Photon101/glide-transport-tracking-starter/blob/main/examples/sample-handoff.md`
+
+Glide transport tracking Freelancer service: `https://www.freelancer.com/service/google_sheets/glide-transport-tracking-app-blueprint?frm=semyi&sb=t`
+
 Also includes LLM prompt workflow audits for GPT-4 and Claude content-generation chains, with input wrapping, XML-style sections, output contracts, edge cases, and hallucination checks.
 
 LLM prompt workflow the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase`
