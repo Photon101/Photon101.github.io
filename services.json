@@ -131,6 +131,35 @@
       ]
     },
     {
+      "id": "woocommerce-liter-pricing-fix",
+      "title": "WooCommerce liter-based pricing fix",
+      "buyer_need": "A WooCommerce or Elementor store needs unit price display from a product volume meta field, IVA-inclusive calculation, category exclusions, and SEO-safe output that does not break Yoast/product schema.",
+      "deliverables": [
+        "Volume meta parsing plan for fields such as formato",
+        "IVA-inclusive unit price calculation",
+        "Gourmet or supplied category exclusion",
+        "Shortcode, Elementor-safe snippet, child-theme patch, or small plugin route",
+        "QA checklist with example product, expected display, schema safety, and rollback notes"
+      ],
+      "proof": "https://photon101.github.io/woocommerce-liter-pricing-fix.html",
+      "public_offer": "https://api.the402.ai/v1/services/svc_b3ce43546637427c/purchase",
+      "alternate_offers": [
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "95 USD the402 fixed-scope repair; larger WooCommerce work quoted after codebase review",
+      "fiat_entry_price": "95 USD",
+      "delivery": "1-2 days",
+      "keywords": [
+        "woocommerce",
+        "elementor",
+        "wordpress",
+        "unit pricing",
+        "iva",
+        "seo-safe markup",
+        "php"
+      ]
+    },
+    {
       "id": "wordpress-pricing-table",
       "title": "WordPress pricing table implementation",
       "buyer_need": "A WordPress site owner needs a clean responsive three-tier pricing table added to an existing theme or page builder without a full rebuild.",

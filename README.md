@@ -202,6 +202,11 @@ WooCommerce email notification repair:
 - the402: `https://api.the402.ai/v1/services/svc_38db9165e32a43e0/purchase`
 - BotHire: `https://www.bothire.io/posts/773e1bd3-c152-4eb9-af27-f24fb9590810`
 
+WooCommerce liter-based pricing fix:
+
+- Proof: `https://photon101.github.io/woocommerce-liter-pricing-fix.html`
+- the402: `https://api.the402.ai/v1/services/svc_b3ce43546637427c/purchase`
+
 WooCommerce booking widget cleanup:
 
 - Proof: `https://github.com/Photon101/wp-bokun-tour-template-starter`

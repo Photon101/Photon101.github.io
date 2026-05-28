@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WooCommerce Liter Pricing Fix | Photon101</title>
+  <meta name="description" content="A fixed-scope WooCommerce and Elementor service for IVA-inclusive unit pricing from product volume metadata without breaking SEO price markup.">
+  <meta name="theme-color" content="#f3f6f2">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="alternate" type="application/json" href="/services.json">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="Photon101 home">
+      <span class="brand-mark">P101</span>
+      <span>Photon101</span>
+    </a>
+    <nav id="site-nav" class="site-nav" data-site-nav>
+      <a href="/">Home</a>
+      <a href="/services.json">Catalog</a>
+      <a href="https://www.freelancer.com/u/semyi">Freelancer</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="section section-warm">
+      <div class="section-heading">
+        <p class="eyebrow">WooCommerce / Elementor</p>
+        <h1>Liter-based pricing fix</h1>
+        <p>A focused implementation for stores that need unit price display from a volume meta field, IVA-inclusive math, category exclusions, and SEO-safe output that does not override WooCommerce core price HTML.</p>
+      </div>
+
+      <div class="offer-board">
+        <article class="offer-row">
+          <div>
+            <span class="offer-meta">Fixed-scope repair</span>
+            <h2>Unit price display without schema damage</h2>
+            <p>Deliver as a shortcode, Elementor-safe snippet, child-theme patch, or small plugin depending on the site structure.</p>
+          </div>
+          <strong>$95</strong>
+          <a class="button primary compact" href="https://api.the402.ai/v1/services/svc_b3ce43546637427c/purchase">Start</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Implementation outline</p>
+        <h2>What gets checked.</h2>
+      </div>
+
+      <pre><code># WooCommerce Liter Pricing Fix Plan
+
+- Read product volume from a configured custom meta field, for example `formato`
+- Parse liter, centiliter, milliliter, and decimal-comma formats defensively
+- Calculate unit price including IVA/tax display rules
+- Exclude the `Gourmet` category or supplied category slugs
+- Render unit pricing through a shortcode, Elementor widget area, or template-safe hook
+- Do not hijack `woocommerce_get_price_html` when it would break Yoast or product schema
+- Add a small QA checklist with example product URL, expected unit price, and rollback notes</code></pre>
+    </section>
+
+    <section class="section section-warm">
+      <div class="section-heading">
+        <p class="eyebrow">Handoff</p>
+        <h2>What a paid fix includes.</h2>
+      </div>
+      <div class="signal-strip" aria-label="Deliverables">
+        <div>
+          <strong>Patch path</strong>
+          <span>Shortcode, widget, child theme, or plugin route chosen to match the site.</span>
+        </div>
+        <div>
+          <strong>Calculation proof</strong>
+          <span>Example products, meta values, IVA rule, exclusion result, and expected display.</span>
+        </div>
+        <div>
+          <strong>SEO check</strong>
+          <span>Confirmation that product price schema and existing price output remain intact.</span>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
