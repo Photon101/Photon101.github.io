@@ -119,6 +119,7 @@
     "https://api.the402.ai/v1/services/svc_424375024165407d/purchase",
     "https://www.bothire.io/posts/db59fd40-d447-49cf-b086-7e2def6dc1b5",
     "https://github.com/Photon101/moderated-stories-platform-starter",
+    "https://www.freelancer.com/service/web_development/moderated-community-platform-mvp?frm=semyi&sb=t",
     "https://api.the402.ai/v1/services/svc_ccae58dcaaeb4b4e/purchase",
     "https://www.bothire.io/posts/b4604c5e-68b1-49b0-967e-a34e67d7e913"
   ],
@@ -713,12 +714,13 @@
       "id": "moderated-community-stories-mvp",
       "name": "Moderated community stories platform MVP",
       "summary": "MVP foundation for moderated community story platforms: profiles, story submission, saved stories, reactions, moderated comments, public feed rules, moderation queue, and implementation handoff notes.",
-      "price_range": "750 USD the402 MVP packet; 10 USDC BotHire scope packet; custom Freelancer quote when the direct service draft is publishable",
+      "price_range": "750 USD Freelancer service or the402 MVP packet; 10 USDC BotHire scope packet; larger custom scope quoted after codebase review",
       "entry_price": "750 USD",
       "delivery": "7 days for MVP foundation and handoff",
       "landing_page": "https://photon101.github.io/moderated-community-stories-mvp.html",
-      "offer_url": "https://api.the402.ai/v1/services/svc_ccae58dcaaeb4b4e/purchase",
+      "offer_url": "https://www.freelancer.com/service/web_development/moderated-community-platform-mvp?frm=semyi&sb=t",
       "alternate_offer_urls": [
+        "https://api.the402.ai/v1/services/svc_ccae58dcaaeb4b4e/purchase",
         "https://www.bothire.io/posts/b4604c5e-68b1-49b0-967e-a34e67d7e913",
         "https://www.freelancer.com/u/semyi"
       ],

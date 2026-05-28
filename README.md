@@ -92,6 +92,8 @@ Moderated community stories MVP proof: `https://github.com/Photon101/moderated-s
 
 Moderated community stories MVP page: `https://photon101.github.io/moderated-community-stories-mvp.html`
 
+Moderated community stories MVP Freelancer service: `https://www.freelancer.com/service/web_development/moderated-community-platform-mvp?frm=semyi&sb=t`
+
 Moderated community stories MVP the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_ccae58dcaaeb4b4e/purchase`
 
 Moderated community stories MVP BotHire packet: `https://www.bothire.io/posts/b4604c5e-68b1-49b0-967e-a34e67d7e913`
