@@ -117,6 +117,8 @@ WooCommerce liter-based pricing fix the402 purchase endpoint: https://api.the402
 Android split APK install diagnosis proof: https://photon101.github.io/android-split-apk-install-diagnosis.html
 Freelancer Android split APK install diagnosis service: https://www.freelancer.com/service/android/android-split-apk-install-diagnosis?frm=semyi&sb=t
 Android split APK install diagnosis uGig offer: https://ugig.net/for-hire/25399159-3bb2-481d-afe5-23f1cf26938e
+Image integrity triage report proof: https://photon101.github.io/image-integrity-triage-report.html
+Image integrity triage report the402 purchase endpoint: https://api.the402.ai/v1/services/svc_a6302e85d1694a6b/purchase
 Shopify discount exclusion setup proof: https://photon101.github.io/shopify-discount-exclusion-setup.html
 Shopify discount exclusion setup Freelancer service: https://www.freelancer.com/service/shopify_site/shopify-discount-exclusion-setup?frm=semyi&sb=t
 Shopify discount exclusion setup uGig offer: https://ugig.net/for-hire/3334a812-c017-4c63-a208-f7aef9d69fa6

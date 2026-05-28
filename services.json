@@ -192,6 +192,34 @@
       ]
     },
     {
+      "id": "image-integrity-triage-report",
+      "title": "Image integrity triage report",
+      "buyer_need": "A buyer has a JPEG or PNG and needs a cautious preliminary review of whether the file shows metadata inconsistencies, visible edit clues, compression anomalies, or evidence gaps relevant to a suspected manipulation claim.",
+      "deliverables": [
+        "Metadata consistency and file-history observations",
+        "Visible anomaly notes covering edges, shadows, lighting, perspective, duplication, and object consistency",
+        "Compression/dimensions/editing-clue notes where observable",
+        "Confidence and limitation notes that separate observations from conclusions",
+        "Next evidence steps such as original-file requests, comparison images, or formal forensic escalation"
+      ],
+      "proof": "https://photon101.github.io/image-integrity-triage-report.html",
+      "public_offer": "https://api.the402.ai/v1/services/svc_a6302e85d1694a6b/purchase",
+      "alternate_offers": [
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "95 USD the402 fixed-scope triage; formal expert testimony or certified forensic work is out of scope",
+      "fiat_entry_price": "95 USD",
+      "delivery": "2 days",
+      "keywords": [
+        "image integrity",
+        "photo manipulation",
+        "jpeg metadata",
+        "image analysis",
+        "evidence report",
+        "forensic triage"
+      ]
+    },
+    {
       "id": "shopify-discount-exclusion-setup",
       "title": "Shopify discount exclusion setup",
       "buyer_need": "A Shopify store has many existing promo codes and needs one selected collection excluded from discounts while preserving discounts on eligible products in mixed carts.",

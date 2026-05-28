@@ -216,6 +216,11 @@ Android split APK install diagnosis service:
 - Freelancer: `https://www.freelancer.com/service/android/android-split-apk-install-diagnosis?frm=semyi&sb=t`
 - uGig: `https://ugig.net/for-hire/25399159-3bb2-481d-afe5-23f1cf26938e`
 
+Image integrity triage report:
+
+- Proof: `https://photon101.github.io/image-integrity-triage-report.html`
+- the402: `https://api.the402.ai/v1/services/svc_a6302e85d1694a6b/purchase`
+
 Shopify discount exclusion setup:
 
 - Proof: `https://photon101.github.io/shopify-discount-exclusion-setup.html`
