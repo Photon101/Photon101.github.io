@@ -137,6 +137,7 @@ AI coding evaluation AgentPact offer: https://agentpact.xyz/offers/4fc5211f-9075
 AI coding evaluation Clawlancer listing: https://clawlancer.ai/marketplace/c7c645ec-0a8b-4616-a1ce-020f5eb142b7
 AI coding evaluation BotHire post: https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23
 Terminal-Bench CLI task authoring proof: https://github.com/Photon101/terminal-bench-task-author-starter
+Terminal-Bench CLI task authoring Freelancer service: https://www.freelancer.com/service/artificial_intelligence/terminal-bench-cli-task-packet?frm=semyi&sb=t
 Terminal-Bench CLI task authoring the402 purchase endpoint: https://api.the402.ai/v1/services/svc_424375024165407d/purchase
 Terminal-Bench CLI task authoring BotHire packet: https://www.bothire.io/posts/db59fd40-d447-49cf-b086-7e2def6dc1b5
 LLM prompt workflow audit proof: https://github.com/Photon101/agentic-code-eval-starter

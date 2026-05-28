@@ -78,6 +78,8 @@ Also includes Terminal-Bench style CLI task authoring packets with task specs, D
 
 Terminal-Bench CLI task authoring proof: `https://github.com/Photon101/terminal-bench-task-author-starter`
 
+Terminal-Bench CLI task authoring Freelancer service: `https://www.freelancer.com/service/artificial_intelligence/terminal-bench-cli-task-packet?frm=semyi&sb=t`
+
 Terminal-Bench CLI task authoring the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_424375024165407d/purchase`
 
 Terminal-Bench CLI task authoring BotHire packet: `https://www.bothire.io/posts/db59fd40-d447-49cf-b086-7e2def6dc1b5`
