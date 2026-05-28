@@ -292,11 +292,12 @@
       "id": "woocommerce-liter-pricing-fix",
       "name": "WooCommerce liter-based pricing fix",
       "summary": "WooCommerce and Elementor repair for volume-meta unit pricing, IVA-inclusive calculations, category exclusions, and SEO-safe output that avoids hijacking core product price HTML.",
-      "price_range": "95 USD fixed-scope the402 repair; larger WooCommerce work quoted after codebase review",
+      "price_range": "95 USD Freelancer/the402 fixed-scope repair; larger WooCommerce work quoted after codebase review",
       "entry_price": "95 USD",
       "delivery": "1-2 days",
-      "offer_url": "https://api.the402.ai/v1/services/svc_b3ce43546637427c/purchase",
+      "offer_url": "https://www.freelancer.com/service/woocommerce/woocommerce-liter-pricing-fix?frm=semyi&sb=t",
       "alternate_offer_urls": [
+        "https://api.the402.ai/v1/services/svc_b3ce43546637427c/purchase",
         "https://www.freelancer.com/u/semyi"
       ],
       "proof_url": "https://photon101.github.io/woocommerce-liter-pricing-fix.html"

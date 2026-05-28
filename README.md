@@ -205,6 +205,7 @@ WooCommerce email notification repair:
 WooCommerce liter-based pricing fix:
 
 - Proof: `https://photon101.github.io/woocommerce-liter-pricing-fix.html`
+- Freelancer: `https://www.freelancer.com/service/woocommerce/woocommerce-liter-pricing-fix?frm=semyi&sb=t`
 - the402: `https://api.the402.ai/v1/services/svc_b3ce43546637427c/purchase`
 
 WooCommerce booking widget cleanup:

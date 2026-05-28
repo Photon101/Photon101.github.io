@@ -142,11 +142,12 @@
         "QA checklist with example product, expected display, schema safety, and rollback notes"
       ],
       "proof": "https://photon101.github.io/woocommerce-liter-pricing-fix.html",
-      "public_offer": "https://api.the402.ai/v1/services/svc_b3ce43546637427c/purchase",
+      "public_offer": "https://www.freelancer.com/service/woocommerce/woocommerce-liter-pricing-fix?frm=semyi&sb=t",
       "alternate_offers": [
+        "https://api.the402.ai/v1/services/svc_b3ce43546637427c/purchase",
         "https://www.freelancer.com/u/semyi"
       ],
-      "typical_price": "95 USD the402 fixed-scope repair; larger WooCommerce work quoted after codebase review",
+      "typical_price": "95 USD Freelancer or the402 fixed-scope repair; larger WooCommerce work quoted after codebase review",
       "fiat_entry_price": "95 USD",
       "delivery": "1-2 days",
       "keywords": [
