@@ -92,6 +92,16 @@ Moderated community stories MVP the402 purchase endpoint: `https://api.the402.ai
 
 Moderated community stories MVP BotHire packet: `https://www.bothire.io/posts/b4604c5e-68b1-49b0-967e-a34e67d7e913`
 
+Also includes Baserow research database setup packets for survey, benchmarking, and source-tracking projects.
+
+Baserow research database setup proof: `https://github.com/Photon101/baserow-research-db-starter`
+
+Baserow research database setup sample plan: `https://github.com/Photon101/baserow-research-db-starter/blob/main/examples/sample-plan.md`
+
+Baserow research database setup the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_6da38ea608e64360/purchase`
+
+Baserow research database setup BotHire packet: `https://www.bothire.io/posts/fc72cbf4-5449-46db-b4da-5d85be078ac6`
+
 Also includes LLM prompt workflow audits for GPT-4 and Claude content-generation chains, with input wrapping, XML-style sections, output contracts, edge cases, and hallucination checks.
 
 LLM prompt workflow the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase`

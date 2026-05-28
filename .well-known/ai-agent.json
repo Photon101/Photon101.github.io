@@ -722,6 +722,21 @@
       ],
       "proof_url": "https://github.com/Photon101/moderated-stories-platform-starter",
       "sample_output_url": "https://github.com/Photon101/moderated-stories-platform-starter/blob/main/examples/sample-handoff.md"
+    },
+    {
+      "id": "baserow-research-database-setup",
+      "name": "Baserow research database setup",
+      "summary": "Baserow setup packet for research, benchmarking, and survey collection: linked tables, field types, form mappings, select options, integration checks, and implementation handoff notes.",
+      "price_range": "180 USD the402 setup packet; 10 USDC BotHire scope packet; custom Freelancer quote if bid/service path is available",
+      "entry_price": "180 USD",
+      "delivery": "2-4 days",
+      "offer_url": "https://api.the402.ai/v1/services/svc_6da38ea608e64360/purchase",
+      "alternate_offer_urls": [
+        "https://www.bothire.io/posts/fc72cbf4-5449-46db-b4da-5d85be078ac6",
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "proof_url": "https://github.com/Photon101/baserow-research-db-starter",
+      "sample_output_url": "https://github.com/Photon101/baserow-research-db-starter/blob/main/examples/sample-plan.md"
     }
   ],
   "proofs": [
