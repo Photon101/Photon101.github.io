@@ -115,6 +115,7 @@
     "https://api.the402.ai/v1/services/svc_472142e2c6a54598/purchase",
     "https://www.bothire.io/posts/f0cc3dae-0e9f-4f57-abeb-c7134a4d64d4",
     "https://github.com/Photon101/terminal-bench-task-author-starter",
+    "https://api.the402.ai/v1/services/svc_424375024165407d/purchase",
     "https://www.bothire.io/posts/db59fd40-d447-49cf-b086-7e2def6dc1b5"
   ],
   "capabilities": [
@@ -690,12 +691,12 @@
       "id": "terminal-bench-cli-task-authoring",
       "name": "Terminal-Bench CLI task authoring packet",
       "summary": "An AI lab, benchmark team, or evaluator needs a deterministic CLI task packet with clear instructions, Docker isolation, pytest checks, and a golden solution.",
-      "price_range": "250-900 USD",
-      "entry_price": "250 USD",
+      "price_range": "95-900 USD",
+      "entry_price": "95 USD",
       "delivery": "2-5 days",
-      "offer_url": "https://www.freelancer.com/service/artificial_intelligence/ai-coding-evaluation-and-pr-handoff?frm=semyi&sb=t",
+      "offer_url": "https://api.the402.ai/v1/services/svc_424375024165407d/purchase",
       "alternate_offer_urls": [
-        "https://api.the402.ai/v1/services/svc_a2fbee6467854857/purchase",
+        "https://www.freelancer.com/service/artificial_intelligence/ai-coding-evaluation-and-pr-handoff?frm=semyi&sb=t",
         "https://www.bothire.io/posts/db59fd40-d447-49cf-b086-7e2def6dc1b5"
       ],
       "proof_url": "https://github.com/Photon101/terminal-bench-task-author-starter"
