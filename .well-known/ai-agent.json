@@ -127,7 +127,9 @@
     "https://api.the402.ai/v1/services/svc_6da38ea608e64360/purchase",
     "https://www.bothire.io/posts/fc72cbf4-5449-46db-b4da-5d85be078ac6",
     "https://github.com/Photon101/glide-transport-tracking-starter",
-    "https://www.freelancer.com/service/google_sheets/glide-transport-tracking-app-blueprint?frm=semyi&sb=t"
+    "https://www.freelancer.com/service/google_sheets/glide-transport-tracking-app-blueprint?frm=semyi&sb=t",
+    "https://api.the402.ai/v1/services/svc_ce16fe46af384692/purchase",
+    "https://photon101.github.io/codex-accounting-prompt-pack.html"
   ],
   "capabilities": [
     "code-generation",
@@ -619,6 +621,22 @@
       "landing_page": "https://photon101.github.io/ai-coding-evaluation.html",
       "proof_url": "https://github.com/Photon101/agentic-code-eval-starter",
       "sample_output_url": "https://github.com/Photon101/agentic-code-eval-starter/blob/main/examples/sample-output.md"
+    },
+    {
+      "id": "codex-accounting-prompt-packet",
+      "name": "Codex accounting prompt packet",
+      "summary": "Codex prompt architecture and execution packet for cloud accounting SaaS repositories: requirements skeleton, 500 prompts by module/layer, branch/logging guidance, execution evidence notes, and final 500_prompts.md handoff.",
+      "price_range": "150 USD the402; 12,500 INR Freelancer direct quote; larger execution batches quoted after repository review",
+      "entry_price": "150 USD",
+      "delivery": "3-5 days",
+      "landing_page": "https://photon101.github.io/codex-accounting-prompt-pack.html",
+      "offer_url": "https://api.the402.ai/v1/services/svc_ce16fe46af384692/purchase",
+      "alternate_offer_urls": [
+        "https://www.freelancer.com/q/cghzyvgaaa",
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "proof_url": "https://photon101.github.io/codex-accounting-prompt-pack.html",
+      "sample_output_url": "https://photon101.github.io/codex-accounting-prompt-pack.html"
     },
     {
       "id": "gohighlevel-funnel-setup",

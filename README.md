@@ -126,6 +126,12 @@ LLM prompt workflow the402 purchase endpoint: `https://api.the402.ai/v1/services
 
 LLM prompt workflow BotHire packet: `https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d`
 
+Also includes Codex accounting prompt packets for cloud accounting SaaS repositories: requirements skeleton, 500 prompts by module/layer, branch/logging guidance, execution evidence notes, and final `500_prompts.md` handoff.
+
+Codex accounting prompt packet proof: `https://photon101.github.io/codex-accounting-prompt-pack.html`
+
+Codex accounting prompt packet the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_ce16fe46af384692/purchase`
+
 Also includes GoHighLevel funnel setup for landing pages, opt-in forms, tags, redirects, nurture email timing, and customer routing from provided copy/templates.
 
 GoHighLevel funnel setup the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_4966cf730c4f4288/purchase`

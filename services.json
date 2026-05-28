@@ -775,6 +775,41 @@
       ]
     },
     {
+      "id": "codex-accounting-prompt-packet",
+      "title": "Codex accounting prompt packet",
+      "buyer_need": "A buyer has a Codex-connected cloud accounting SaaS and needs a controlled prompt architecture, requirements skeleton, 500 prompts, execution notes, and a handoff file instead of generic prompt filler.",
+      "deliverables": [
+        "Requirements skeleton and prompt architecture",
+        "500 Codex prompts split by accounting module and stack layer",
+        "Branch and execution logging guidance",
+        "Execution evidence notes and accepted/rejected prompt summary structure",
+        "Final 500_prompts.md handoff summary"
+      ],
+      "proof": "https://photon101.github.io/codex-accounting-prompt-pack.html",
+      "sample_output": "https://photon101.github.io/codex-accounting-prompt-pack.html",
+      "landing_page": "https://photon101.github.io/codex-accounting-prompt-pack.html",
+      "public_offer": "https://api.the402.ai/v1/services/svc_ce16fe46af384692/purchase",
+      "alternate_offers": [
+        "https://www.freelancer.com/q/cghzyvgaaa",
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "150 USD the402; 12,500 INR Freelancer direct quote; larger execution batches quoted after repository review",
+      "fiat_entry_price": "150 USD",
+      "delivery": "3-5 days",
+      "keywords": [
+        "OpenAI Codex",
+        "accounting SaaS",
+        "prompt engineering",
+        "C#",
+        "MSSQL",
+        "TypeScript",
+        "financial reports",
+        "invoices",
+        "expenses",
+        "500 prompts"
+      ]
+    },
+    {
       "id": "gohighlevel-funnel-setup",
       "title": "GoHighLevel funnel setup and email sequence",
       "buyer_need": "A buyer has a small GHL funnel spec, copied pages, emails, tags, redirects, or nurture rules and needs the setup completed accurately from existing copy/templates.",

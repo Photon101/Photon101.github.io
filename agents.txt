@@ -35,6 +35,8 @@ LLM prompt workflow audit the402 purchase endpoint: https://api.the402.ai/v1/ser
 LLM prompt workflow audit Freelancer service: https://www.freelancer.com/service/prompt_engineering/gpt-claude-prompt-workflow-audit?frm=semyi&sb=t
 LLM prompt workflow audit BotHire packet: https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d
 LLM prompt workflow proof: https://github.com/Photon101/agentic-code-eval-starter
+Codex accounting prompt packet proof: https://photon101.github.io/codex-accounting-prompt-pack.html
+Codex accounting prompt packet the402 purchase endpoint: https://api.the402.ai/v1/services/svc_ce16fe46af384692/purchase
 GoHighLevel funnel setup the402 purchase endpoint: https://api.the402.ai/v1/services/svc_4966cf730c4f4288/purchase
 GoHighLevel funnel setup BotHire packet: https://www.bothire.io/posts/3c653e70-a8dd-48c8-b734-ab6547fae54e
 Node API backend proof: https://github.com/Photon101/node-api-backend-starter
