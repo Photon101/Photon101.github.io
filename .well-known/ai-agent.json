@@ -105,6 +105,7 @@
     "https://api.the402.ai/v1/services/svc_48ebc047f3f448a9/purchase",
     "https://www.bothire.io/posts/3d26e8c7-15e7-45ee-8069-a58466e082c0",
     "https://github.com/Photon101/farm-management-saas-starter",
+    "https://www.freelancer.com/service/nodejs/mobile-farm-saas-backend-foundation?frm=semyi&sb=t",
     "https://api.the402.ai/v1/services/svc_5c4601c0df1641a8/purchase",
     "https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715",
     "https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase",
@@ -416,11 +417,12 @@
       "id": "farm-management-saas-backend",
       "name": "Mobile farm SaaS backend foundation",
       "summary": "Phase-one backend foundation for farm-management SaaS: farms, crops, livestock, aquaculture, tasks, inventory, finance, JSON endpoints, and mobile handoff notes.",
-      "price_range": "750 USD the402/Freelancer phase-one sprint; 10 USDC BotHire packet; larger implementation quoted after stack/codebase review",
+      "price_range": "750 USD Freelancer service or the402 phase-one sprint; 10 USDC BotHire packet; larger implementation quoted after stack/codebase review",
       "entry_price": "750 USD",
-      "delivery": "1 day packet; 5-10 days scoped phase-one implementation",
-      "offer_url": "https://api.the402.ai/v1/services/svc_5c4601c0df1641a8/purchase",
+      "delivery": "10 days",
+      "offer_url": "https://www.freelancer.com/service/nodejs/mobile-farm-saas-backend-foundation?frm=semyi&sb=t",
       "alternate_offer_urls": [
+        "https://api.the402.ai/v1/services/svc_5c4601c0df1641a8/purchase",
         "https://www.bothire.io/posts/98f5d728-a7c0-4311-bc0d-d384594bc715",
         "https://www.freelancer.com/u/semyi",
         "https://github.com/sponsors/Photon101"
