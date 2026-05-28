@@ -614,6 +614,22 @@ code {
   padding: 2px 5px;
 }
 
+pre {
+  background: #102018;
+  border-radius: 8px;
+  color: #f5fbf5;
+  line-height: 1.55;
+  overflow-x: auto;
+  padding: 22px;
+}
+
+pre code {
+  background: transparent;
+  border-radius: 0;
+  color: inherit;
+  padding: 0;
+}
+
 @media (max-width: 1040px) {
   .portfolio-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
