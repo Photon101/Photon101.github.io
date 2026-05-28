@@ -214,6 +214,7 @@ Android split APK install diagnosis service:
 
 - Proof: `https://photon101.github.io/android-split-apk-install-diagnosis.html`
 - Freelancer: `https://www.freelancer.com/service/android/android-split-apk-install-diagnosis?frm=semyi&sb=t`
+- uGig: `https://ugig.net/for-hire/25399159-3bb2-481d-afe5-23f1cf26938e`
 
 Shopify discount exclusion setup:
 
