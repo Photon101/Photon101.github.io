@@ -35,6 +35,8 @@
     "https://www.bothire.io/posts/f5de83fd-f04c-4bfb-83a0-26d37d46323e",
     "https://photon101.github.io/android-split-apk-install-diagnosis.html",
     "https://www.freelancer.com/service/android/android-split-apk-install-diagnosis?frm=semyi&sb=t",
+    "https://photon101.github.io/shopify-discount-exclusion-setup.html",
+    "https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase",
     "https://github.com/Photon101/wp-pricing-table-starter",
     "https://ugig.net/for-hire/09c387ec-ebbb-4efe-924b-304d699b90e9",
     "https://api.the402.ai/v1/services/svc_3f66bb8af8634517/purchase",
@@ -320,6 +322,20 @@
       ],
       "landing_page": "https://photon101.github.io/android-split-apk-install-diagnosis.html",
       "proof_url": "https://photon101.github.io/android-split-apk-install-diagnosis.html"
+    },
+    {
+      "id": "shopify-discount-exclusion-setup",
+      "name": "Shopify discount exclusion setup",
+      "summary": "Fixed-scope Shopify setup to exclude one selected collection from promo-code discounts while preserving discounts on eligible products in mixed carts.",
+      "price_range": "95 USD the402 fixed-scope setup; larger Shopify repair quoted after store/app review",
+      "entry_price": "95 USD",
+      "delivery": "2 days",
+      "offer_url": "https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase",
+      "alternate_offer_urls": [
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "landing_page": "https://photon101.github.io/shopify-discount-exclusion-setup.html",
+      "proof_url": "https://photon101.github.io/shopify-discount-exclusion-setup.html"
     },
     {
       "id": "wordpress-pricing-table",
@@ -899,6 +915,8 @@
     "wordpress_ai_seo_freelancer_offer": "https://www.freelancer.com/service/wordpress/wordpress-ai-seo-plugin-buildout?frm=semyi&sb=t",
     "wordpress_ai_seo_the402_purchase": "https://api.the402.ai/v1/services/svc_bb1f56b58ecb4c75/purchase",
     "wordpress_ai_seo_bothire_post": "https://www.bothire.io/posts/f5de83fd-f04c-4bfb-83a0-26d37d46323e",
+    "shopify_discount_exclusion_proof": "https://photon101.github.io/shopify-discount-exclusion-setup.html",
+    "shopify_discount_exclusion_the402_purchase": "https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase",
     "google_apps_script_freelancer_offer": "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t",
     "google_document_ai_ocr_freelancer_offer": "https://www.freelancer.com/service/google_cloud_platform/google-document-ai-ocr-to-excel-workflow?frm=semyi&sb=t",
     "python_web_scrape_freelancer_offer": "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t",

@@ -215,6 +215,12 @@ Android split APK install diagnosis service:
 - Proof: `https://photon101.github.io/android-split-apk-install-diagnosis.html`
 - Freelancer: `https://www.freelancer.com/service/android/android-split-apk-install-diagnosis?frm=semyi&sb=t`
 
+Shopify discount exclusion setup:
+
+- Proof: `https://photon101.github.io/shopify-discount-exclusion-setup.html`
+- the402: `https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase`
+- Freelancer profile: `https://www.freelancer.com/u/semyi`
+
 WooCommerce booking widget cleanup:
 
 - Proof: `https://github.com/Photon101/wp-bokun-tour-template-starter`

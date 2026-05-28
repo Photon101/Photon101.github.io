@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shopify Discount Exclusion Setup | Photon101</title>
+  <meta name="description" content="A fixed-scope Shopify service to exclude one collection from existing promo-code discounts while preserving discounts on eligible products in mixed carts.">
+  <meta name="theme-color" content="#f3f6f2">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="alternate" type="application/json" href="/services.json">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="Photon101 home">
+      <span class="brand-mark">P101</span>
+      <span>Photon101</span>
+    </a>
+    <nav id="site-nav" class="site-nav" data-site-nav>
+      <a href="/">Home</a>
+      <a href="/services.json">Catalog</a>
+      <a href="https://www.freelancer.com/u/semyi">Freelancer</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="section section-warm">
+      <div class="section-heading">
+        <p class="eyebrow">Shopify / discounts</p>
+        <h1>Collection discount exclusion setup</h1>
+        <p>A focused Shopify implementation for stores that need existing promo codes to stop discounting one selected collection while still discounting eligible items in mixed carts.</p>
+      </div>
+
+      <div class="offer-board">
+        <article class="offer-row">
+          <div>
+            <span class="offer-meta">Fixed-scope setup</span>
+            <h2>Discount control without recreating every promo code</h2>
+            <p>Send the store URL, excluded collection handle, sample discount codes, and example eligible/excluded products for test carts.</p>
+          </div>
+          <strong>$95</strong>
+          <a class="button primary compact" href="https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase">Start</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Implementation</p>
+        <h2>What gets handled.</h2>
+      </div>
+
+      <pre><code># Shopify Discount Exclusion Setup
+
+- Review the current discount setup, collection handle, and Shopify plan constraints
+- Choose the safest route: Shopify Functions, app configuration, Liquid-safe messaging, or discount rule cleanup
+- Preserve discounts for eligible products when the cart also contains excluded products
+- Test excluded-only, eligible-only, and mixed-cart cases
+- Document where the rule lives and how to disable, adjust, or retest it later
+- Flag any checkout/app limitation before making disruptive changes</code></pre>
+    </section>
+
+    <section class="section section-warm">
+      <div class="section-heading">
+        <p class="eyebrow">Handoff</p>
+        <h2>What the buyer receives.</h2>
+      </div>
+      <div class="signal-strip" aria-label="Deliverables">
+        <div>
+          <strong>Rule setup</strong>
+          <span>One selected collection excluded from promo-code discounts.</span>
+        </div>
+        <div>
+          <strong>Cart tests</strong>
+          <span>Mixed, excluded-only, and eligible-only cart behavior checked.</span>
+        </div>
+        <div>
+          <strong>Owner notes</strong>
+          <span>Concise instructions for future adjustments and retesting.</span>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

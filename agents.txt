@@ -116,6 +116,8 @@ Freelancer WooCommerce liter-based pricing fix service: https://www.freelancer.c
 WooCommerce liter-based pricing fix the402 purchase endpoint: https://api.the402.ai/v1/services/svc_b3ce43546637427c/purchase
 Android split APK install diagnosis proof: https://photon101.github.io/android-split-apk-install-diagnosis.html
 Freelancer Android split APK install diagnosis service: https://www.freelancer.com/service/android/android-split-apk-install-diagnosis?frm=semyi&sb=t
+Shopify discount exclusion setup proof: https://photon101.github.io/shopify-discount-exclusion-setup.html
+Shopify discount exclusion setup the402 purchase endpoint: https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase
 WooCommerce booking widget cleanup proof: https://github.com/Photon101/wp-bokun-tour-template-starter
 Freelancer WooCommerce booking widget cleanup service: https://www.freelancer.com/service/woocommerce/woocommerce-booking-widget-cleanup?frm=semyi&sb=t
 WooCommerce booking widget cleanup the402 purchase endpoint: https://api.the402.ai/v1/services/svc_7724bbeb460b4462/purchase

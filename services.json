@@ -191,6 +191,35 @@
       ]
     },
     {
+      "id": "shopify-discount-exclusion-setup",
+      "title": "Shopify discount exclusion setup",
+      "buyer_need": "A Shopify store has many existing promo codes and needs one selected collection excluded from discounts while preserving discounts on eligible products in mixed carts.",
+      "deliverables": [
+        "Discount setup review and safest implementation route",
+        "One selected collection excluded from promo-code discounts",
+        "Mixed-cart, excluded-only, and eligible-only test notes",
+        "Concise owner guide for disabling, adjusting, and retesting the rule",
+        "Conflict notes for discount apps, checkout behavior, or Shopify plan limits"
+      ],
+      "proof": "https://photon101.github.io/shopify-discount-exclusion-setup.html",
+      "public_offer": "https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase",
+      "alternate_offers": [
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "95 USD the402 fixed-scope setup; larger Shopify work quoted after store/app review",
+      "fiat_entry_price": "95 USD",
+      "delivery": "2 days",
+      "keywords": [
+        "shopify",
+        "discount codes",
+        "shopify functions",
+        "collections",
+        "cart rules",
+        "ecommerce",
+        "promotion exclusions"
+      ]
+    },
+    {
       "id": "wordpress-pricing-table",
       "title": "WordPress pricing table implementation",
       "buyer_need": "A WordPress site owner needs a clean responsive three-tier pricing table added to an existing theme or page builder without a full rebuild.",
