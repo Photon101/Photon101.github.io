@@ -74,6 +74,10 @@ Farm management SaaS backend BotHire packet: `https://www.bothire.io/posts/98f5d
 
 Also includes AI coding evaluation and PR handoff scorecards for comparing agent-written patches before merge.
 
+Also includes Terminal-Bench style CLI task authoring packets with task specs, Docker-ready scaffolds, pytest acceptance checks, golden solutions, and reproducibility audit reports.
+
+Terminal-Bench CLI task authoring proof: `https://github.com/Photon101/terminal-bench-task-author-starter`
+
 Also includes LLM prompt workflow audits for GPT-4 and Claude content-generation chains, with input wrapping, XML-style sections, output contracts, edge cases, and hallucination checks.
 
 LLM prompt workflow the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase`

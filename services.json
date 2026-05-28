@@ -936,6 +936,35 @@
         "tour template",
         "cart button cleanup"
       ]
+    },
+    {
+      "id": "terminal-bench-cli-task-authoring",
+      "title": "Terminal-Bench CLI task authoring packet",
+      "buyer_need": "An AI lab, benchmark team, or evaluator needs a deterministic CLI task packet with clear instructions, Docker isolation, pytest checks, and a golden solution.",
+      "deliverables": [
+        "Task specification and metadata",
+        "Dockerized or container-ready task scaffold",
+        "Pytest acceptance checks",
+        "Golden solution script",
+        "Reproducibility audit report"
+      ],
+      "proof": "https://github.com/Photon101/terminal-bench-task-author-starter",
+      "public_offer": "https://www.freelancer.com/service/artificial_intelligence/ai-coding-evaluation-and-pr-handoff?frm=semyi&sb=t",
+      "alternate_offers": [
+        "https://api.the402.ai/v1/services/svc_a2fbee6467854857/purchase",
+        "https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23"
+      ],
+      "typical_price": "250-900 USD",
+      "fiat_entry_price": "250 USD",
+      "delivery": "2-5 days",
+      "keywords": [
+        "terminal-bench",
+        "cli evaluation",
+        "benchmark task authoring",
+        "pytest",
+        "docker",
+        "ai evaluation"
+      ]
     }
   ]
 }

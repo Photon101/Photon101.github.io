@@ -136,6 +136,8 @@ AI coding evaluation uGig offer: https://ugig.net/for-hire/39416b1c-a74f-4d9e-9c
 AI coding evaluation AgentPact offer: https://agentpact.xyz/offers/4fc5211f-9075-43a6-b598-fe3daf7a10e4
 AI coding evaluation Clawlancer listing: https://clawlancer.ai/marketplace/c7c645ec-0a8b-4616-a1ce-020f5eb142b7
 AI coding evaluation BotHire post: https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23
+Terminal-Bench CLI task authoring proof: https://github.com/Photon101/terminal-bench-task-author-starter
+Terminal-Bench CLI task authoring offer: https://www.freelancer.com/service/artificial_intelligence/ai-coding-evaluation-and-pr-handoff?frm=semyi&sb=t
 LLM prompt workflow audit proof: https://github.com/Photon101/agentic-code-eval-starter
 LLM prompt workflow audit Freelancer service: https://www.freelancer.com/service/prompt_engineering/gpt-claude-prompt-workflow-audit?frm=semyi&sb=t
 LLM prompt workflow audit the402 purchase endpoint: https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase
@@ -154,6 +156,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - MCP server and AI agent tool safety audits.
 - x402 and agent-payment preflight reviews.
 - AI coding-agent output evaluation, PR scorecards, and maintainer-ready handoff packets.
+- Terminal-Bench style CLI benchmark task specs, Docker-ready scaffolds, pytest checks, golden solutions, and reproducibility audits.
 - LLM prompt workflow audits for GPT-4 and Claude content-generation chains, XML-style sections, output contracts, edge-case handling, and hallucination checks.
 - WordPress AI SEO content plugin buildouts.
 - WordPress pricing table shortcode/plugin implementations and responsive theme sections.
@@ -192,6 +195,7 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 - https://github.com/Photon101/list-quality-audit-starter
 - https://github.com/Photon101/report-design-starter
 - https://github.com/Photon101/agentic-code-eval-starter
+- https://github.com/Photon101/terminal-bench-task-author-starter
 - https://github.com/Photon101/github-ci-pr-rescue-starter
 - https://github.com/Photon101/support-email-classifier
 - https://github.com/Photon101/pii-redactor-starter
