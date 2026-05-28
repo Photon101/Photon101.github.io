@@ -965,6 +965,36 @@
         "docker",
         "ai evaluation"
       ]
+    },
+    {
+      "id": "moderated-community-stories-mvp",
+      "title": "Moderated community stories platform MVP",
+      "buyer_need": "A founder or community owner needs a private or public stories platform with profiles, saved posts, moderation queues, comments, and a clean handoff path before a full rebuild.",
+      "deliverables": [
+        "Profiles, story submission, saved-story, reaction, and comment domain model",
+        "Moderation queue and publish/reject workflow",
+        "Public feed and member-content route blueprint",
+        "Acceptance checklist and implementation handoff",
+        "Sample handoff report from the proof repo"
+      ],
+      "proof": "https://github.com/Photon101/moderated-stories-platform-starter",
+      "public_offer": "https://api.the402.ai/v1/services/svc_ccae58dcaaeb4b4e/purchase",
+      "alternate_offers": [
+        "https://www.bothire.io/posts/b4604c5e-68b1-49b0-967e-a34e67d7e913",
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "750 USD the402 MVP packet; 10 USDC BotHire scope packet; custom Freelancer quote when the direct service draft is publishable",
+      "fiat_entry_price": "750 USD",
+      "delivery": "7 days for MVP foundation and handoff",
+      "keywords": [
+        "community platform",
+        "moderation",
+        "stories",
+        "profiles",
+        "node.js",
+        "mvp",
+        "web development"
+      ]
     }
   ]
 }

@@ -84,6 +84,14 @@ Terminal-Bench CLI task authoring the402 purchase endpoint: `https://api.the402.
 
 Terminal-Bench CLI task authoring BotHire packet: `https://www.bothire.io/posts/db59fd40-d447-49cf-b086-7e2def6dc1b5`
 
+Also includes moderated community story platform MVP packets for profiles, story submissions, saved posts, reactions, moderated comments, public feeds, admin queues, and implementation handoff notes.
+
+Moderated community stories MVP proof: `https://github.com/Photon101/moderated-stories-platform-starter`
+
+Moderated community stories MVP the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_ccae58dcaaeb4b4e/purchase`
+
+Moderated community stories MVP BotHire packet: `https://www.bothire.io/posts/b4604c5e-68b1-49b0-967e-a34e67d7e913`
+
 Also includes LLM prompt workflow audits for GPT-4 and Claude content-generation chains, with input wrapping, XML-style sections, output contracts, edge cases, and hallucination checks.
 
 LLM prompt workflow the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase`

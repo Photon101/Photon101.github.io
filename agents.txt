@@ -20,6 +20,9 @@ Terminal-Bench CLI task authoring proof: https://github.com/Photon101/terminal-b
 Terminal-Bench CLI task authoring Freelancer service: https://www.freelancer.com/service/artificial_intelligence/terminal-bench-cli-task-packet?frm=semyi&sb=t
 Terminal-Bench CLI task authoring the402 purchase endpoint: https://api.the402.ai/v1/services/svc_424375024165407d/purchase
 Terminal-Bench CLI task authoring BotHire packet: https://www.bothire.io/posts/db59fd40-d447-49cf-b086-7e2def6dc1b5
+Moderated community stories MVP proof: https://github.com/Photon101/moderated-stories-platform-starter
+Moderated community stories MVP the402 purchase endpoint: https://api.the402.ai/v1/services/svc_ccae58dcaaeb4b4e/purchase
+Moderated community stories MVP BotHire packet: https://www.bothire.io/posts/b4604c5e-68b1-49b0-967e-a34e67d7e913
 LLM prompt workflow audit the402 purchase endpoint: https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase
 LLM prompt workflow audit Freelancer service: https://www.freelancer.com/service/prompt_engineering/gpt-claude-prompt-workflow-audit?frm=semyi&sb=t
 LLM prompt workflow audit BotHire packet: https://www.bothire.io/posts/3592995f-a0db-4aaa-a08e-01fe494a723d
