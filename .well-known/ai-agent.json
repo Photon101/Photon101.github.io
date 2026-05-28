@@ -701,6 +701,7 @@
       "price_range": "95-900 USD",
       "entry_price": "95 USD",
       "delivery": "2-5 days",
+      "landing_page": "https://photon101.github.io/terminal-bench-cli-task-authoring.html",
       "offer_url": "https://www.freelancer.com/service/artificial_intelligence/terminal-bench-cli-task-packet?frm=semyi&sb=t",
       "alternate_offer_urls": [
         "https://api.the402.ai/v1/services/svc_424375024165407d/purchase",
@@ -715,6 +716,7 @@
       "price_range": "750 USD the402 MVP packet; 10 USDC BotHire scope packet; custom Freelancer quote when the direct service draft is publishable",
       "entry_price": "750 USD",
       "delivery": "7 days for MVP foundation and handoff",
+      "landing_page": "https://photon101.github.io/moderated-community-stories-mvp.html",
       "offer_url": "https://api.the402.ai/v1/services/svc_ccae58dcaaeb4b4e/purchase",
       "alternate_offer_urls": [
         "https://www.bothire.io/posts/b4604c5e-68b1-49b0-967e-a34e67d7e913",
@@ -730,6 +732,7 @@
       "price_range": "180 USD the402 setup packet; 10 USDC BotHire scope packet; custom Freelancer quote if bid/service path is available",
       "entry_price": "180 USD",
       "delivery": "2-4 days",
+      "landing_page": "https://photon101.github.io/baserow-research-database-setup.html",
       "offer_url": "https://api.the402.ai/v1/services/svc_6da38ea608e64360/purchase",
       "alternate_offer_urls": [
         "https://www.bothire.io/posts/fc72cbf4-5449-46db-b4da-5d85be078ac6",

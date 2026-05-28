@@ -78,6 +78,8 @@ Also includes Terminal-Bench style CLI task authoring packets with task specs, D
 
 Terminal-Bench CLI task authoring proof: `https://github.com/Photon101/terminal-bench-task-author-starter`
 
+Terminal-Bench CLI task authoring page: `https://photon101.github.io/terminal-bench-cli-task-authoring.html`
+
 Terminal-Bench CLI task authoring Freelancer service: `https://www.freelancer.com/service/artificial_intelligence/terminal-bench-cli-task-packet?frm=semyi&sb=t`
 
 Terminal-Bench CLI task authoring the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_424375024165407d/purchase`
@@ -88,6 +90,8 @@ Also includes moderated community story platform MVP packets for profiles, story
 
 Moderated community stories MVP proof: `https://github.com/Photon101/moderated-stories-platform-starter`
 
+Moderated community stories MVP page: `https://photon101.github.io/moderated-community-stories-mvp.html`
+
 Moderated community stories MVP the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_ccae58dcaaeb4b4e/purchase`
 
 Moderated community stories MVP BotHire packet: `https://www.bothire.io/posts/b4604c5e-68b1-49b0-967e-a34e67d7e913`
@@ -95,6 +99,8 @@ Moderated community stories MVP BotHire packet: `https://www.bothire.io/posts/b4
 Also includes Baserow research database setup packets for survey, benchmarking, and source-tracking projects.
 
 Baserow research database setup proof: `https://github.com/Photon101/baserow-research-db-starter`
+
+Baserow research database setup page: `https://photon101.github.io/baserow-research-database-setup.html`
 
 Baserow research database setup sample plan: `https://github.com/Photon101/baserow-research-db-starter/blob/main/examples/sample-plan.md`
 

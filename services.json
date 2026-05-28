@@ -949,6 +949,7 @@
         "Reproducibility audit report"
       ],
       "proof": "https://github.com/Photon101/terminal-bench-task-author-starter",
+      "landing_page": "https://photon101.github.io/terminal-bench-cli-task-authoring.html",
       "public_offer": "https://www.freelancer.com/service/artificial_intelligence/terminal-bench-cli-task-packet?frm=semyi&sb=t",
       "alternate_offers": [
         "https://api.the402.ai/v1/services/svc_424375024165407d/purchase",
@@ -978,6 +979,7 @@
         "Sample handoff report from the proof repo"
       ],
       "proof": "https://github.com/Photon101/moderated-stories-platform-starter",
+      "landing_page": "https://photon101.github.io/moderated-community-stories-mvp.html",
       "public_offer": "https://api.the402.ai/v1/services/svc_ccae58dcaaeb4b4e/purchase",
       "alternate_offers": [
         "https://www.bothire.io/posts/b4604c5e-68b1-49b0-967e-a34e67d7e913",
@@ -1009,6 +1011,7 @@
       ],
       "proof": "https://github.com/Photon101/baserow-research-db-starter",
       "sample_output": "https://github.com/Photon101/baserow-research-db-starter/blob/main/examples/sample-plan.md",
+      "landing_page": "https://photon101.github.io/baserow-research-database-setup.html",
       "public_offer": "https://api.the402.ai/v1/services/svc_6da38ea608e64360/purchase",
       "alternate_offers": [
         "https://www.bothire.io/posts/fc72cbf4-5449-46db-b4da-5d85be078ac6",
