@@ -329,11 +329,12 @@
       "id": "shopify-discount-exclusion-setup",
       "name": "Shopify discount exclusion setup",
       "summary": "Fixed-scope Shopify setup to exclude one selected collection from promo-code discounts while preserving discounts on eligible products in mixed carts.",
-      "price_range": "95 USD the402 fixed-scope setup; larger Shopify repair quoted after store/app review",
+      "price_range": "95 USD Freelancer or the402 fixed-scope setup; larger Shopify repair quoted after store/app review",
       "entry_price": "95 USD",
       "delivery": "2 days",
-      "offer_url": "https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase",
+      "offer_url": "https://www.freelancer.com/service/shopify_site/shopify-discount-exclusion-setup?frm=semyi&sb=t",
       "alternate_offer_urls": [
+        "https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase",
         "https://www.freelancer.com/u/semyi"
       ],
       "landing_page": "https://photon101.github.io/shopify-discount-exclusion-setup.html",
@@ -933,6 +934,7 @@
     "wordpress_ai_seo_the402_purchase": "https://api.the402.ai/v1/services/svc_bb1f56b58ecb4c75/purchase",
     "wordpress_ai_seo_bothire_post": "https://www.bothire.io/posts/f5de83fd-f04c-4bfb-83a0-26d37d46323e",
     "shopify_discount_exclusion_proof": "https://photon101.github.io/shopify-discount-exclusion-setup.html",
+    "shopify_discount_exclusion_freelancer_offer": "https://www.freelancer.com/service/shopify_site/shopify-discount-exclusion-setup?frm=semyi&sb=t",
     "shopify_discount_exclusion_the402_purchase": "https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase",
     "offline_csv_dashboard_proof": "https://photon101.github.io/offline-csv-dashboard-filters.html",
     "offline_csv_dashboard_freelancer_offer": "https://www.freelancer.com/service/micropython/offline-csv-dashboard-with-filters?frm=semyi&sb=t",

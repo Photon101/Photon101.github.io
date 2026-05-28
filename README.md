@@ -218,6 +218,7 @@ Android split APK install diagnosis service:
 Shopify discount exclusion setup:
 
 - Proof: `https://photon101.github.io/shopify-discount-exclusion-setup.html`
+- Freelancer: `https://www.freelancer.com/service/shopify_site/shopify-discount-exclusion-setup?frm=semyi&sb=t`
 - the402: `https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase`
 - Freelancer profile: `https://www.freelancer.com/u/semyi`
 
