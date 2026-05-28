@@ -149,6 +149,7 @@ Moderated community stories MVP BotHire packet: https://www.bothire.io/posts/b46
 Baserow research database setup proof: https://github.com/Photon101/baserow-research-db-starter
 Baserow research database setup page: https://photon101.github.io/baserow-research-database-setup.html
 Baserow research database setup sample plan: https://github.com/Photon101/baserow-research-db-starter/blob/main/examples/sample-plan.md
+Baserow research database setup Freelancer service: https://www.freelancer.com/service/data_management/baserow-research-database-setup?frm=semyi&sb=t
 Baserow research database setup the402 purchase endpoint: https://api.the402.ai/v1/services/svc_6da38ea608e64360/purchase
 Baserow research database setup BotHire packet: https://www.bothire.io/posts/fc72cbf4-5449-46db-b4da-5d85be078ac6
 LLM prompt workflow audit proof: https://github.com/Photon101/agentic-code-eval-starter
