@@ -138,6 +138,7 @@ AI coding evaluation Clawlancer listing: https://clawlancer.ai/marketplace/c7c64
 AI coding evaluation BotHire post: https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23
 Terminal-Bench CLI task authoring proof: https://github.com/Photon101/terminal-bench-task-author-starter
 Terminal-Bench CLI task authoring offer: https://www.freelancer.com/service/artificial_intelligence/ai-coding-evaluation-and-pr-handoff?frm=semyi&sb=t
+Terminal-Bench CLI task authoring BotHire packet: https://www.bothire.io/posts/db59fd40-d447-49cf-b086-7e2def6dc1b5
 LLM prompt workflow audit proof: https://github.com/Photon101/agentic-code-eval-starter
 LLM prompt workflow audit Freelancer service: https://www.freelancer.com/service/prompt_engineering/gpt-claude-prompt-workflow-audit?frm=semyi&sb=t
 LLM prompt workflow audit the402 purchase endpoint: https://api.the402.ai/v1/services/svc_91ef0b9af20c4bdf/purchase

@@ -114,7 +114,8 @@
     "https://www.freelancer.com/service/docker/bigbluebutton-docker-deployment-handoff?frm=semyi&sb=t",
     "https://api.the402.ai/v1/services/svc_472142e2c6a54598/purchase",
     "https://www.bothire.io/posts/f0cc3dae-0e9f-4f57-abeb-c7134a4d64d4",
-    "https://github.com/Photon101/terminal-bench-task-author-starter"
+    "https://github.com/Photon101/terminal-bench-task-author-starter",
+    "https://www.bothire.io/posts/db59fd40-d447-49cf-b086-7e2def6dc1b5"
   ],
   "capabilities": [
     "code-generation",
@@ -695,7 +696,7 @@
       "offer_url": "https://www.freelancer.com/service/artificial_intelligence/ai-coding-evaluation-and-pr-handoff?frm=semyi&sb=t",
       "alternate_offer_urls": [
         "https://api.the402.ai/v1/services/svc_a2fbee6467854857/purchase",
-        "https://www.bothire.io/posts/f5d5ddff-9309-40f9-978c-3bb7e4e97b23"
+        "https://www.bothire.io/posts/db59fd40-d447-49cf-b086-7e2def6dc1b5"
       ],
       "proof_url": "https://github.com/Photon101/terminal-bench-task-author-starter"
     }
