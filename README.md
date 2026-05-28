@@ -219,6 +219,7 @@ Shopify discount exclusion setup:
 
 - Proof: `https://photon101.github.io/shopify-discount-exclusion-setup.html`
 - Freelancer: `https://www.freelancer.com/service/shopify_site/shopify-discount-exclusion-setup?frm=semyi&sb=t`
+- uGig: `https://ugig.net/for-hire/3334a812-c017-4c63-a208-f7aef9d69fa6`
 - the402: `https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase`
 - Freelancer profile: `https://www.freelancer.com/u/semyi`
 
