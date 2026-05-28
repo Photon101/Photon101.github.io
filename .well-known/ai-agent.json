@@ -37,6 +37,8 @@
     "https://www.freelancer.com/service/android/android-split-apk-install-diagnosis?frm=semyi&sb=t",
     "https://photon101.github.io/shopify-discount-exclusion-setup.html",
     "https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase",
+    "https://photon101.github.io/offline-csv-dashboard-filters.html",
+    "https://api.the402.ai/v1/services/svc_93c9c81b5bee49b1/purchase",
     "https://github.com/Photon101/wp-pricing-table-starter",
     "https://ugig.net/for-hire/09c387ec-ebbb-4efe-924b-304d699b90e9",
     "https://api.the402.ai/v1/services/svc_3f66bb8af8634517/purchase",
@@ -336,6 +338,20 @@
       ],
       "landing_page": "https://photon101.github.io/shopify-discount-exclusion-setup.html",
       "proof_url": "https://photon101.github.io/shopify-discount-exclusion-setup.html"
+    },
+    {
+      "id": "offline-csv-dashboard-filters",
+      "name": "Offline CSV dashboard with dynamic filters",
+      "summary": "Fixed-scope offline dashboard build for local CSV folders, combined filters, charts, tables, refresh behavior, and handoff notes.",
+      "price_range": "95 USD the402 fixed-scope dashboard; larger data apps quoted after sample CSV/schema review",
+      "entry_price": "95 USD",
+      "delivery": "2 days",
+      "offer_url": "https://api.the402.ai/v1/services/svc_93c9c81b5bee49b1/purchase",
+      "alternate_offer_urls": [
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "landing_page": "https://photon101.github.io/offline-csv-dashboard-filters.html",
+      "proof_url": "https://photon101.github.io/offline-csv-dashboard-filters.html"
     },
     {
       "id": "wordpress-pricing-table",
@@ -917,6 +933,8 @@
     "wordpress_ai_seo_bothire_post": "https://www.bothire.io/posts/f5de83fd-f04c-4bfb-83a0-26d37d46323e",
     "shopify_discount_exclusion_proof": "https://photon101.github.io/shopify-discount-exclusion-setup.html",
     "shopify_discount_exclusion_the402_purchase": "https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase",
+    "offline_csv_dashboard_proof": "https://photon101.github.io/offline-csv-dashboard-filters.html",
+    "offline_csv_dashboard_the402_purchase": "https://api.the402.ai/v1/services/svc_93c9c81b5bee49b1/purchase",
     "google_apps_script_freelancer_offer": "https://www.freelancer.com/service/google_sheets/google-sheets-apps-script-automation?frm=semyi&sb=t",
     "google_document_ai_ocr_freelancer_offer": "https://www.freelancer.com/service/google_cloud_platform/google-document-ai-ocr-to-excel-workflow?frm=semyi&sb=t",
     "python_web_scrape_freelancer_offer": "https://www.freelancer.com/service/python/python-web-scraping-data-pipeline?frm=semyi&sb=t",

@@ -220,6 +220,36 @@
       ]
     },
     {
+      "id": "offline-csv-dashboard-filters",
+      "title": "Offline CSV dashboard with dynamic filters",
+      "buyer_need": "A buyer has machine-generated CSV files arriving locally and needs an offline dashboard that refreshes from the folder, shows charts and tables, and supports combined filters.",
+      "deliverables": [
+        "Local dashboard package or implementation patch",
+        "CSV folder/file refresh path",
+        "Combined filters for date range, category, value range, zone, gas-flow, tube, and supplied fields",
+        "Responsive charts and tables with legends and tooltips",
+        "Sample test notes and concise handoff for adding filter fields"
+      ],
+      "proof": "https://photon101.github.io/offline-csv-dashboard-filters.html",
+      "public_offer": "https://api.the402.ai/v1/services/svc_93c9c81b5bee49b1/purchase",
+      "alternate_offers": [
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "95 USD the402 fixed-scope dashboard; larger data apps quoted after sample CSV/schema review",
+      "fiat_entry_price": "95 USD",
+      "delivery": "2 days",
+      "keywords": [
+        "python",
+        "csv dashboard",
+        "plotly",
+        "dash",
+        "streamlit",
+        "data visualization",
+        "offline dashboard",
+        "dynamic filters"
+      ]
+    },
+    {
       "id": "wordpress-pricing-table",
       "title": "WordPress pricing table implementation",
       "buyer_need": "A WordPress site owner needs a clean responsive three-tier pricing table added to an existing theme or page builder without a full rebuild.",

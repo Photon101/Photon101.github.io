@@ -221,6 +221,12 @@ Shopify discount exclusion setup:
 - the402: `https://api.the402.ai/v1/services/svc_5547a9e8eb0e4cfa/purchase`
 - Freelancer profile: `https://www.freelancer.com/u/semyi`
 
+Offline CSV dashboard with dynamic filters:
+
+- Proof: `https://photon101.github.io/offline-csv-dashboard-filters.html`
+- the402: `https://api.the402.ai/v1/services/svc_93c9c81b5bee49b1/purchase`
+- Freelancer profile: `https://www.freelancer.com/u/semyi`
+
 WooCommerce booking widget cleanup:
 
 - Proof: `https://github.com/Photon101/wp-bokun-tour-template-starter`
