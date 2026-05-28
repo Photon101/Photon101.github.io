@@ -50,6 +50,8 @@ Laravel ErpGo product warehouse fix proof: `https://github.com/Photon101/erpgo-p
 
 Laravel ErpGo product warehouse fix Freelancer service: `https://www.freelancer.com/service/laravel/laravel-erpgo-product-warehouse-fix?frm=semyi&sb=t`
 
+Laravel ErpGo product warehouse fix uGig offer: `https://ugig.net/for-hire/fa218caf-4f99-4a7b-964b-df51e196deb6`
+
 Laravel ErpGo product warehouse fix the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_f9173f5d98ca4bf7/purchase`
 
 Laravel ErpGo product warehouse fix BotHire packet: `https://www.bothire.io/posts/bc04c841-b53a-44ed-b65d-c91b718a186b`
