@@ -58,6 +58,8 @@ Laravel ErpGo product warehouse fix BotHire packet: `https://www.bothire.io/post
 
 BigBlueButton Docker deployment proof: `https://github.com/Photon101/bigbluebutton-docker-deploy-starter`
 
+BigBlueButton Docker deployment Freelancer service: `https://www.freelancer.com/service/docker/bigbluebutton-docker-deployment-handoff?frm=semyi&sb=t`
+
 BigBlueButton Docker deployment the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_472142e2c6a54598/purchase`
 
 BigBlueButton Docker deployment BotHire packet: `https://www.bothire.io/posts/f0cc3dae-0e9f-4f57-abeb-c7134a4d64d4`

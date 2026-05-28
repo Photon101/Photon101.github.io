@@ -368,14 +368,15 @@
         "Smoke-test and handoff document"
       ],
       "proof": "https://github.com/Photon101/bigbluebutton-docker-deploy-starter",
-      "public_offer": "https://api.the402.ai/v1/services/svc_472142e2c6a54598/purchase",
+      "public_offer": "https://www.freelancer.com/service/docker/bigbluebutton-docker-deployment-handoff?frm=semyi&sb=t",
       "alternate_offers": [
+        "https://api.the402.ai/v1/services/svc_472142e2c6a54598/purchase",
         "https://www.bothire.io/posts/f0cc3dae-0e9f-4f57-abeb-c7134a4d64d4",
         "https://www.freelancer.com/u/semyi"
       ],
-      "typical_price": "390 USD/EUR scoped install handoff; 10 USDC BotHire planning packet; larger production support quoted after server review",
-      "fiat_entry_price": "390 USD/EUR scoped handoff",
-      "delivery": "1 day packet; 3-5 days hands-on deployment",
+      "typical_price": "390 USD Freelancer service or the402 scoped install handoff; 10 USDC BotHire planning packet; larger production support quoted after server review",
+      "fiat_entry_price": "390 USD",
+      "delivery": "5 days",
       "keywords": [
         "bigbluebutton",
         "docker",
