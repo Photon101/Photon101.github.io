@@ -18,6 +18,8 @@ Also includes site malware cleanup and uptime triage for suspicious PHP/JavaScri
 
 Also includes WooCommerce email notification repair audits for vanished email toggles, disabled hooks, stale template overrides, SMTP failures, DMARC/SPF clues, and live test-order checklists.
 
+Also includes Android split APK install diagnosis for APK/APKS/XAPK transfer problems, Samsung compatibility errors, missing split packages, signatures, ABI/minSdk, and package conflicts.
+
 Also includes a consulting-style report design and data-visualization lane for polished client-ready reports, chart handoffs, and PDF-ready HTML packs.
 
 Also includes a GitHub CI and PR rescue lane for failing GitHub Actions, unresolved review threads, and maintainer-ready verification handoffs.
@@ -207,6 +209,11 @@ WooCommerce liter-based pricing fix:
 - Proof: `https://photon101.github.io/woocommerce-liter-pricing-fix.html`
 - Freelancer: `https://www.freelancer.com/service/woocommerce/woocommerce-liter-pricing-fix?frm=semyi&sb=t`
 - the402: `https://api.the402.ai/v1/services/svc_b3ce43546637427c/purchase`
+
+Android split APK install diagnosis service:
+
+- Proof: `https://photon101.github.io/android-split-apk-install-diagnosis.html`
+- Freelancer: `https://www.freelancer.com/service/android/android-split-apk-install-diagnosis?frm=semyi&sb=t`
 
 WooCommerce booking widget cleanup:
 

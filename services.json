@@ -161,6 +161,36 @@
       ]
     },
     {
+      "id": "android-split-apk-install-diagnosis",
+      "title": "Android split APK install diagnosis",
+      "buyer_need": "An Android user is moving an app between devices or installing an APK/APKS/XAPK package and hits a Samsung compatibility error, missing split package, signature mismatch, ABI/minSdk issue, or package/version conflict.",
+      "deliverables": [
+        "APK, APKS, XAPK, or split-package diagnosis",
+        "Device model and Android version compatibility notes",
+        "Signature, ABI, minSdk, package, and version conflict checks",
+        "Recommended first install path such as trusted split installer flow or ADB install-multiple",
+        "One follow-up after buyer testing"
+      ],
+      "proof": "https://photon101.github.io/android-split-apk-install-diagnosis.html",
+      "public_offer": "https://www.freelancer.com/service/android/android-split-apk-install-diagnosis?frm=semyi&sb=t",
+      "alternate_offers": [
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "35 USD Freelancer fixed-scope diagnosis; larger Android repair quoted after file/device review",
+      "fiat_entry_price": "35 USD",
+      "delivery": "1 day",
+      "keywords": [
+        "android",
+        "apk",
+        "apks",
+        "xapk",
+        "samsung",
+        "split apk",
+        "adb install-multiple",
+        "app compatibility"
+      ]
+    },
+    {
       "id": "wordpress-pricing-table",
       "title": "WordPress pricing table implementation",
       "buyer_need": "A WordPress site owner needs a clean responsive three-tier pricing table added to an existing theme or page builder without a full rebuild.",
