@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-05-28",
+  "updated": "2026-05-29",
   "provider": {
     "name": "Photon101",
     "homepage": "https://photon101.github.io/",
@@ -14,7 +14,7 @@
     "the402_catalog": "https://api.the402.ai/v1/services/catalog",
     "operator_country": "United Kingdom"
   },
-  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, LLM prompt workflow audits, source-cited research briefs, YouTube hook and retention notes, channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, WordPress critical-error quick fixes, site malware cleanup and uptime triage, QA evidence packets, Node.js product APIs, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, WooCommerce email repair, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
+  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, AI phone receptionist demos, LLM prompt workflow audits, source-cited research briefs, YouTube hook and retention notes, channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, WordPress critical-error quick fixes, site malware cleanup and uptime triage, QA evidence packets, Node.js product APIs, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, WooCommerce email repair, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
   "services": [
     {
       "id": "mcp-tool-safety-audit",
@@ -989,6 +989,37 @@
         "email sequence",
         "crm automation",
         "lead magnet"
+      ]
+    },
+    {
+      "id": "ai-phone-receptionist-demo-packet",
+      "title": "AI phone receptionist demo packet",
+      "buyer_need": "A small business wants to see a practical AI phone receptionist flow before funding a full production telephony, booking, or CRM integration.",
+      "deliverables": [
+        "Receptionist call-flow map",
+        "System prompt and caller-intake question set",
+        "Transcript and staff summary template",
+        "Escalation, safety, and missed-information rules",
+        "Vapi, Twilio, OpenAI, or similar implementation handoff notes"
+      ],
+      "proof": "https://photon101.github.io/ai-phone-receptionist-demo.html",
+      "landing_page": "https://photon101.github.io/ai-phone-receptionist-demo.html",
+      "public_offer": "https://api.the402.ai/v1/services/svc_c1d25972103544d8/purchase",
+      "alternate_offers": [
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "typical_price": "150 USD the402 demo packet; production launch quoted separately after call flow, booking, compliance, and CRM review",
+      "fiat_entry_price": "150 USD",
+      "delivery": "2 days for a focused demo packet when business rules are provided",
+      "keywords": [
+        "ai phone receptionist",
+        "voice ai",
+        "vapi",
+        "twilio",
+        "openai",
+        "appointment booking",
+        "call transcript",
+        "lead capture"
       ]
     },
     {

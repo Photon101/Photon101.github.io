@@ -137,7 +137,9 @@
     "https://github.com/Photon101/glide-transport-tracking-starter",
     "https://www.freelancer.com/service/google_sheets/glide-transport-tracking-app-blueprint?frm=semyi&sb=t",
     "https://api.the402.ai/v1/services/svc_ce16fe46af384692/purchase",
-    "https://photon101.github.io/codex-accounting-prompt-pack.html"
+    "https://photon101.github.io/codex-accounting-prompt-pack.html",
+    "https://photon101.github.io/ai-phone-receptionist-demo.html",
+    "https://api.the402.ai/v1/services/svc_c1d25972103544d8/purchase"
   ],
   "capabilities": [
     "code-generation",
@@ -218,7 +220,10 @@
     "story submission workflows",
     "moderation queues",
     "https://photon101.github.io/image-integrity-triage-report.html",
-    "https://api.the402.ai/v1/services/svc_a6302e85d1694a6b/purchase"
+    "https://api.the402.ai/v1/services/svc_a6302e85d1694a6b/purchase",
+    "AI phone receptionist demo packets",
+    "voice AI call-flow design",
+    "Vapi and Twilio implementation handoffs"
   ],
   "protocols": [
     "http-rest",
@@ -741,6 +746,20 @@
       "proof_url": "https://photon101.github.io/services.json"
     },
     {
+      "id": "ai-phone-receptionist-demo-packet",
+      "name": "AI phone receptionist demo packet",
+      "summary": "Build a focused voice-AI receptionist demo packet with greeting, caller intake, booking or lead-capture flow, transcript and staff summary template, escalation rules, and Vapi/Twilio/OpenAI style implementation handoff.",
+      "price_range": "150 USD the402 demo packet; production launch quoted separately after call flow, booking, compliance, and CRM review",
+      "entry_price": "150 USD",
+      "delivery": "2 days for a focused demo packet when business rules are provided",
+      "offer_url": "https://api.the402.ai/v1/services/svc_c1d25972103544d8/purchase",
+      "alternate_offer_urls": [
+        "https://www.freelancer.com/u/semyi"
+      ],
+      "landing_page": "https://photon101.github.io/ai-phone-receptionist-demo.html",
+      "proof_url": "https://photon101.github.io/ai-phone-receptionist-demo.html"
+    },
+    {
       "id": "ai-code-evaluation-handoff",
       "name": "AI coding evaluation and PR handoff",
       "summary": "Compare AI coding-agent outputs, candidate patches, CI logs, or PR handoffs and return a scored recommendation with acceptance evidence, risk notes, verification commands, and maintainer-ready handoff text.",
@@ -1001,7 +1020,9 @@
     "bigbluebutton_docker_the402_purchase": "https://api.the402.ai/v1/services/svc_472142e2c6a54598/purchase",
     "bigbluebutton_docker_bothire_post": "https://www.bothire.io/posts/f0cc3dae-0e9f-4f57-abeb-c7134a4d64d4",
     "image_integrity_triage_proof": "https://photon101.github.io/image-integrity-triage-report.html",
-    "image_integrity_triage_the402_purchase": "https://api.the402.ai/v1/services/svc_a6302e85d1694a6b/purchase"
+    "image_integrity_triage_the402_purchase": "https://api.the402.ai/v1/services/svc_a6302e85d1694a6b/purchase",
+    "ai_phone_receptionist_demo_page": "https://photon101.github.io/ai-phone-receptionist-demo.html",
+    "ai_phone_receptionist_demo_the402_purchase": "https://api.the402.ai/v1/services/svc_c1d25972103544d8/purchase"
   },
-  "updated": "2026-05-28"
+  "updated": "2026-05-29"
 }

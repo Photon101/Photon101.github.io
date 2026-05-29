@@ -140,6 +140,12 @@ GoHighLevel funnel setup the402 purchase endpoint: `https://api.the402.ai/v1/ser
 
 GoHighLevel funnel setup BotHire packet: `https://www.bothire.io/posts/3c653e70-a8dd-48c8-b734-ab6547fae54e`
 
+Also includes AI phone receptionist demo packets for small businesses that need a voice-agent call flow, intake questions, transcript and staff summary format, escalation rules, and implementation handoff before a production telephony build.
+
+AI phone receptionist demo page: `https://photon101.github.io/ai-phone-receptionist-demo.html`
+
+AI phone receptionist demo the402 purchase endpoint: `https://api.the402.ai/v1/services/svc_c1d25972103544d8/purchase`
+
 Also includes Google Sheets automation and WhatsApp notifier work for Sheets API ingestion, status-to-recipient mapping, audit logs, and policy-compliant WhatsApp Cloud API or webhook delivery.
 
 Also includes a Google Document AI OCR to Excel quick-start service for Gmail/folder intake, field extraction mapping, cleaned CSV/Excel output, validation notes, and short handoff.
