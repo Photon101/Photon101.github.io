@@ -295,6 +295,7 @@ li {
 .section-heading,
 .portfolio-grid,
 .service-grid,
+.proof-highlight,
 .proof-grid,
 .closing-panel {
   margin-left: auto;
@@ -407,6 +408,7 @@ li {
 
 .portfolio-card,
 .service-card,
+.proof-highlight,
 .proof-grid a,
 .closing-panel,
 .content-panel,
@@ -444,6 +446,7 @@ li {
 }
 
 .card-body span,
+.proof-highlight span,
 .proof-grid span,
 .service-code {
   color: var(--coral);
@@ -457,6 +460,7 @@ li {
 
 .card-body p,
 .service-card p,
+.proof-highlight p,
 .proof-grid p,
 .closing-panel p {
   color: var(--muted);
@@ -481,6 +485,30 @@ li {
   display: inline-block;
   font-weight: 800;
   margin-top: 16px;
+}
+
+.proof-highlight {
+  align-items: center;
+  background: rgba(255, 253, 248, 0.1);
+  border: 1px solid rgba(255, 253, 248, 0.22);
+  color: var(--white);
+  display: grid;
+  gap: 16px;
+  grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.4fr);
+  margin-bottom: 18px;
+  min-height: 150px;
+  padding: 26px;
+  text-decoration: none;
+}
+
+.proof-highlight strong {
+  display: block;
+  font-size: 30px;
+  line-height: 1.1;
+}
+
+.section-dark .proof-highlight p {
+  color: rgba(255, 253, 248, 0.76);
 }
 
 .proof-grid {
@@ -698,6 +726,7 @@ pre code {
   .signal-strip,
   .portfolio-grid,
   .service-grid,
+  .proof-highlight,
   .proof-grid,
   .feature-list,
   .split-heading,
