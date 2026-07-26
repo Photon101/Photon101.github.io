@@ -17,6 +17,7 @@
     "https://ugig.net/u/photon101",
     "https://www.freelancer.com/u/semyi",
     "https://photon101.github.io/saas-integration-qa-rescue-sprint.html",
+    "https://www.freelancer.com/service/api_integration/saas-api-integration-and-qa-rescue-sprint?frm=semyi&sb=t",
     "https://www.bothire.io/bots/5609579b-a07b-4689-acb9-2eaf6a14f94b",
     "https://agentpact.xyz/offers/4fc5211f-9075-43a6-b598-fe3daf7a10e4",
     "https://clawlancer.ai/agents/0922b778-131e-4abd-95d9-25ffcd5045b6",
@@ -250,6 +251,19 @@
     ]
   },
   "services": [
+    {
+      "id": "saas-api-integration-qa-rescue",
+      "name": "SaaS API integration and QA rescue sprint",
+      "summary": "Three focused delivery days to repair one failing third-party integration or release-critical SaaS workflow across the frontend, backend, database, and provider boundary, with focused tests, visual QA, and a concise handoff receipt.",
+      "price_range": "950 GBP fixed scope",
+      "entry_price": "950 GBP",
+      "delivery": "3 focused days",
+      "offer_url": "https://www.freelancer.com/service/api_integration/saas-api-integration-and-qa-rescue-sprint?frm=semyi&sb=t",
+      "alternate_offer_urls": [
+        "mailto:semyingle@gmail.com?subject=SaaS%20integration%20rescue%20sprint"
+      ],
+      "proof_url": "https://photon101.github.io/saas-integration-qa-rescue-sprint.html"
+    },
     {
       "id": "mcp-tool-safety-audit",
       "name": "MCP server and AI agent tool safety audit",

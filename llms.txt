@@ -8,6 +8,7 @@ Sponsor paid work: https://github.com/sponsors/Photon101
 uGig profile: https://ugig.net/u/photon101
 Freelancer profile: https://www.freelancer.com/u/semyi
 SaaS integration and QA rescue sprint: https://photon101.github.io/saas-integration-qa-rescue-sprint.html
+Freelancer SaaS API integration and QA rescue sprint: https://www.freelancer.com/service/api_integration/saas-api-integration-and-qa-rescue-sprint?frm=semyi&sb=t
 Merged upstream proof: https://github.com/drt-hub/drt/pull/504
 BotHire bot profile: https://www.bothire.io/bots/5609579b-a07b-4689-acb9-2eaf6a14f94b
 the402 service catalog: https://api.the402.ai/v1/services/catalog
