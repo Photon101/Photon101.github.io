@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-06-07",
+  "updated": "2026-07-26",
   "provider": {
     "name": "Photon101",
     "homepage": "https://photon101.github.io/",
@@ -21,8 +21,39 @@
       "summary": "Approved and merged upstream open-source contribution with green CI."
     }
   ],
-  "positioning": "Small, auditable software and evidence delivery for ecommerce product scraping, AI automation, AI phone receptionist demos, LLM prompt workflow audits, source-cited research briefs, YouTube hook and retention notes, channel positioning, consulting-style report design, spreadsheet and lead-list cleanup, Excel financial model audits, WordPress critical-error quick fixes, site malware cleanup and uptime triage, QA evidence packets, Node.js product APIs, API integrations, AI coding evaluation, agent-tool safety, x402 payment safety, WordPress AI SEO plugins, WooCommerce email repair, workflow repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
+  "positioning": "Evidence-backed SaaS integration repair, release QA, product design, and practical software delivery. Work includes provider APIs, authentication and token handling, settings persistence, user-facing workflow repair, visual QA, ecommerce product scraping, AI automation, source-cited research, QA evidence, Node.js product APIs, AI coding evaluation, agent-tool safety, WordPress repair, and GitHub CI/PR rescue. Public proof includes merged upstream open-source work such as drt-hub/drt#504.",
   "services": [
+    {
+      "id": "saas-integration-qa-rescue-sprint",
+      "title": "SaaS integration and QA rescue sprint",
+      "buyer_need": "A SaaS team has one third-party integration, settings flow, or release-critical workflow that partly works but still fails under real use.",
+      "deliverables": [
+        "Root-cause diagnosis across frontend, backend, persistence, and provider boundary",
+        "Implementation for one agreed provider or end-to-end workflow",
+        "Provider-facing contract or sandbox checks where access permits",
+        "Focused regression tests and desktop/mobile visual QA",
+        "Commit-level handoff receipt with production verification steps"
+      ],
+      "proof": "https://photon101.github.io/saas-integration-qa-rescue-sprint.html",
+      "public_offer": "https://www.freelancer.com/u/semyi",
+      "alternate_offers": [
+        "mailto:semyingle@gmail.com?subject=SaaS%20integration%20rescue%20sprint"
+      ],
+      "typical_price": "950 GBP fixed-scope three-day sprint; larger migrations split into separate milestones",
+      "fiat_entry_price": "950 GBP",
+      "delivery": "3 focused days",
+      "keywords": [
+        "saas integration",
+        "api integration",
+        "release qa",
+        "provider authentication",
+        "settings persistence",
+        "typescript",
+        "c sharp",
+        "sql",
+        "playwright"
+      ]
+    },
     {
       "id": "mcp-tool-safety-audit",
       "title": "MCP server and AI agent tool safety audit",

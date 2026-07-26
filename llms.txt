@@ -7,6 +7,7 @@ GitHub: https://github.com/Photon101
 Sponsor paid work: https://github.com/sponsors/Photon101
 uGig profile: https://ugig.net/u/photon101
 Freelancer profile: https://www.freelancer.com/u/semyi
+SaaS integration and QA rescue sprint: https://photon101.github.io/saas-integration-qa-rescue-sprint.html
 Merged upstream proof: https://github.com/drt-hub/drt/pull/504
 BotHire bot profile: https://www.bothire.io/bots/5609579b-a07b-4689-acb9-2eaf6a14f94b
 the402 service catalog: https://api.the402.ai/v1/services/catalog
@@ -192,6 +193,9 @@ Agent manifest: https://photon101.github.io/.well-known/ai-agent.json
 
 ## Best-Fit Work
 
+- Three-day SaaS integration and QA rescue sprints covering one failing
+  provider or release-critical workflow, including implementation,
+  provider-facing checks, persistence, visual QA, and handoff evidence.
 - MCP server and AI agent tool safety audits.
 - x402 and agent-payment preflight reviews.
 - AI coding-agent output evaluation, PR scorecards, and maintainer-ready handoff packets.
